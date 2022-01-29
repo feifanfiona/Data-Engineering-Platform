@@ -1,0 +1,11 @@
+"C:\Program Files\MongoDB\Server\5.0\bin\mongoimport" --db NYDB --collection hotel --drop --file "C:\Users\hnb04\Desktop\Class\1st quarter\data engineering platforms for analytics\group-project\dataset\data\final dataset clean\all data final\MongoDB data\hotel.json" --jsonArray
+"C:\Program Files\MongoDB\Server\5.0\bin\mongoimport" --db NYDB --collection address --drop --file "C:\Users\hnb04\Desktop\Class\1st quarter\data engineering platforms for analytics\group-project\dataset\data\final dataset clean\all data final\MongoDB data\address.json" --jsonArray
+
+"C:\Program Files\MongoDB\Server\5.0\bin\mongoimport" --db NYDB --collection airbnbHost --drop --file "C:\Users\hnb04\Desktop\Class\1st quarter\data engineering platforms for analytics\group-project\dataset\data\final dataset clean\all data final\MongoDB data\airbnbHost.json" --jsonArray
+
+"C:\Program Files\MongoDB\Server\5.0\bin\mongoimport" --db NYDB --collection airbnbName --drop --file "C:\Users\hnb04\Desktop\Class\1st quarter\data engineering platforms for analytics\group-project\dataset\data\final dataset clean\all data final\MongoDB data\airbnbName.json" --jsonArray
+
+"C:\Program Files\MongoDB\Server\5.0\bin\mongoimport" --db NYDB --collection restaurantName --drop --file "C:\Users\hnb04\Desktop\Class\1st quarter\data engineering platforms for analytics\group-project\dataset\data\final dataset clean\all data final\MongoDB data\restaurantName.json" --jsonArray
+
+"C:\Program Files\MongoDB\Server\5.0\bin\mongoimport" --db NYDB --collection hotelPropertyOwner --drop --file "C:\Users\hnb04\Desktop\Class\1st quarter\data engineering platforms for analytics\group-project\dataset\data\final dataset clean\all data final\MongoDB data\propertyOwner.json" --jsonArray
+
