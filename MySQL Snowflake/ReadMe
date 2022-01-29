@@ -1,0 +1,13 @@
+This folder contains the snowflake exericise in MySQL.
+
+Files:
+
+1. SQL File:
+Assignment3.sql
+
+2. EER Diagram:
+Assignment 3 EER.pdf
+
+3. Snowflake DDL & DML:
+SakilaSnowflakeDW-DDL.SQL
+SakilaSnowflakeDW-DML.SQL
