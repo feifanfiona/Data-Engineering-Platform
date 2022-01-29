@@ -1,0 +1,1738 @@
+address_name,address_id
+26 ANN STREET,1
+130 DUANE STREET,2
+119 ORCHARD STREET,3
+246 SPRING STREET,4
+273 WEST 11 STREET,5
+440 WEST 33 STREET,6
+325 WEST 33 STREET,7
+338 WEST 39 STREET,8
+140 WEST 28 STREET,9
+1227 BROADWAY,10
+60 WEST 37 STREET,11
+33 WEST 37 STREET,12
+27 WEST 38 STREET,13
+893 BROADWAY,14
+86 MADISON AVENUE,15
+103 EAST 29 STREET,16
+137 WEST 45 STREET,17
+155 WEST 48 STREET,18
+1335 AVENUE OF THE AMER,19
+102 WEST 57 STREET,20
+243 WEST 55 STREET,21
+870 7 AVENUE,22
+200 WEST 56 STREET,23
+440 WEST 57 STREET,24
+1 CENTRAL PARK WEST,25
+1965 BROADWAY,26
+155 WEST 66 STREET,27
+117 WEST 79 STREET,28
+47 WEST 43 STREET,29
+20 WEST 56 STREET,30
+22 WEST 56 STREET,31
+109 EAST 42 STREET,32
+45 EAST 45 STREET,33
+2 EAST 55 STREET,34
+111 EAST 48 STREET,35
+20 EAST 76 STREET,36
+235 WEST 107 STREET,37
+312 WEST 127 STREET,38
+510 EAST 185 STREET,39
+2342 BRUCKNER BOULEVARD,40
+4761 WHITE PLAINS ROAD,41
+85 FLATBUSH AVENUE EXTE,42
+61 BOND STREET,43
+128 COLUMBIA HEIGHTS,44
+107 COLUMBIA HEIGHTS,45
+419 VAN BRUNT STREET,46
+829 39 STREET,47
+1412 PITKIN AVENUE,48
+1107 DEKALB AVENUE,49
+1199 ATLANTIC AVENUE,50
+626 DRIGGS AVENUE,51
+426 SOUTH 5 STREET,52
+14 OLIVE STREET,53
+120 THATFORD AVENUE,54
+515 BLAKE AVENUE,55
+1024 FLATBUSH AVENUE,56
+5264 KINGS HIGHWAY,57
+38-61 11 STREET,58
+102-05 DITMARS BOULEVARD,59
+37-10 114 STREET,60
+112-22 ROOSEVELT AVENUE,61
+31-16 LINDEN PLACE,62
+133-12 37 AVENUE,63
+144-15 LIBERTY AVE,64
+144-02 135 AVENUE,65
+153-99 ROCKAWAY BOULEVARD,66
+Oct-74 BEACH 22 STREET,67
+35R BAY STREET,68
+1274 HYLAN BOULEVARD,69
+55 JOHN STREET,70
+20 MOTT STREET,71
+57 GANSEVOORT STREET,72
+319 WEST 35 STREET,73
+20 WEST 15 STREET,74
+842 AVENUE OF THE AMER,75
+301 FIRST AVENUE,76
+135 WEST 45 STREET,77
+150 WEST 48 STREET,78
+153 WEST 48TH STREET,79
+223 WEST 46 STREET,80
+11 WEST 51ST STREET,81
+619 WEST 113 STREET,82
+606 WEST 114 STREET,83
+626 WEST 114 STREET,84
+620 WEST 116 STREET,85
+205 WEST 135 STREET,86
+3060 BROADWAY,87
+701 ELTON AVENUE,88
+752 EAST TREMONT AVENUE,89
+2008 WEBSTER AVENUE,90
+425 EAST 179 STREET,91
+97 COLUMBIA HEIGHTS,92
+833 39TH STREET,93
+535 VAN BUREN STREET,94
+1325 ATLANTIC AVENUE,95
+292 NORTH 8TH STREET,96
+45 AINSLIE STREET,97
+232 SEIGEL STREET,98
+99 THATFORD AVENUE,99
+49 SHEFFIELD AVENUE,100
+2718 FULTON STREET,101
+3294 ATLANTIC AVENUE,102
+2518 TILDEN AVENUE,103
+2201 NEPTUNE AVENUE,104
+2316 CONEY ISLAND AVENUE,105
+5252 KINGS HIGHWAY,106
+23-20 JACKSON AVENUE,107
+32-45 4 BOULEVARD,108
+29-21 41 AVENUE,109
+38-59 11 STREET,110
+38-22 11TH STREET,111
+38-26 11TH STREET,112
+30-13 31 STREET,113
+37-10 114TH STREET,114
+134-37 35TH AVENUE,115
+36-03 PRINCE STREET,116
+133-36 37TH AVENUE,117
+147-16 97 AVENUE,118
+143-18 LIBERTY AVENUE,119
+92-32 UNION HALL STREET,120
+95-10 218 STREET,121
+142-30 135 AVENUE,122
+135-25 142 STREET,123
+1389 Washington Ave,124
+1455 Washington Avenue,125
+205 Wolf Rd,126
+62 New Scotland Ave,127
+1415 Washington Avenue,128
+660 Albany Shaker Rd,129
+3 Watervliet Avenue Ext,130
+25 Chapel St,131
+189 Wolf Rd,132
+1228 Western Ave,133
+16 Wolf Rd,134
+40 Lodge Street,135
+300 Broadway,136
+124 Washington Avenue Extension,137
+168 Wolf Rd,138
+2 Wolf Road,139
+1606 Central Avenue,140
+1614 Central Ave,141
+1442 Western Ave,142
+1379 Washington Ave,143
+42 Wolf Road,144
+188 Wolf Rd,145
+200 Wolf Rd,146
+10 Ulenski Dr,147
+1230 Western Avenue,148
+216 Wolf Rd,149
+1395 Washington Ave,150
+8 California Ave,151
+1632 Central Ave,152
+1630 Central Ave,153
+22 Holland Ave,154
+1383 Washington Avenue,155
+1600 Central Ave,156
+100 Watervliet Ave,157
+10 Metro Park Road,158
+39 Wolf Rd,159
+74 State Street,160
+144 State Street,161
+1579 Central Avenue,162
+1759 Four Mile Rd,163
+52 Pulaski St,164
+1138 Millersport Hwy,165
+10 Flint Rd,166
+1 Flint Rd,167
+42 Flint Rd,168
+100 Maple Rd,169
+1340 Millersport Hwy,170
+125 Inn Keepers Ln,171
+1290 Sweethome Rd,172
+4100 Sheridan Dr,173
+75 Inn Keepers Ln,174
+4400 Maple Rd,175
+1951 Niagara Falls Blvd,176
+3612 Main Street,177
+5020 Main Street,178
+20 Flint Road,179
+5502 Rte 30 South I 90 Exit 27,180
+Route 5S,181
+7662 State Rte 434,182
+7666 Route 434,183
+560 Saw Mill River Rd,184
+94 Business Park Dr,185
+45-20 Astoria Blvd.,186
+31-62 14th Street,187
+2 North Water Street,188
+74 State St,189
+37 William St,190
+19 McMaster St,191
+75 North St,192
+4114 E Genesee Street,193
+12 Seminary Ave,194
+4 Syracuse St,195
+131 Downer St,196
+70 Oswego Street,197
+2961 State Route 9,198
+211 Mail Rd,199
+4360 Commerce Dr,200
+8210 Park Rd,201
+4356 Commerce Dr,202
+4371 Federal Dr,203
+8200 Park Rd,204
+8250 Park Rd,205
+8204 Park Rd,206
+200a Oak St,207
+200 Oak St,208
+370 W Morris Street,209
+333 W Morris Street,210
+330 W Morris St,211
+332 W. Morris Street,212
+300 Bay Shore Rd,213
+501 E Main Street,214
+221-17 Northern Blvd,215
+215-34 Northern Blvd,216
+220-33 Northern Blvd,217
+2 E Main St,218
+249-05 Jericho Turnpike,219
+2 Sawgrass Dr,220
+4696 Chautauqua Avenue,221
+905 S Oyster Bay Rd,222
+1012 Upper Front Street,223
+2-8 Hawley Street,224
+225 Water St,225
+864 Upper Front St,226
+1000 Upper Front St,227
+690 Old Front St,228
+650 Old Front St,229
+85 Park Street,230
+400 Prospect Street,231
+4344 Milestrip Rd.,232
+10 Aero Rd,233
+1630 Lakeland Avenue,234
+19 Skyline Drive,235
+146 Maple Drive,236
+5552 Bartel Rd,237
+One Bridgehampton - Sag Harbor Turnpike,238
+97-20 Rockaway Beach Blvd,239
+4908 Lake Rd S,240
+4873 Lake Rd S,241
+6575 4th Section Rd,242
+436 East 149th Street,243
+3070-72 Webster Ave,244
+1000 Baychester Ave,245
+997 Brook Ave,246
+1922 Boston Rd,247
+East 233 Street,248
+1440 Sheridan Expy,249
+1145 Southern Blvd,250
+1776 Eastchester Rd,251
+681 Elton Ave,252
+228 Duffield Street,253
+1324 Atlantic Ave,254
+216 Duffield St,255
+85 Smith St,256
+139 33rd street,257
+160 N 12th St,258
+611 DeGraw St,259
+625 Union St,260
+370 Fourth Ave,261
+56 Franklin Ave,262
+229 Duffield St,263
+134 22nd St,264
+533 3rd Ave,265
+77 Box Street,266
+235 Meeker Ave,267
+267 3rd Ave,268
+279 Butler St,269
+8315 4th Ave,270
+2 Franklin Ave,271
+341 Broadway,272
+17 Seabring Street,273
+764 4th Ave,274
+181 3rd Ave,275
+860 Pennsylvania Avenue,276
+437 39th Street,277
+333 Adams St,278
+980 Wyckoff Ave,279
+12091 Flatlands Ave,280
+2473 Atlantic Ave,281
+107 Macon Street,282
+44 Rutland Road,283
+1156 Dean St,284
+2969 Atlantic Ave,285
+140 Hamilton Ave,286
+251 North Henry Street,287
+1420 Atlantic Avenue,288
+125 Flatbush Avenue Extension,289
+99 Meserole Avenue,290
+599 Utica Ave,291
+9 Beaver Street,292
+1412 Pitkin Ave,293
+1390 Bedford Avenue,294
+22 Sumner Place,295
+101 Sutton Street,296
+381 S 3rd St,297
+1118 36th St,298
+95 Chester Street,299
+1705 Linden Boulevard,300
+3003 Emmons Avenue,301
+416 Van Siclen Avenue,302
+300 Schermerhorn Road,303
+"Conolly Hall, Long Island University",304
+85 Flatbush Ave Extension,305
+1078 East 15 Street,306
+3218 Emmons Ave,307
+111 North 12th Street,308
+2586 Stillwell Ave,309
+457 39th Street,310
+1300 Sterling Place,311
+46 Nevins Street,312
+140 Schermerhorn Street,313
+60 Furman Street,314
+154 Washington Ave,315
+61 Jefferson Avenue,316
+524 Rockaway Avenue,317
+437 Union Avenue,318
+214 Franklin Street,319
+19 Bogart Street,320
+1080 Broadway,321
+1229 Atlantic Avenue,322
+138 Saint James Place,323
+Grand Street and Humboldt St,324
+601 Main St,325
+510 Delaware Ave,326
+125 High St,327
+200 Delaware Avenue,328
+220 Delaware Ave,329
+391 Washington St,330
+Two Fountain Plaza,331
+414 Delaware Ave,332
+"One Canalside, 125 Main Street",333
+92 Pearl Street,334
+120 Church St,335
+10 Lafayette Square,336
+95 Main St,337
+250 Delaware Ave,338
+3789 Main Street,339
+8000 Virginia Smith Drive,340
+356 Villa Roma Rd,341
+4232 Route 5 and 20,342
+330 Eastern Blvd.,343
+3770 State Route 21,344
+4926 West Lake Road,345
+4450 Eastern Blvd,346
+2920 Smith Rd,347
+3402 West Lake Rd,348
+252 North Main Street,349
+2300 Brickyard Rd,350
+5406 Bristol Valley Road Route 64,351
+377 North Peterboro Street,352
+90 E Main Street,353
+6000 US 11,354
+40 Westbury Ave,355
+20 Westbury Avenue,356
+30 N Broad St,357
+25 Lakers Ln,358
+79 Albany Street,359
+23 Centershore Road,360
+7 Courthouse Drive,361
+139 Route 32,362
+60 Centre Dr,363
+11 Kittle Road,364
+25 Palestine Avenue,365
+133 Buell Avenue,366
+901 Dick Rd,367
+100 Holtz Dr,368
+4630 Genesee St,369
+4271 Genesee Street,370
+4201 Genesee St,371
+4265 Genesee St,372
+1745 Walden Ave,373
+131 Buell Ave,374
+83 Anderson Rd,375
+760 Dick Rd,376
+107 Anderson Rd,377
+475 Dingens St,378
+601 Dingens St,379
+4345 Genesee St,380
+4243 Genesee St,381
+4217 Genesee St,382
+4600 Genesee St,383
+2040 Walden Ave,384
+3475 Union Rd,385
+1999 Walden Avenue,386
+4219 Genesee Street,387
+6461 Transit Road,388
+2 Bryle Place,389
+46 Fiddlehead Bay Rd,390
+5860 Carmenica Dr,391
+5875 Carmenica Drive,392
+901 S Bay Rd,393
+10529 Main St Rte 5,394
+9079 Main Steet,395
+9370 Main St,396
+60 Dinch Road,397
+620 Plank Rd,398
+7 Northside Dr,399
+617 Plank Road,400
+30 Clifton Country Rd,401
+41 Old Rt 146,402
+18 Clifton Park Village Rd,403
+1740 Route 9,404
+42 Clifton Country Road,405
+627 Plank Road,406
+1749 Route 9,407
+1433 Conway Road,408
+1405 Olde Road,409
+121 Burgin Drive,410
+955 East Main Street,411
+253 Harbor Road (25A),412
+680 Commack Road,413
+4758 State Highway 28,414
+50 Commons Drive,415
+3179 County Highway 33,416
+64 Chestnut  Street,417
+4909 State Hwy 28,418
+10 34th St,419
+8493 Route 77,420
+201 Townley Ave,421
+125 Denison Pkwy E,422
+66 W Pulteney St,423
+3 S Buffalo St,424
+11385 LPGA Drive,425
+1897 Ranch Lane,426
+2582 US Highway 9W,427
+118 Golden Hill Road,428
+112-15 Northern Boulevard,429
+112-26 Roosevelt Avenue,430
+112-23 Roosevelt Avenue,431
+2 River St,432
+2000 NYS Rt. 392,433
+188 Clinton Ave,434
+4.5 Locust Avenue,435
+3707 Route 281,436
+26 River St,437
+2 And One Half Locust Ave,438
+10 Church St,439
+3175 Fingerlake East Drive,440
+28 Port Watson St,441
+2B River St,442
+12600 Rt 9W,443
+12740 State Route 9 W,444
+1 N Branch Road,445
+3400 Erie Blvd E,446
+3716 Lake Shore Dr,447
+3912 Vineyard Drive,448
+30 Lake Shore Dr E,449
+3925 Vineyard Dr,450
+2752 State Route 28,451
+49 Olean St,452
+102-40 Ditmars Blvd,453
+104-04 Ditmars Blvd,454
+82-20 Astoria Blvd,455
+2345 83rd St,456
+9010 Ditmars Blvd,457
+9400 Ditmars Blvd,458
+22-40 90th Street,459
+3 Tech Valley Dr,460
+99 Miller Rd,461
+124 Troy Rd,462
+576 Columbia Turnpike,463
+25 Hampton Inn Drive,464
+6321 Northern Blvd.,465
+25 Josiah Foster Path,466
+6410 New Venture Gear Dr,467
+5908 Widewaters Pkwy,468
+6301 Route 298,469
+6555 Old Collamer Road S,470
+6415 Yorktown Cir,471
+6580 Weighlock Drive,472
+6608 Old Collamer Rd S.,473
+6004 Fair Lakes Rd,474
+6611 Old Collamer Rd South,475
+6646 Old Collamer Road South,476
+6605 Old Collamer Rd S.,477
+6550 Baptist Way,478
+6630 Old Collamer Rd S.,479
+6420 Yorktown Cir,480
+6577 Baptist Way,481
+6377 Court Street Rd,482
+6006 Fair Lakes Rd,483
+6344 East Molloy Road,484
+6620 Old Collamer Road,485
+6593 Weighlock Drive,486
+11 Mill St,487
+6447 Holiday Valley Rd,488
+76-01 Queens Blvd,489
+1600 County Route 64,490
+871 County Road 64,491
+760 E Water St,492
+323 Glen Avenue,493
+320 Glen Avenue,494
+25 Valley Ave,495
+118 West Main Street,496
+200 West Main Street,497
+540 Saw Mill River Rd,498
+749 West Main Street,499
+2603 E Main St,500
+25940 US Route 11,501
+26513 Herrick Drive,502
+199 Woodcliff Dr,503
+1980 E Main Street,504
+169 Beach 62nd Street,505
+4317 Rockaway Beach Blvd.,506
+2 Marriott Plaza,507
+727 Broadhollow Rd,508
+1 Marriott Plaza,509
+6026 Route 96,510
+6108 Loomis Rd,511
+6037 Route 96,512
+2000 North Ocean Ave.,513
+7300 E Genesee Street,514
+3025 Route 426,515
+25 Merritt Blvd,516
+849 Route 52,517
+542 Route 9,518
+544 Route 9,519
+14 Schuyler Blvd,520
+55 W Merritt Blvd,521
+17 Westage Drive,522
+25 Westage Road,523
+100 Westage Business Center Dr.,524
+20 Schuyler Blvd,525
+21 Schuyler Blvd,526
+500 Westage Business Center Drive,527
+256-15 Jericho Turnpike,528
+30 Jericho Turnpike,529
+36-31 Prince St,530
+135-33 38th Avenue,531
+133-51 39th Avenue,532
+135-21 37th Avenue,533
+113-10 Horace Harding Expressway,534
+133-43 37th Avenue,535
+135-20 39th Ave,536
+2866 College Point Blvd,537
+138-46 Northern Blvd.�,538
+3916 College Point Blvd,539
+133-42 39th Avenue,540
+3627 Prince St,541
+38 Avenue and Prince Street,542
+62nd Road 136th Street,543
+137-07 Northern Boulevard,544
+52 East Main Street,545
+10455 Bennett Road - Route 60,546
+445 S Main St,547
+6127 186th St,548
+18315 Horace Harding Expy,549
+183-31 Horace Harding Expy,550
+930 S 1st St,551
+45 7th St,552
+5 North Ave,553
+1 North Ave,554
+821 Stewart Ave,555
+4250 Lakeville Rd,556
+4242 Lakeville Rd,557
+114 Temple Hill Street,558
+41 Lake Front Blvd,559
+550 Hamilton St,560
+485 Hamilton St,561
+43 Lake St,562
+473 Hamilton St,563
+530 Hamilton St,564
+383 Hamilton St,565
+200 Dosoris Ln,566
+37 Route 9W,567
+15 Frontage Rd,568
+88 Ridge St,569
+25 Sherman Avenue,570
+20 Hatfield Ln,571
+100 Whitehaven Rd,572
+3080 Grand Island Blvd,573
+2529 Grand Island Blvd.,574
+75 N Station Plaza,575
+30 Cutter Mill Road,576
+424 Fourth Street,577
+7 Waterstone Road,578
+9221 Lake Shore Drive,579
+5085 Main Street 23A,580
+3565 Commerce Place,581
+3615 Commerce Pl,582
+5370 Camp Road,583
+5442 Camp Rd,584
+5245 Camp Rd,585
+5440 Camp Road,586
+18 Vine Street,587
+8440 State Route 54,588
+2050 Express Dr S,589
+110 Vanderbilt Motor Pkwy,590
+1717 Motor Parkway,591
+850 Veterans Memorial Hwy,592
+112 Hudson Ave,593
+5761 Rabbit Run Rd,594
+5257 W Henrietta Rd,595
+4820 W Henrietta Road,596
+4853 W Henrietta Rd,597
+905 Lehigh Station Road,598
+4635 W Henrietta Road,599
+1000 Lehigh Station Rd,600
+4695 W Henrietta Rd,601
+611 W German St,602
+&nbsp;100 Marginal Rd.,603
+429 Duffy Ave,604
+828 S Oyster Bay Rd/I-495,605
+3497 Us Highway 9w,606
+125 Tillson Avenue EXT,607
+3423 US Highway 9W,608
+34 North Road,609
+17 Main St,610
+1106 Route 9 W,611
+55 Hessian Drive,612
+873 State Route 37,613
+1730 N Ocean Ave,614
+25 Middle Ave,615
+8136 Quayle Rd,616
+21 Bykenhulle Rd,617
+Route 36 and Webb Crossing,618
+7462 Seneca Rd N,619
+1 Canisteo Sq,620
+105 E Mall Rd,621
+2666 Corning Rd,622
+35 Arnot Rd,623
+3527 Watkins Rd,624
+51 Arnot Road,625
+198 Colonial Drive,626
+2707 Westinghouse Rd,627
+4133 Route 17,628
+202 Colonial Drive,629
+164-33 CROSSBAY BLVD,630
+7760 Main Street,631
+7872 Main St,632
+135 W Gate Dr,633
+295 E Jericho Turnpike,634
+270 W Jericho Turnpike,635
+4142 Albany Post Rd,636
+1 Sherwood Place,637
+1600 Veterans Memorial Hwy,638
+130 Statler Dr,639
+2310 N Triphammer Rd,640
+359 Elmira Rd,641
+356 Elmira Rd,642
+1150 Danby Rd 96B,643
+1020 Ellis Hollow Rd,644
+36 Cinema Dr,645
+529 S Meadow St,646
+337 Elmira Rd,647
+400 S Meadow St,648
+29 Thornwood Dr,649
+2303 N Triphammer Rd,650
+654 Elmira Rd,651
+1100 Danby Rd,652
+1 Sheraton Dr,653
+130 E. Seneca Street,654
+1150 Danby Road,655
+853 Coddington Road,656
+120 S Aurora St,657
+371 Elmira Road,658
+14818 134th St,659
+14425 153rd Ln,660
+144-10 135th Avenue,661
+138 05 Jamaica Ave,662
+164-40 Hillside Ave,663
+139-09 Archer Ave.,664
+153-70 S Conduit Ave,665
+153-75 Rockaway Blvd,666
+132-26 S Conduit Ave,667
+135-30 140th Street,668
+145-11 N Conduit Ave,669
+156 08 Rockaway Blvd,670
+144-02 135th Avenue,671
+8707 Van Wyck Expy,672
+154-71 Brookville Boulevard Rosedal,673
+177-08 Liberty Ave,674
+144-26 153rd Court,675
+139-01 Jamaica Ave,676
+138-10 135th Ave,677
+153-95 Rockaway Blvd,678
+151-20 Baisley Blvd,679
+154-10 S Conduit Ave,680
+89-34 162nd Street,681
+15167 N Conduit Ave,682
+13906 Queens Blvd,683
+136-05 Cranston Street,684
+8285 Parsons Boulevard,685
+9565 Tuckerton St,686
+12804 143rd Street,687
+140-17 Queens Blvd,688
+147-05 Guy R Brewer Boulevard,689
+2800 North Main Street EXT,690
+4 W Oak Hill Rd,691
+200 W 3rd St,692
+620 Fairmount Avenue,693
+2811 North Main Street,694
+1083 Pit Road,695
+120 Jericho Turnpike,696
+440 Jericho Turnpike,697
+101 Jericho Turnpike,698
+590 Fairview Street,699
+4101 Watson Blvd,700
+630 Field St,701
+569 Harry L Dr,702
+581 Harry L Dr,703
+136 N Comrie Ave,704
+301 N Comrie Ave,705
+308 N Comrie Ave,706
+1288 Sheridan Dr,707
+30 Cherrytown Road,708
+400 Granite Rd,709
+500 Frank Sottile Blvd,710
+503 Washington Ave,711
+239 Forest Hill Dr,712
+1307 Ulster Ave,713
+487 Washington Ave,714
+114 State Route 28,715
+800 Frank Sottile Boulevard,716
+2500 Hamburg Turnpike,717
+2223 Canada St,718
+384 Canada Street,719
+4054 State Route 9L,720
+99 Canada St,721
+1533 State Route 9,722
+2159 Canada St,723
+1454 State Route 9,724
+2133 Route 9,725
+1449 State Route 9,726
+2452 State Route 9N,727
+48 Canada Street,728
+2011 State Route 9,729
+2998 Lake Shore Dr,730
+Route 9N South,731
+2447 State Route 9 N,732
+5 Canada St,733
+3 Lake Avenue,734
+3648 Lake Shore Dr,735
+2 Canada Street,736
+439 Canada St,737
+57 Canada St,738
+"Prosser Rd, 3619 State Route 9",739
+435 Canada Street,740
+3654 Lake Shore Drive,741
+365 Canada Street,742
+420 Canada Street,743
+2384 Saranac Ave,744
+801 Mirror Lake Dr,745
+6034 Sentinel Road,746
+5828 Cascade Rd,747
+1 Mirror Lake Dr.,748
+101 Olympic Dr,749
+2125 Saranac Ave,750
+5920 Cascade Rd,751
+2375 Saranac Avenue,752
+2520 Main Street,753
+2302 Saranac Ave,754
+7 Whiteface Inn Ln,755
+77 Mirror Lake Drive,756
+2625 Main Street,757
+6001 Big Tree Rd,758
+2079 East Shore Drive,759
+800 Albany Shaker Rd,760
+981 New Loudon Rd (Route 9),761
+833 New Loudon Road,762
+997 New Loudon Rd,763
+20 Airport Park Blvd,764
+681 Troy Schenectady Road,765
+7 Rensselaer Ave,766
+254 Wolf Road,767
+45 British American Blvd,768
+706 New Loudon Road,769
+831 New Loudon Rd,770
+1 Residence Inn Dr,771
+954 New Loudon Road,772
+400 Old Loudon Rd,773
+611 Troy-Schenectady Rd.,774
+5 Forts Ferry Road,775
+99 Main St,776
+655 Rockaway Tpke,777
+100 Center Street,778
+280 Portage Road,779
+230 N Water Street,780
+2067 Route 52,781
+52 Sullivan Ave,782
+219 Baker Road,783
+395 Canal Place,784
+20 Albany Street,785
+55 Douglas Street,786
+439 Electronics Pkwy,787
+401 7th North St,788
+3948 State Route 31,789
+400 7th North St,790
+275 Elwood Davis Rd,791
+136 Transistor Pkwy,792
+417 7th North St,793
+7360 Oswego Rd,794
+421 7th North Street,795
+430 Electronics Pkwy,796
+441 Electronics Pkwy,797
+3979 Route 31,798
+551 S Transit St,799
+515 S Transit Street,800
+6082 Transit Road,801
+9496 State Route 414,802
+80 West Broadway,803
+405 East Broadway,804
+3830 Crescent St,805
+29-11 39th Avenue,806
+3934 21st Street,807
+4034 Crescent St,808
+44-29 9th Street,809
+2927 40th Rd,810
+39-12 29th Street,811
+27-05 39th Avenue,812
+11-01 43rd Avenue,813
+37-18 Queens Blvd,814
+3317 Greenpoint Ave,815
+30-03 40th Ave,816
+42-24  Crescent St,817
+52-34 Van Dam Street,818
+31-36 Queens Blvd,819
+39-05 29th Street,820
+3805 Hunters Point Ave.,821
+38-71 13th St,822
+8-08 Queens Plaza South,823
+39-06 30th St.,824
+37-06 36th street,825
+38-61 12th Street,826
+29-21 41st Avenue,827
+13-02 44th Avenue,828
+38-28 27th Street,829
+44-04 21st Street,830
+40-47 22nd Street,831
+29-15 Queens Plaza North,832
+27-45 Jackson Ave,833
+2632 Skillman Avenue,834
+1 Sunrise Hwy,835
+5 Freer Street,836
+42 Finney Blvd,837
+227 W Main St,838
+3351 State Route 11,839
+101 Saratoga Village Blvd,840
+20 State Farm Pl,841
+103 Saratoga Village Boulevard,842
+4078 Route 96,843
+1177 Northern Blvd.,844
+408 County Route 40,845
+1478 Margaretville Mtn Road,846
+626 Lattintown Road,847
+60-30 Maurice Ave,848
+59-40 55th Road,849
+5080 Sunrise Highway,850
+84 Grove St,851
+10 W Orvis St,852
+15054 State highway 37,853
+3775 Us Route 11,854
+2695 Route 112,855
+2001 Route 112,856
+1350 Walt Whitman Rd,857
+100 Spagnoli Rd,858
+598 Broad Hollow Rd,859
+24 Crystal Run Xing,860
+19 Crystal Run Crossing,861
+20 Crystal Run Crossing,862
+563 Route 211 E,863
+68 Crystal Run Rd,864
+600 Route 211 East,865
+4470 State Highway 28,866
+3634 State Hwy 28,867
+220 North Road,868
+370 State Route 17M,869
+32 Star Island Rd,870
+108 S Emerson Ave,871
+290 Old Montauk Highway,872
+533 Westlake Drive,873
+207 Montgomery Rd,874
+2105 Route 208,875
+130 Clinton Street,876
+16 Raceway Rd,877
+290 Broadway,878
+392 Broadway,879
+1 Holiday Inn Dr,880
+145 Main Street,881
+130 N Main St,882
+260 W Route 59,883
+270 W Route 59,884
+425 E Route 59,885
+367 W Route 59,886
+20 Overlook Blvd,887
+6932 County Rd. 12,888
+154 N Main St,889
+4939 Route 17 M,890
+201 Woods Park Drive,891
+141 New Hartford St,892
+1777 Burrstone Rd,893
+185 Woods Park Drive,894
+4760 Middle Settlement Road,895
+7 Terwilliger Ln,896
+601 Main Street,897
+530 Main St,898
+145 Main St,899
+4 South Putt Corners Road,900
+1 Radisson Plz,901
+35 Le Count Pl,902
+915 Union Ave,903
+180 Breunig Rd,904
+310 Windsor Hwy,905
+150 E. 34th Street at Lexington Avenue,906
+870 7th Ave,907
+136 W 55th St,908
+145 East 39th Street,909
+370 Canal Street,910
+204 W 23rd Street,911
+342 W 40th St,912
+311 West 39th Street,913
+134 Fourth Avenue,914
+135 W 45th St,915
+358 W 58th St,916
+45 W 81st St,917
+201 West 55th Street,918
+1568 Broadway,919
+270 W 43rd Street,920
+235 West 46th Street,921
+1335 Avenue Of The Americas,922
+8 Stone St,923
+164 E 87th St,924
+63 W 38th St,925
+341 West 36th Street,926
+128 West 29th Street,927
+1567 Broadway At 47th St,928
+29 East 29th Street,929
+212 East 42nd Street,930
+45 E 45th Street,931
+109 W. 45TH ST.,932
+9 West 26th Street,933
+234 W 48th St,934
+20 West 29th Street,935
+233 West 49th Street,936
+570 Tenth Avenue,937
+326 W 40th Sreet,938
+303 Lexington Avenue,939
+120 W 57th St,940
+340 W 40 Street,941
+44 W 63rd St,942
+49 West 44th Street,943
+201 W 79th St,944
+52 West 36th Street,945
+12 W 44th St,946
+1535 Broadway,947
+2178 Broadway at W 77th St,948
+1717 Broadway,949
+54 Watts St,950
+851 Avenue of the Americas,951
+515 W 42nd St,952
+75 Wall St,953
+133 W 44th St,954
+30 Kenmare St,955
+145 E 50th St,956
+36 Central Park S,957
+9 Crosby Street,958
+300 W 44th St,959
+118 E 40th St,960
+851 8th Ave,961
+66 Charlton St,962
+307 W 37th St,963
+120 E 39th Street,964
+144 Washington St,965
+481 Eighth Ave.,966
+66 Park Ave,967
+21 E 52nd Street,968
+700 8th Avenue,969
+790 7th Ave,970
+1033 Avenue Of The Americas,971
+871 Seventh Ave,972
+45 W 44th St,973
+39 Avenue of the Americas,974
+152 W 26th Street,975
+301 E 94th St,976
+230 W 54th Street,977
+371 7th Ave,978
+1605 Broadway At 49th St,979
+16 E 46th St,980
+345 W 35th Street,981
+226 W 52nd St,982
+226 W 50th St,983
+31 W 71st St,984
+485 5th Ave,985
+157 West 47th Street,986
+121 W 28th St,987
+50 W 36th St,988
+232 W 29th St,989
+569 Lexington Ave,990
+215 E 64th St,991
+9 S William St,992
+55 Church Street,993
+119 W. 56th Street,994
+126 Water St,995
+93 Bowery,996
+401 7th Ave,997
+7 E 27th St,998
+145 W 44th St,999
+59 W 35th St,1000
+27 Grand St,1001
+70 West 45th St.,1002
+128 East 45th Street,1003
+228 W 47th St,1004
+111 E 56th St,1005
+210 West 55th Street,1006
+305 West 39th Street,1007
+181 Varick St,1008
+540 Park Avenue,1009
+125 W 26th St,1010
+15 West 45th Street,1011
+60 West 36th Street,1012
+790 Eighth Ave.,1013
+811 7th Ave,1014
+148 E 48th St,1015
+455 Madison Ave,1016
+25 West 51st St Entrance A,1017
+355 W 16th St,1018
+109 East 42nd Street,1019
+511 Lexington Ave at 48th St.,1020
+301 Park Avenue,1021
+131 Madison Ave,1022
+25 West 37th St,1023
+231 E 43rd St,1024
+325 W 33rd St,1025
+234 W 42nd St,1026
+330 West 40th Street,1027
+71 W 35th St,1028
+500 E 62nd St,1029
+3 E 40th St,1030
+33 West 55th Street,1031
+276 Canal Street,1032
+108 W 24th St,1033
+339 W 39th Street,1034
+235 W 35th St,1035
+302 E 45th St,1036
+One United Nations Plaza,1037
+32 Pearl St,1038
+51 Nassau St.,1039
+230 E 51st St,1040
+318 W 51st St,1041
+224 West 49th Street,1042
+209 West 87th Street,1043
+135 West 30th Street,1044
+243 W 55th St,1045
+319 W 48th St,1046
+420 Park Ave South,1047
+343 W 39th Street,1048
+5 West 63rd Street,1049
+42 W 35th St,1050
+124 E 28th,1051
+130 W 46th St,1052
+52 E 41st St,1053
+8 Albany Street,1054
+517 Lexington Avenue,1055
+548 W 48th Street,1056
+37 W 24th Street,1057
+60 E 54th St,1058
+541 Lexington Ave,1059
+130 Duane St,1060
+147 W 43rd St,1061
+69 W 38th St,1062
+65 W 54th St,1063
+653 11th Avenue,1064
+337 West 39th Street,1065
+88 Madison Avenue,1066
+123 W 57th St,1067
+300 W 22nd Street,1068
+201 E 24th St,1069
+63 West 35th Street,1070
+70 Park Ave,1071
+30 W 31st St,1072
+52 William St,1073
+103 Waverly Pl,1074
+130 East 57th Street,1075
+"449 West 36th Street, Midtown West",1076
+59 W 44th St,1077
+299 Madison Ave,1078
+538 West 48th Street,1079
+120 E 31st St,1080
+250 W 77th St,1081
+55 W 44th St,1082
+224 East 47th Street,1083
+200 West 56th Street,1084
+125 E 50th St,1085
+140 Washington St,1086
+687 Lexington Ave,1087
+160 Central Park S,1088
+151 W 54th St,1089
+22 East 38th Street,1090
+242 W 76th St,1091
+2 E 61st St,1092
+141 E 44th St,1093
+765 8th Ave,1094
+40 W 40th St,1095
+102 North End Avenue,1096
+140 Hester Street,1097
+143 Bowery,1098
+44 W 44th St,1099
+1155 Broadway,1100
+11 Rivington St,1101
+225 E 17th St,1102
+120 W 44th St,1103
+130 East 39th Street,1104
+113 Jane St,1105
+501 Lexington Ave,1106
+116 W 31 Street,1107
+2528 Broadway,1108
+12 E 31st St,1109
+242 W 49th St,1110
+1295 Madison Ave,1111
+866 3rd Avenue,1112
+341 Broome St,1113
+304 E 42nd St,1114
+107 Rivington Street,1115
+343 W 44th St,1116
+215 W 94th St,1117
+91 E Broadway,1118
+725 10th Ave,1119
+231 Grand St,1120
+114 W 40th St,1121
+85 West St,1122
+135 E Houston St,1123
+152 W 51st St,1124
+129 Front Street A,1125
+155 E 50th St,1126
+410 E 92nd St,1127
+35 E 76th St,1128
+522 W 38th St,1129
+45 W 35th St,1130
+160 W 25th St,1131
+205 E 45th St,1132
+16 E 32nd Street,1133
+429 Park Ave S,1134
+150 E 50th St,1135
+2 Lexington Ave,1136
+15 Gold Street,1137
+201 Park Ave S,1138
+20 E 76th St,1139
+309 W 14th St,1140
+116 W 28th St,1141
+2296 Frederick Douglass Boulevard,1142
+373 5th Ave,1143
+237 Madison Ave,1144
+365 Park Ave S,1145
+49 W 32nd St,1146
+37 E 64th St,1147
+28 East 63rd Street,1148
+302 W 47th St,1149
+33 Peck Slip,1150
+320 Pearl Street,1151
+273 W 38th St,1152
+101 West 57th Street at Sixth Avenue,1153
+150 Delancey St,1154
+101 Bowery,1155
+100 Orchard St,1156
+108 Forsyth St,1157
+525 Lexington Ave,1158
+85 West Broadway,1159
+61-63 Chrystie Street,1160
+700 Fifth Avenue at 55th street,1161
+145 E 49th Street,1162
+447 Lexington Avenue,1163
+132 West 45th Street,1164
+714 7th Ave,1165
+Fifth Avenue at Central Park South,1166
+40 W 45th St,1167
+95 West Broadway (at Chambers),1168
+2 West St,1169
+95 Henry St,1170
+300 W 30th St,1171
+152 E 55th St,1172
+144 E 40th Street,1173
+781 5th Ave,1174
+62 Madison Avenue,1175
+54 West 120th Street,1176
+130 W. 44th Street,1177
+125 W 45th St,1178
+57 E 57th Street,1179
+160 East 25th Street,1180
+159 Grand St,1181
+80 Columbus Circle at 60th Street,1182
+110 West 81st Street,1183
+313 West 136th Street,1184
+544 West 48 St,1185
+21 W 37th St,1186
+455 Madison Avenue,1187
+102 West 57th Street,1188
+100 E 50th St,1189
+1 Central Park W,1190
+50 Central Park S,1191
+237 West 54th Street,1192
+32 E 32nd Street,1193
+180 Tenth Avenue,1194
+45 E 33rd St,1195
+Two East 55th St,1196
+Madison Ave at 77th Street,1197
+136 West 42nd Street,1198
+206 East 52nd Street,1199
+153 West 57th Street,1200
+400 Fifth Avenue,1201
+218 West 50th Street,1202
+2130 Broadway at 75th Street,1203
+45 West 38th St,1204
+312 West 37th Street,1205
+67 Lexington Avenue,1206
+19 West 31st Street,1207
+46 W 17th St,1208
+525 Greenwich Street,1209
+147 1st Ave,1210
+258 West 97th Street,1211
+220 West 41st St.,1212
+585 8th Ave,1213
+206 West 41st Street,1214
+30 W 46th St,1215
+6 Times Square,1216
+180 West 135th Street,1217
+38 W 36th St,1218
+321 West 35th Street,1219
+218 West 35th Street,1220
+"305 West, 46th Street",1221
+111 East 48th Street,1222
+132 West 27th Street,1223
+28 West 53rd Street,1224
+114 East 32nd Street,1225
+32 West 29th Street,1226
+1600 Broadway,1227
+123 W. 28th Street,1228
+Various Addresses,1229
+161 Front Street,1230
+196 Grand Street,1231
+163 Orchard Street,1232
+1593 Second Ave,1233
+1414 Avenue of the Americas,1234
+231 Hudson Square,1235
+5 Madison Avenue,1236
+26 Vandam St,1237
+505 W 181st Street,1238
+154 Madison Street,1239
+171 Ludlow Street,1240
+170 Broadway,1241
+514 W. 168th St.,1242
+70 Pine Street,1243
+99 Washington St,1244
+49-53 Ann Street,1245
+102 Greenwich Street,1246
+137 W 111th street,1246
+235 W 107th St.,1248
+244 East 71st Street,1249
+538 W 58th St,1250
+3 W 51st Street,1251
+68 West 120 Street,1252
+West 38th Street and 6th Avenue,1253
+133 Greenwich Street,1254
+201 W 87th Street,1255
+221 East 44th Street,1256
+34 East 32nd Street,1257
+18 West 25th Street,1258
+815 Ave of the Americas,1259
+38 West 31st Street,1260
+120 Allen Street,1261
+790 7th Ave.,1262
+250 East 50th Street,1263
+953 Columbus Avenue,1264
+135 West 28th Street,1265
+27 Barclay St,1266
+6 Platt St,1267
+65 East 129th Street,1268
+11 East 31st Street,1269
+145 East 47th Street,1270
+200 W 56th St,1271
+11 Howard Street,1272
+239 East 51st Street Apartment 1E,1273
+123 Nassau Street,1274
+17 East 67th Street,1275
+769-779 9th Avenue,1276
+3 Mitchell Place,1277
+350 W 40th St,1278
+"50 Bowery, East Village",1279
+42 West 58th Street,1280
+5 Allen Street,1281
+222 East 39th Street,1282
+84 William Street,1283
+943 Columbus Avenue,1284
+446 10th Ave,1285
+18 9th Avenue at 13th street,1286
+320 W 36th St,1287
+160 W 56th St New York,1288
+230 W 101st St,1289
+440 West 57th Street,1290
+465 Central Park West,1291
+127 West 28th Street,1292
+60 West 37th Street,1293
+154th Street,1294
+326 W 37th St,1295
+125 North Main Street,1296
+90 Rt. 17K,1297
+1289 Route 300,1298
+95 Route 17K,1299
+4 Governor Dr,1300
+5 Lakeside Rd,1301
+1287 Route 300,1302
+9500 Niagara Falls Blvd,1303
+6501 Niagara Falls Blvd,1304
+10111 Niagara Falls Blvd,1305
+7680 Niagara Falls Blvd,1306
+7001 Buffalo Ave,1307
+5919 Niagara Falls Blvd,1308
+7811 Niagara Falls Blvd,1309
+501 Rainbow Blvd,1310
+454 Main St,1311
+2 Buffalo Ave,1312
+222 First Street,1313
+2821 Niagara Falls Blvd,1314
+114 Buffalo Ave,1315
+300 3rd St,1316
+9802 Niagara Falls Blvd,1317
+6831 Niagara Falls Blvd,1318
+7708 Niagara Falls Blvd,1319
+1 Prospect Pointe,1320
+310 4th St,1321
+9100 Niagara Falls Blvd,1322
+6621 Niagara Falls Blvd,1323
+9401 Niagara Falls Blvd,1324
+240 1st Street,1325
+6505 Niagara Falls Blvd,1326
+443 Main St,1327
+9001 Niagara Falls Blvd,1328
+6817 Niagara Falls Boulevard,1329
+6508 Buffalo Ave,1330
+6734 Niagara Falls Boulevard,1331
+643 Rainbow Blvd,1332
+7804 Niagara Falls Blvd,1333
+2754 Niagara Falls Blvd,1334
+9393 Niagara Falls Blvd,1335
+200 Rainbow Blvd,1336
+492 Main St,1337
+333 Rainbow Blvd,1338
+6225 Niagara Falls Blvd,1339
+401 Buffalo Ave,1340
+7726 Niagara Falls Blvd,1341
+264 Main Street,1342
+5418 S Bay Road,1343
+900 Colonel Eileen Collins Boulevard,1344
+6701 Buckley Rd,1345
+5414 South Bay Road Town of Salina,1346
+5396 S Bay Rd,1347
+2914 Brewerton Rd,1348
+6067 State Highway 12,1349
+75 N Broad St,1350
+47 Route 59,1351
+26 Route 59,1352
+400 High Avenue,1353
+6765 State Highway 37,1354
+101 Main St,1355
+3234 Nys Route 417,1356
+3051 W State Street Olean,1357
+3270 Route 417,1358
+1314 County Route 29,1359
+215 Genesee Street,1360
+116 Courtyard Dr,1361
+55 Market St,1362
+225 River St,1363
+5206 State Highway 23,1364
+4973 St Hwy 23,1365
+440 State Route 104,1366
+3 Stevens Way,1367
+329 Route 303,1368
+5920 Airport Rd,1369
+26 E 1st Street,1370
+101 State Route 104,1371
+309 W Seneca St,1372
+140 E 13th St,1373
+70 E 1st St,1374
+1917 County Route 1,1375
+20 Hickory Park Rd,1376
+1030 State Route 17c,1377
+1100 State Route 17C,1378
+137-30 Redding Street,1379
+137-08 Redding Street,1380
+304 S Hamilton St,1381
+9775 Victory Highway,1382
+196 South Hamilton St.,1383
+200 Robert Dann Blvd,1384
+248 Town Center Rd,1385
+255 South Hamilton Street,1386
+93 East Grand Street,1387
+334 Route 9W,1388
+500 Veterans Memorial Dr,1389
+2 John Walsh Boulevard,1390
+634 Main Street,1391
+142 Lake St,1392
+128 South Avenue,1393
+124 Elm St,1394
+110 Mace Street,1395
+1135 Rte 96,1396
+123 Birch Creek Road,1397
+207 Glenwood Road,1398
+800 Pittsford Victor Rd,1399
+41 N Main St,1400
+1575 Round Swamp Rd,1401
+1585 Round Swamp Rd,1402
+215 Sunnyside Blvd,1403
+333 S Service Rd,1404
+9 Gerhard Rd,1405
+446 Route 3,1406
+16 Plaza Blvd,1407
+8 Everleth Drive,1408
+411 Rt. 3,1409
+528 Route 3,1410
+412 State Route 3,1411
+554 State Route 3,1412
+586 State Route 3,1413
+19 Booth Drive,1414
+7129 Route 9,1415
+579 Route 3,1416
+25 E Broadway,1417
+1371 ROUTE 112,1418
+2247 Greenville Tpke,1419
+433 Main St,1420
+1 Main St,1421
+169 Market Street,1422
+536 Haight Ave,1423
+2641 South Rd,1424
+2750 South Road,1425
+2625 South Road,1426
+50 Red Oaks Mill Rd,1427
+2170 South Road,1428
+2361 South Rd,1429
+2525 South Rd,1430
+"2349 South Rd, Route 9",1431
+7351 State Route 3,1432
+3723-3724 State Route 13,1433
+3800 State Route 13,1434
+866 Mountain Avenue,1435
+220 - 16 Jamaica Avenue,1436
+1130 Route 9,1437
+906 State Route 9,1438
+89 Six Flags Dr,1439
+547 Aviation Rd,1440
+191 Corinth Road,1441
+543 Aviation Rd,1442
+931 US Route 9,1443
+24 Big Boom Rd,1444
+1 Abbey Ln,1445
+RD 3 Duck Lake Road,1446
+7460 S. Broadway,1447
+61-18 93rd St,1448
+110 Columbia Turnpike,1449
+8 Empire Dr,1450
+10 Gould Ave,1451
+1707 Old Country Rd,1452
+451 East Main Street,1453
+1830 W Main St,1454
+2038 Old Country Rd,1455
+30 Lake Avenue,1456
+1433 W Main St,1457
+384 East Avenue,1458
+2835 Monroe Avenue,1459
+400 Center Place Dr,1460
+280 Clay Rd,1461
+3258 Chili Ave,1462
+1501 Ridge Rd W,1463
+120 East Main Street,1464
+1323 E Ridge Rd,1465
+1111 Jefferson Rd,1466
+2085 Hylan Dr,1467
+550 East Ave,1468
+125 East Main Street,1469
+940 Jefferson Rd,1470
+2729 Monroe Ave,1471
+500 Center Place Dr,1472
+600 Center Place Dr,1473
+400 Paddy Creek Cir,1474
+700 Commons Way,1475
+2095 Hylan Dr,1476
+1890 Ridge Rd W,1477
+1635 W Ridge Road,1478
+1300 Jefferson Rd,1479
+35 Argyle Street,1480
+2200 Goodman St N,1481
+26 Broadway,1482
+70 State St,1483
+500 Paddy Creek Cir,1484
+1000 Linden Park,1485
+2323 Monroe Avenue,1486
+999 Jefferson Road,1487
+717 E Henrietta Rd,1488
+797 E. Henrietta Rd,1489
+800 Jefferson Rd,1490
+33 Corporate Woods,1491
+1000 Genesee St,1492
+911 Brooks Ave,1493
+395 Buell Road,1494
+1273 Chili Ave,1495
+1200 Brooks Ave,1496
+175 Jefferson Road,1497
+30 Celebration Drive,1498
+155 Buell Rd,1499
+3990 W Henrietta Road,1500
+155 E Main St,1501
+950 Panorama Trail South,1502
+283 Rock Hill Drive,1503
+78 Katrina Falls Road,1504
+173 Sunrise Hwy,1505
+1000 Sunrise Hwy,1506
+125 Merrick Rd,1507
+415 Ocean Avenue,1508
+1352 Floyd Avenue,1509
+90 Dart Cir,1510
+200 S James St,1511
+"7900 Turin Road, Rt 26",1512
+799 Lawrence St,1513
+3485 Veterans Memorial Hwy,1514
+5000 Express Dr S,1515
+3055 Veterans Memorial Hwy,1516
+435 Main Street,1517
+1221 Old Northern Blvd,1518
+1053 Northern Boulevard,1519
+3 Harbor Park Drive,1520
+631 Midland Ave,1521
+975 Anderson Hill Rd,1522
+699 Westchester Ave,1523
+202 West Main Street,1524
+779 Broad St,1525
+777 Seneca Allegany Blvd,1526
+25 Orrs Mills Road,1527
+1150 Kiwassa Lake Rd,1528
+487 Lake Flower Avenue,1529
+534 Broadway,1530
+413 Broadway,1531
+231 Broadway,1532
+17 Old Gick Rd,1533
+3291 S Broadway,1534
+125 S Broadway,1535
+120 S Broadway,1536
+232 Broadway,1537
+11 Excelsior Ave,1538
+295 Excelsior Ave,1539
+55 Union Ave,1540
+41 Locust Grove RD,1541
+248 Broadway,1542
+24 Gideon Putnam Rd,1543
+86 Congress St,1544
+342 Jefferson St,1545
+102 Lincoln Ave,1546
+2790 Route 32,1547
+2764 Route 32,1548
+25 South Partition Street,1549
+89 Partition Street,1550
+100 Nott Terrace,1551
+167 Nott Terrace,1552
+2788 Hamburg Street,1553
+450 State St,1554
+3083 Carman Rd,1555
+759 State St,1556
+240 Harborside Drive,1557
+434 State Street,1558
+1 Glen Avenue,1559
+160 Holiday Way,1560
+875 US Rt 9,1561
+68 Main Street,1562
+1950 Balsey Rd,1563
+1966 Route 5 And 20,1564
+2138 Route 89,1565
+108 Falls Street,1566
+925 Chestnut St & Highway 20,1567
+12 S Main Street,1568
+4 Mang Dr,1569
+755 Smithtown Bypass,1570
+11126 Van Wyck Expy,1571
+113-18 Rockaway Blvd,1572
+3131 Nesconset Hwy,1573
+1655 County Road 39,1574
+136 Main Street,1575
+281 County Road 39A,1576
+467 Tallow Hill Rd,1577
+100 Spring Valley Marketplace,1578
+270 Cascade Dr,1579
+157 W Main St,1580
+156 West Main Street,1581
+1639 Route 199,1582
+310 Wild Ave,1583
+1100 South Ave,1584
+535 N Gannon Ave,1585
+300 Wild Avenue,1586
+1120 South Ave,1587
+22 Fort Pl,1588
+1 Hylan Blvd,1589
+92 Taylor Street,1590
+290 Wild Ave,1591
+93 Mill Dam Road,1592
+4496 Route 209 Ulster,1593
+1 Circle Road,1594
+150 Main Street,1595
+3 Executive Blvd,1596
+17 N Airmont Rd,1597
+24 Oak Dr,1598
+701 E Genesee Street,1599
+601 South Crouse,1600
+7010 Interstate Island Rd,1601
+300 West Fayette Street,1602
+3017 Erie Blvd E,1603
+6491 Thompson Rd,1604
+713 E Genesee St,1605
+6614 North Thompson Road,1606
+1060 E Genesee St,1607
+6609 Thompson Rd,1608
+801 University Ave,1609
+416 S Clinton St,1610
+6590 Thompson Rd,1611
+100 Farrell Rd,1612
+670 State Fair Blvd,1613
+6578 Thompson Road,1614
+454 James Street,1615
+100 East Onondaga Street,1616
+310 West Kirkpatrick Street,1617
+5844 Main St,1618
+600 White Plains Rd,1619
+455 S Broadway,1620
+49 E Sunnyside Lane,1621
+480 White Plains Rd,1622
+670 White Plains Rd,1623
+475 White Plains Rd,1624
+400 Benedict Avenue,1625
+1144 Wicker St,1626
+260 Burgoyne Road,1627
+225 Crestmount Avenue,1628
+1120 Niagara Falls Blvd,1629
+2000 Niagara Falls Blvd,1630
+1970 Niagara Falls Blvd,1631
+221 Avon St.,1632
+1378 Niagara Falls Boulevard,1633
+1080 Sheridan Drive,1634
+235 Hoosick St,1635
+One Fourth Street,1636
+3300 6th Ave,1637
+5779 State Route 80,1638
+101 James Doolittle Blvd,1639
+23 Wells Ave,1640
+309 North Genesee Street,1641
+150 N Genesee St,1642
+172 - 180 North Genesee Street,1643
+175 N Genesee St,1644
+200 Genesee St,1645
+71 N Genesee Street,1646
+102 Lafayette Street,1647
+20 Weaver Road,1648
+1423 Genesee Street,1649
+4229 Stuhlman Rd,1650
+5394 Willow Pl,1651
+5218 Patrick Rd,1652
+5118 Ny State Route 365,1653
+5280 Willow Place,1654
+3401 Vestal Parkway,1655
+3801 Vestal Pkwy E,1656
+3615 Vestal Pkwy E,1657
+3603 Vestal Pkwy E,1658
+4610 Vestal Parkway East,1659
+3708 Vestal Pkwy E,1660
+900 Vestal Pkwy E,1661
+4105 Vestal Parkway East,1662
+3605 Vestal Parkway East,1663
+7637 New York State Route 96,1664
+7502 Main Street Fishers,1665
+7498 Main Street Fishers,1666
+7449 State Route 96,1667
+575 Fisher Station Dr,1668
+5720 Route 25a,1669
+2 Berea Road,1670
+3275 Byron St,1671
+6946 Winchell Rd,1672
+34 Spanktown Rd,1673
+1572 Route 17a,1674
+78 Church Hill Road,1675
+2468 Mound Rd,1676
+21000 NY State Rt 3,1677
+250 Commerce Park Dr,1678
+155 Commerce Park Dr,1679
+300 Washington St,1680
+1290 Arsenal Street,1681
+1030 Arsenal St,1682
+110 Commerce Park Drive,1683
+24480 NY State RT-12,1684
+1290 Arsenal St,1685
+860 Holt Rd,1686
+2450 Empire Blvd,1687
+878 Hard Rd,1688
+915 Hard Rd,1689
+2709 Erie Drive,1690
+9050 Rte 34,1691
+30 W Dyke St,1692
+80 W Red Oak Ln,1693
+101 Corporate Park Drive,1694
+674 Thayer Road,1695
+164b Slade Ave,1696
+1750 Ridge Road,1697
+164 Slade Avenue,1698
+3998 Brush Hollow Rd,1699
+699 Dibblee Drive,1700
+1575 Privado Rd,1701
+1800 Privado Road,1702
+7 Beach Lane,1703
+250 Main St,1704
+66 Hale Ave,1705
+5 Barker Avenue,1706
+3 Renaissance Square,1707
+15/25 Bank Street,1708
+15 Bank Street,1709
+27 Barker Avenue,1710
+18 - 30 Whitestone Expwy,1711
+5455 Main St,1712
+5195 Main Street,1713
+8005 Sheridan Dr,1714
+6619 Transit Rd,1715
+6700 Transit Rd,1716
+6615 Transit Road,1717
+50 Freeman Rd,1718
+52 Freeman Rd,1719
+7200 Transit Rd,1720
+8255 Main Street,1721
+6647 Transit Rd,1722
+6627 Transit Rd,1723
+107 State Route 296,1724
+7940 Jericho Tpke,1725
+8030 Jericho Tpke,1726
+7755 Jericho Turnpike,1727
+53-05 Queens Blvd,1728
+141 Tinker Street,1729
+21 Perron Dr,1730
+160 Corporate Blvd,1731
+165 Tuckahoe Rd,1732
+7 Executive Blvd,1733
+125 Tuckahoe Rd,1734
+7000 Mall Walk,1735
+555 Tuckahoe Rd,1736
+5 Executive Boulevard,1737

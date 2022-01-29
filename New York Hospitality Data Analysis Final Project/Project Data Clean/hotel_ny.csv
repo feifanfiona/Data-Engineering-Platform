@@ -1,0 +1,1632 @@
+hotel_id,name,city,postal_code,latitude,longitude,star_rating,high_rate,low_rate,address_id
+269955,Hilton Garden Inn Albany/SUNY Area,Albany,12206,42.68751,-73.81643,3,154.0272,124.0216,124
+113431,Courtyard by Marriott Albany Thruway,Albany,12206,42.68971,-73.82021,3,179.01,134,125
+108151,Radisson Hotel Albany,Albany,12205,42.7241,-73.79822,3,134.17,84.16,126
+254756,Hilton Garden Inn Albany Medical Center,Albany,12208,42.65157,-73.77638,3,308.2807,228.4597,127
+198232,CrestHill Suites SUNY University Albany,Albany,12206,42.68873,-73.81854,3,169.39,89.39,128
+125200,The Desmond Hotel Albany,Albany,12211,42.72874,-73.79807,3.5,189.0266,153.0644,129
+109728,Ramada Plaza Albany,Albany,12206,42.68031,-73.78444,3,158.6321,89.036,130
+235037,Hampton Inn & Suites Albany-Downtown,Albany,12210,42.65334,-73.75142,2.5,225.47,224.47,131
+106464,Albany Marriott,Albany,12205,42.72111,-73.80036,3.5,158.8856,128.9077,132
+106922,Best Western Sovereign Hotel - Albany,Albany,12203,42.67807,-73.82819,3,139.0244,78.3255,133
+111647,Express Inn & Suites,Albany,12205,42.70959,-73.82096,2.5,130.34,120.34,134
+113084,Hilton Albany,Albany,12207,42.65082,-73.75377,3.5,294.32,199.32,135
+118602,Holiday Inn Express Albany Downtown,Albany,12207,42.6456,-73.74992,2.5,135.0627,100.0442,136
+437296,Residence Inn Albany Washington Avenue,Albany,12203,42.6931,-73.84938,3,189.16,179.16,137
+122051,Courtyard by Marriott Albany Airport,Albany,12205,42.72231,-73.80328,3,174,119.01,138
+252452,"Cocca's Inn & Suites Wolf Rd, Albany Airport",Albany,12205,42.70898,-73.82207,2,132.65,60.45,139
+134751,Days Inn and Suites Albany,Albany,12205,42.7184,-73.83377,2,190.45,70.45,140
+117936,Howard Johnson Inn - Albany,Albany,12205,42.71913,-73.83459,1.5,70.24,51.24,141
+119964,Hampton Inn Albany-Western Ave/University Area,Albany,12203,42.68031,-73.8353,2.5,144.41,124.41,142
+153579,TownePlace Suites by Marriott Albany University Area,Albany,12206,42.68674,-73.8151,2.5,179.08,119.07,143
+324138,Travelodge Inn And Suites Albany,Albany,12205,42.7119,-73.81709,2.5,74.43,54.43,144
+127178,Red Roof Inn Albany Airport,Albany,12205,42.72398,-73.80098,2,69.99,65.22,145
+205279,Best Western Albany Airport Inn,Albany,12205,42.72184,-73.80241,3,115.34,86.34,146
+111978,Hampton Inn Albany-Wolf Road (Airport),Albany,12205,42.72441,-73.79661,2.5,139,84.1151,147
+250526,Days Inn Albany SUNY,Albany,12203,42.67816,-73.82843,2,180.22,76.63,148
+268158,Homewood Suites by Hilton Albany,Albany,12205,42.72519,-73.79819,3,194.3,179.3,149
+130527,Extended Stay America - Albany - SUNY,Albany,12206,42.68799,-73.81733,2.5,95.0707,90.0567,150
+261882,SpringHill Suites by Marriott Albany-Colonie,Albany,12205,42.70373,-73.81575,3,189.3,161.3,151
+127566,Quality Inn Central,Albany,12205,42.71977,-73.83534,2.5,99.38,89,152
+125498,Econo Lodge Colonie Center Mall,Albany,12205,42.7195,-73.83502,2,65.9995,60.0006,153
+275981,TownePlace Suites by Marriott Albany Downtown/Medical Center,Albany,12209,42.64651,-73.77209,2.5,139.06,129.06,154
+150421,Fairfield Inn by Marriott Albany University Area,Albany,12206,42.68676,-73.81511,2.5,149.33,139.33,155
+239994,Motel 6 - Albany Airport,Albany,12205,42.71784,-73.83317,1.5,50.47,45.47,156
+458738,"Motel 6 Albany, New York",Albany,12206,42.67972,-73.78295,2,58.99,49.99,157
+538343,Home2 Suites by Hilton Albany Airport/Wolf Rd,Albany,12205,42.71852,-73.80022,2.5,164.42,123.42,158
+467917,Staybridge Suites Albany Wolf Rd-Colonie Center,Albany,12205,42.71138,-73.81812,3,159.085,119.0063,159
+480979,Fairfield Inn & Suites by Marriott Albany Downtown,Albany,12207,42.64955,-73.75223,2.5,149.4,139.4,160
+539733,Renaissance Albany Hotel,Albany,12207,42.65077,-73.75591,3.5,329.0349,229.0411,161
+573120,Red Carpet Inn & Suites - Albany Airport,Albany,12205,42.71668,-73.83046,2.5,62.9948,60.0006,162
+255460,Gallets House B&B,Allegany,14706,42.07667,-78.49657,2.5,140.3,139.3,163
+449674,Tailwater Lodge,Altmar,13302,43.51379,-76.00504,3,129.0155,129,164
+231177,Homewood Suites by Hilton Buffalo/Amherst,Amherst,14226,42.9824,-78.79638,3,239.1,177.85,165
+116591,DoubleTree by Hilton Hotel Buffalo - Amherst,Amherst,14226,42.99028,-78.79224,3.5,160.45,159.45,166
+203763,Comfort Inn University,Amherst,14226,42.99059,-78.79215,2.5,87.25,68.04,167
+127175,Red Roof Inn PLUS+ University at Buffalo - Amherst,Amherst,14226,42.98985,-78.79244,2.5,80.99,79.99,168
+269877,Residence Inn Buffalo Amherst,Amherst,14221,42.99139,-78.78401,3,140.035,139.035,169
+106439,Buffalo Marriott Niagara,Amherst,14221,42.98891,-78.79161,3.5,209.09,127.07,170
+136100,Extended Stay America - Buffalo - Amherst,Amherst,14228,43.00567,-78.81827,2.5,75.67,65.17,171
+436980,Staybridge Suites Buffalo-Amherst,Amherst,14228,42.99702,-78.7998,3,290.45,136.45,172
+276923,Courtyard by Marriott Buffalo Amherst/University,Amherst,14221,42.97846,-78.7808,3,154.32,129.32,173
+143109,Sleep Inn,Amherst,14228,43.00635,-78.81913,2,85.5604,72.0492,174
+458792,Motel 6 Buffalo - Amherst,Amherst,14226,42.99072,-78.80194,2,55.047,52.0082,175
+152226,Rodeway Inn & Suites,Amherst,14228,43.00753,-78.82217,1.5,58.81,46.02,176
+364655,University Manor Inn,Amherst,14226,42.95907,-78.8151,2,109.99,79.99,177
+498900,Hyatt Place Buffalo/Amherst,Amherst,14226,42.95934,-78.76993,3,224.17,199.67,178
+312059,Candlewood Suites Buffalo - Amherst,Amherst,14226,42.99032,-78.79228,2.5,150.37,94.37,179
+208593,Super 8 - Amsterdam,Amsterdam,12010,42.92563,-74.20226,2,71.9986,67.0047,180
+562127,Knights Inn Amsterdam,Amsterdam,12010,42.92894,-74.2007,2.5,99.0099,59.006,181
+433086,Comfort Inn,Apalachin,13732,42.0611,-76.1436,2.5,81.42,80.42,182
+233290,Quality Inn Binghamton West,Apalachin,13732,42.05989,-76.14391,2.5,71.4,70.4,183
+226561,Ardsley Acres Hotel Westchester,Ardsley,10502,41.00869,-73.85151,2,101.35,100.35,184
+106923,La Quinta inn & Suites Armonk Westchester County Airport,Armonk,10504,41.11965,-73.70825,2.5,100.45,95.45,185
+252608,Fairfield Inn by Marriott New York LaGuardia Airport/Astoria,Astoria,11103,40.76791,-73.90563,2.5,169.35,159.35,186
+224415,"Super 8 Long Island City, LGA Hotel",Astoria,11106,40.76679,-73.93348,2,211.0229,102.0041,187
+515540,Stewart House at the Athens Hotel,Athens,12015,42.25984,-73.808,3,349.0528,249.0377,188
+410019,Hilton Garden Inn Auburn,Auburn,13021,42.93311,-76.56947,3,139.46,109.46,189
+124395,Days Inn Auburn Fingerlakes,Auburn,13021,42.92832,-76.56631,2,74.33,70.33,190
+201347,Auburn Inn,Auburn,13021,42.93204,-76.57378,2,75.48,65.48,191
+107975,Holiday Inn Auburn-Finger Lakes Region,Auburn,13021,42.93461,-76.56636,3,174.45,143.45,192
+538682,Skaneateles Suites,Auburn,13152,42.94288,-76.46947,2.5,225.08,150.06,193
+634158,Inn at the Finger Lakes,Auburn,13021,42.93424,-76.56229,2.5,109.41,71.41,194
+259087,The Red Mill Inn,Baldwinsville,13027,43.15613,-76.33204,2.5,139.18,59.19,195
+195601,Microtel Inn & Suites by Wyndham Baldwinsville/Syracuse,Baldwinsville,13027,43.15128,-76.34533,2,80.44,59.49,196
+484688,Baldwinsville Bed and Breakfast,Baldwinsville,13027,43.16099,-76.3338,3.5,120.17,119.17,197
+276724,Roosevelt Inn And Suites,Ballston Spa,12020,43.02713,-73.79237,2.5,389.22,327.55,198
+538573,Catskill Mountains Resort,Barryville,12719,41.50764,-74.92298,2,223.4838,170.6404,199
+218706,Hampton Inn Batavia,Batavia,14020,43.02006,-78.19425,2.5,129.38,89.38,200
+177921,Best Western Crown Inn & Suites,Batavia,14020,43.01656,-78.19554,2.5,79.99,62.99,201
+411011,Holiday Inn Express Hotel & Suites Batavia - Darien Lake,Batavia,14020,43.01978,-78.19434,2.5,114.47,94.47,202
+137866,Comfort Inn,Batavia,14020,43.021,-78.19271,2.5,74.31,74,203
+229344,La Quinta Inn & Suites Batavia,Batavia,14020,43.01609,-78.19222,2.5,89.38,79.38,204
+149424,Quality Inn & Suites Palm Island Indoor Waterpark,Batavia,14020,43.01639,-78.1941,3,74.31,73.31,205
+209876,Red Roof Inn Batavia,Batavia,14020,43.01609,-78.19231,2,64.48,63.48,206
+201529,Super 8 Batavia E Of Darien Lake Theme Park,Batavia,14020,43.01459,-78.19207,2,107.99,57.99,207
+128681,Days Inn Batavia,Batavia,14020,43.01458,-78.19207,2,90.15,51.16,208
+260324,Microtel Inn & Suites by Wyndham Bath,Bath,14810,42.3396,-77.33433,2.5,77.15,57,209
+201355,Super 8 Bath Hammondsport Area,Bath,14810,42.33619,-77.32942,2,62,52,210
+109196,Days Inn Bath Hammondsport,Bath,14810,42.33616,-77.32937,2,65.41,55.41,211
+224895,Budget Inn Bath,Bath,14810,42.33657,-77.33035,2,55,52,212
+427232,Bay Shore Inn,Bay Shore,11706,40.73222,-73.27663,1.5,98.7217,97.7217,213
+207012,Travelodge Bay Shore Long Island,Bay Shore,11706,40.72732,-73.23138,1.5,180.0228,106.268,214
+220355,Adria Hotel And Conference Center,Bayside,11361,40.76179,-73.75974,3,180.15,160,215
+130161,Anchor Inn,Bayside,11361,40.76076,-73.76612,2,185.53,159.03,216
+115172,Best Western Queens Gold Coast,Bayside,11361,40.76166,-73.76059,2.5,165.4,155.4,217
+566299,The Roundhouse,Beacon,12508,41.50252,-73.96249,3.5,190.44,189.44,218
+350825,Bellerose Inn,Bellerose,11426,40.72656,-73.71558,2,100,99,219
+343306,SpringHill Suites by Marriott Long Island Brookhaven,Bellport,11713,40.80858,-72.94766,3,139.0174,119.0164,220
+669535,Maple Springs Lake Side Inn,Bemus Point,14712,42.19313,-79.41793,3,150.48,149.48,221
+261411,Extended Stay America - Long Island - Bethpage,Bethpage,11714,40.76001,-73.49987,2.5,115.46,105.46,222
+433987,Motel 6 Binghamton,Binghamton,13905,42.14234,-75.90366,2,65.99,55.99,223
+107922,Holiday Inn Binghamton - Downtown (Hawley St.),Binghamton,13901,42.09747,-75.91485,3,126.4,97.4,224
+341158,DoubleTree by Hilton Hotel Binghamton,Binghamton,13901,42.10091,-75.91465,3,159.38,105.38,225
+169615,Fairfield Inn by Marriott Binghamton,Binghamton,13905,42.13034,-75.90583,2.5,110.0159,109.0159,226
+112292,Comfort Inn Binghamton,Binghamton,13905,42.14164,-75.90375,2.5,124.99,119.99,227
+109003,Econo Lodge Inn And Suites,Binghamton,13905,42.12534,-75.9092,2,71.34,70.34,228
+201389,Red Roof Inn Binghamton North,Binghamton,13905,42.12453,-75.90976,2,69.99,65.6,229
+486055,Park House Bed and Breakfast,Binghamton,13905,42.10901,-75.94552,3,110.44,95.44,230
+619673,Microtel Inn & Suites By Wyndham Binghamton,Binghamton,13905,42.1189,-75.94541,2.5,169.33,122.4,231
+132213,Econo Lodge South,Blasdell,14219,42.78987,-78.81782,2,66,54.4423,232
+242093,La Quinta Inn & Suites Islip-MacArthur Airport,Bohemia,11716,40.77988,-73.09552,2.5,239.16,145.01,233
+479839,Lakeland Inn,Bohemia,11716,40.78494,-73.11376,2,80,73.19,234
+685044,Highlands Castle,Bolton Landing,12814,43.56455,-73.66439,,0,0,235
+127173,Red Roof Inn Buffalo - Niagara Airport,Bowmansville,14026,42.94902,-78.69399,2,69.99,60.43,236
+150010,Days Inn Brewerton/Syracuse/Airport,Brewerton,13029,43.23269,-76.1336,2.5,127.11,65.46,237
+482259,Topping Rose House,Bridgehampton,11932,40.9378,-72.30069,4.5,995.39,295.39,238
+448735,Playland Motel,Broad Channel,11693,40.5874,-73.81247,3,249.46,129.46,239
+173729,Dollingers Inn & Suites,Brockport,14420,43.19443,-77.94395,2.5,140.33,85.33,240
+422144,"Hampton Inn Brockport, NY",Brockport,14420,43.19433,-77.94397,2.5,129.43,107.43,241
+492714,Econo Lodge Brockport,Brockport,14420,43.19835,-77.94608,2,70.48,65.48,242
+438964,Opera House Hotel,Bronx,10455,40.81531,-73.91589,3,209.47,169.47,243
+428137,Rodeway Inn Bronx Zoo,Bronx,10467,40.87052,-73.87789,2,171.34,170.34,244
+169333,Ramada Bronx,Bronx,10475,40.87979,-73.83187,3,241.1339,140.2387,245
+269318,Days Inn Bronx Near Stadium,Bronx,10451,40.82687,-73.91176,2,184.0327,126.6667,246
+217343,Howard Johnson Express Inn Bronx,Bronx,10460,40.83957,-73.88151,2,145.45,123.45,247
+245493,Bronx Guesthouse,Bronx,10466,40.89192,-73.85267,2,202.3,151.725,248
+393691,Sheridan Hotel,Bronx,10459,40.83114,-73.88481,2,198.39,169.39,249
+466093,Super 8 Bronx,Bronx,10459,40.8277,-73.8919,2,94.09,93.09,250
+487266,Residence Inn New York The Bronx At Metro Center Atrium,Bronx,10461,40.84958,-73.84363,3,250.12,249.12,251
+567182,"Umbrella Hotel, An Ascend Hotel Collection Member",Bronx,10455,40.81885,-73.91467,2.5,249.38,199.38,252
+339951,Sheraton Brooklyn New York Hotel,Brooklyn,11201,40.6916,-73.98436,4,409.1485,259.0916,253
+348082,Best Western Plus Arena Hotel,Brooklyn,11216,40.67829,-73.94857,2.5,150.24,114.25,254
+370872,Aloft New York Brooklyn,Brooklyn,11201,40.69172,-73.98435,3,509.46,249.46,255
+272697,NU Hotel Brooklyn,Brooklyn,11201,40.68891,-73.98897,3.5,299.34,273.34,256
+400022,Hotel BPM - Brooklyn New York,Brooklyn,11232,40.6565,-74.0035,3.5,170.19,169.19,257
+406834,McCarren Hotel & Pool,Brooklyn,11249,40.721,-73.95543,4,575.41,330.41,258
+385544,"Union Hotel, an Ascend Hotel Collection Member",Brooklyn,11217,40.67907,-73.98322,2.5,144.36,114.36,259
+262957,Holiday Inn Express Brooklyn,Brooklyn,11215,40.678,-73.98453,3,139.24,99.2,260
+253355,Hotel Le Bleu,Brooklyn,11215,40.67304,-73.98658,3,145.4,144.99,261
+370130,Condor Hotel,Brooklyn,11205,40.6975,-73.95864,3.5,439.36,279.31,262
+417594,Hotel Indigo BROOKLYN,Brooklyn,11201,40.69124,-73.9844,3.5,334.05,143.6691,263
+350857,Sleep Inn Brooklyn Downtown,Brooklyn,11232,40.66306,-73.99778,2,149.2,129.2,264
+339969,La Quinta Inn & Suites Brooklyn Downtown,Brooklyn,11215,40.66882,-73.99322,2.5,189.44,169.44,265
+403899,The Box House Hotel,Brooklyn,11222,40.73749,-73.95329,4,379.42,249.42,266
+263437,Hotel Le Jolie,Brooklyn,11211,40.71635,-73.95075,2.5,189.44,159.44,267
+333610,Super 8 Brooklyn / Park Slope Hotel,Brooklyn,11215,40.67784,-73.98577,2,561.07,271,268
+256012,Red Lion Inn and Suites Brooklyn,Brooklyn,11217,40.68133,-73.98485,3.5,329,309,269
+123678,Best Western Gregory Hotel,Brooklyn,11209,40.62447,-74.02767,2.5,205.35,125.35,270
+376174,Pointe Plaza Hotel,Brooklyn,11249,40.6991,-73.95898,3,126.9366,125.9366,271
+438068,International Students Residence,Brooklyn,11211,40.70784,-73.95615,1.5,69.99,40.29,272
+388700,Comfort Inn Red Hook,Brooklyn,11231,40.68016,-74.0058,2.5,124.0796,114.095,273
+362397,"Brooklyn Way Hotel, BW Premier Collection",Brooklyn,11232,40.65996,-73.99867,2.5,180.36,162.36,274
+360006,Fairfield Inn & Suites by Marriott New York Brooklyn,Brooklyn,11217,40.68055,-73.98393,2.5,309.2,209.01,275
+417441,Galaxy Motel,Brooklyn,11207,40.65677,-73.88937,2,130.0206,110.0134,276
+218905,Days Inn Brooklyn,Brooklyn,11232,40.65204,-74.00517,2,229,134.1,277
+136344,New York Marriott at the Brooklyn Bridge,Brooklyn,11201,40.69365,-73.9887,4,489.07,212.04,278
+252992,Red Carpet Inn New York City,Brooklyn,11237,40.69594,-73.9047,2,201.34,200.34,279
+364363,Oasis Motel in Brooklyn,Brooklyn,11207,40.65227,-73.88741,1.5,329.95,328.95,280
+257831,Lexington Inn - Brooklyn NY,Brooklyn,11207,40.67599,-73.90319,2.5,199.99,179.99,281
+351559,Sankofa Aban Bed and Breakfast,Brooklyn,11216,40.68136,-73.947,2.5,250.18,135.17,282
+420944,Lefferts Gardens Residence Bed and Breakfast,Brooklyn,11225,40.65887,-73.95907,2.5,158.934,129.9519,283
+404600,The Missing Lantern,Brooklyn,11216,40.67694,-73.95133,2,190.44,160.44,284
+364362,Riviera Motor Inn Brooklyn,Brooklyn,11208,40.67815,-73.8842,1.5,272.5125,271.5125,285
+276847,Brooklyn Motor Inn,Brooklyn,11231,40.68183,-74.00614,2,140.22,130.21,286
+464762,Henry Norman Hotel,Brooklyn,11222,40.72795,-73.94398,3.5,300.04,299.04,287
+448368,Hotel Lynx,Brooklyn,11216,40.67811,-73.94504,2,159.3,139.3,288
+459006,Hampton Inn Brooklyn Downtown NY,Brooklyn,11201,40.69537,-73.98408,3,358.6905,298.7424,289
+464655,Green Point YMCA,Brooklyn,11222,40.72695,-73.95318,2,99.9647,98.9647,290
+242563,Comfort Inn Brooklyn City Center,Brooklyn,11203,40.65888,-73.93111,2.5,180.23,179.23,291
+486518,Bklyn House,Brooklyn,11206,40.70083,-73.93949,2.5,200.48,199.48,292
+548227,La Quinta Inn & Suites Brooklyn East,Brooklyn,11233,40.66856,-73.92196,2.5,150.15,149.15,293
+476903,Oyo Bed & Breakfast,Brooklyn,11216,40.67571,-73.95325,2.5,175.0289,90.0167,294
+491941,Sumner Hotel,Brooklyn,11206,40.70091,-73.94058,2,189.36,119.36,295
+448516,Habitat 101,Brooklyn,11222,40.72651,-73.94084,3,216.02,130.02,296
+528548,Cesar Suites at New York South,Brooklyn,11211,40.70878,-73.95231,3,1199,359.1,297
+471886,Sleep Inn Prospect Park South,Brooklyn,11218,40.64419,-73.98774,3,159.898,149.9044,298
+496013,Quality Inn,Brooklyn,11212,40.6693,-73.9116,2.5,150.0172,140.0083,299
+358519,Americas Best Value Inn,Brooklyn,11212,40.65743,-73.89933,2,118.95,92.81,300
+539305,The Brooklyn,Brooklyn,11216,40.67866,-73.95122,3.5,199.44,189.44,50
+507616,Best Western Plus Brooklyn Bay Hotel,Brooklyn,11235,40.58399,-73.9382,2.5,190.21,171.22,301
+508516,Vacation Rental in New York,Brooklyn,11207,40.66931,-73.88946,3,230.09,190.08,302
+532228,Holiday Inn Brooklyn Downtown,Brooklyn,11217,40.68762,-73.98254,3.5,314.0428,144.0182,303
+529152,New York City Summer Dorms,Brooklyn,11201,40.69192,-73.98041,2,34.92,33.92,304
+512373,Dazzler Brooklyn,Brooklyn,11201,40.69631,-73.98455,3.5,542.5052,230.4843,305
+486970,Midwood Suites Brooklyn,Brooklyn,11230,40.62329,-73.96105,3,199,109,306
+492753,Comfort Inn Brooklyn,Brooklyn,11235,40.58415,-73.93244,2.5,260.0306,170.0139,307
+556612,The William Vale Hotel,Brooklyn,11249,40.72243,-73.9573,5,659.37,299.37,308
+545381,Sleep Inn Coney Island,Brooklyn,11223,40.58456,-73.98298,2,175.37,174.37,309
+541165,Wyndham Garden Brooklyn Sunset Park,Brooklyn,11232,40.65175,-74.0047,4,319.31,251.31,310
+579402,Hipster's Cove Bed & Breakfast,Brooklyn,11213,40.67171,-73.9355,2.5,70.16,69.16,311
+575179,EVEN Hotel Brooklyn,Brooklyn,11217,40.68745,-73.98174,4,197.47,144.47,312
+588558,Hilton Brooklyn New York,Brooklyn,11201,40.68979,-73.98813,4,264.45,249.45,313
+606740,1 Hotel Brooklyn Bridge,Brooklyn,11201,40.70164,-73.99553,5,893.13,297,314
+574577,The Justice Manor,Brooklyn,11205,40.69408,-73.96703,3,250.06,150.05,315
+560109,Your NYC Vacation,Brooklyn,11216,40.68274,-73.95481,3.5,0,0,316
+571573,Howard Johnson Brooklyn,Brooklyn,11212,40.66712,-73.91037,2.5,399.6861,299.5143,317
+593037,La Quinta Inn & Suites Brooklyn - Williamsburg,Brooklyn,11211,40.71323,-73.95153,2.5,159.8902,158.8902,318
+574283,Franklin Guesthouse,Brooklyn,11222,40.73305,-73.95812,3,349.48,249.48,319
+621717,Bogart Hotel,Brooklyn,11206,40.70385,-73.93318,2.5,115.72,114.72,320
+630346,Hotel RL by Red Lion Brooklyn,Brooklyn,11221,40.69429,-73.93105,3,159.43,134.43,321
+668894,La Quinta Inn & Suites Brooklyn Central,Brooklyn,11216,40.67862,-73.95015,2.5,0,0,322
+675714,Illumination Bed & Breakfast,Brooklyn,11238,40.68579,-73.96457,2.5,121.309,120.309,323
+677501,Bright 3BR in Williamsburg by Sonder,Brooklyn,11211,40.71179,-73.94223,3.5,0,0,324
+126317,Holiday Inn Express & Suites Buffalo Downtown,Buffalo,14203,42.89024,-78.87295,2.5,139.0073,119.0063,325
+444461,Best Western on the Avenue,Buffalo,14202,42.89829,-78.87444,2.5,209.42,139.42,326
+139991,DoubleTree Club by Hilton Buffalo Downtown,Buffalo,14203,42.90034,-78.86462,3,189.0099,125.107,327
+313375,Embassy Suites Buffalo,Buffalo,14202,42.88991,-78.87702,3.5,200.18,140.15,328
+195844,Hampton Inn & Suites Buffalo Downtown,Buffalo,14202,42.89053,-78.87686,3,399.25,189,329
+407475,Hotel @ The Lafayette,Buffalo,14203,42.88493,-78.87354,3.5,239,149,330
+111604,Hyatt Regency Buffalo / Hotel and Conference Center,Buffalo,14202,42.88855,-78.87464,3.5,189.09,169.09,331
+195178,The Mansion On Delaware Ave,Buffalo,14202,42.89563,-78.87524,4,410.57,225.43,332
+454853,Courtyard Buffalo Downtown / Canalside,Buffalo,14203,42.87774,-78.87586,3,199.32,189.32,333
+427323,Lofts on Pearl,Buffalo,14202,42.88145,-78.87699,3,170,169,334
+177257,Adam's Mark Buffalo,Buffalo,14202,42.88365,-78.8799,3,342.04,199.03,335
+474465,Hilton Garden Inn Buffalo Downtown,Buffalo,14203,42.88597,-78.87377,3,179.1474,129.1062,336
+542976,Buffalo Marriott Harborcenter,Buffalo,14203,42.87722,-78.87716,3.5,299.49,199.49,337
+589933,The Westin Buffalo,Buffalo,14202,42.89075,-78.87674,4,239.21,169.21,338
+683102,Burdett House Bed & Breakfast,Burdett,14818,42.41727,-76.85054,3,126.21,125.21,339
+185040,"Motel 6 Calcium, NY",Calcium,13616,44.03371,-75.84169,2,66.47,50.47,340
+224504,Villa Roma Resort and Conference Center,Callicoon,12723,41.76228,-74.97584,3,414.9994,249.6014,341
+525467,Econo Lodge Inn & Suites Canandaigua,Canandaigua,14424,42.86957,-77.23448,2,61.31,60.31,342
+421629,Holiday Inn Express Canandaigua - Finger Lakes,Canandaigua,14424,42.87644,-77.2498,2.5,134.34,97.34,343
+328763,Chalet of Canandaigua,Canandaigua,14424,42.84383,-77.31429,4,246.37,245.37,344
+411546,Onanda by the Lake,Canandaigua,14424,42.78526,-77.31399,3,156.31,155.31,345
+201894,Super 8 Canandaigua,Canandaigua,14424,42.87778,-77.25687,2,93.3829,57.235,346
+600871,Morgan Samuels Inn,Canandaigua,14424,42.89032,-77.23144,4,299.22,189.22,347
+597994,1837 Cobblestone Cottage,Canandaigua,14424,42.86347,-77.28164,4,245.06,215.06,348
+593637,Bed and Breakfast at Oliver Phelps,Canandaigua,14424,42.89552,-77.28726,4,209.8263,169.8594,349
+659769,The Bella Ella Bed & Breakfast,Canandaigua,14424,42.91862,-77.3248,3,90.2,66.2,350
+682922,Filigree Inn Bed & Breakfast,Canandaigua,14424,42.75743,-77.40621,3,170.0463,169.0463,351
+128750,Days Inn Canastota/Syracuse,Canastota,13032,43.08929,-75.75107,2,80.48,75.48,352
+476203,Best Western University Inn,Canton,13617-1452,44.59663,-75.15347,3,149.44,116.44,353
+122324,University Suites Hotel,Canton,13617,44.60137,-75.13903,2.5,169.99,119.99,354
+427011,"Homewood Suites by Hilton Carle Place - Garden City, NY",Carle Place,11514,40.74944,-73.6195,3,179.03,151.05,355
+577918,Springhill Suites by Marriott Carle Place Garden City,Carle Place,11514,40.74925,-73.6204,3,179.4,169.4,356
+438212,Pleasant Night Inn,Carthage,13619,43.97247,-75.62681,2,86.41,85.41,357
+602129,Hampton Inn & Suites Cazenovia,Cazenovia,13035,42.92565,-75.84077,2.5,169.31,149.31,358
+615796,The Lincklaen House,Cazenovia,13035,42.93018,-75.85295,3,130.45,130,359
+397560,Chalet Inn & Suites Centerport,Centerport,11721-1526,40.888,-73.37216,2,120.0077,119.0077,360
+439821,Residence Inn Long Island Islip/Courthouse Complex,Central Islip,11722,40.76443,-73.1922,3,259.0236,179.0195,361
+213383,"Americas Best Value Inn, Central Valley",Central Valley,10917,41.32279,-74.12381,2,100,86.03,362
+260707,Hampton Inn Harriman Woodbury,Central Valley,10917,41.31553,-74.12827,2.5,229.43,209.43,363
+233455,Crabtree's Kittle House Restaurant & Inn,Chappaqua,10514,41.18161,-73.7454,3.5,187.0269,167.0303,364
+235030,Spencer Hotel,Chautauqua,14722,42.20777,-79.46643,2.5,260.0134,195.0108,365
+440128,Hampton Inn & Suites Buffalo Airport,Cheektowaga,14225,42.92947,-78.73732,2.5,269.39,149.39,366
+126618,Comfort Suites Buffalo Airport,Cheektowaga,14225,42.9267,-78.74267,2.5,109.0173,99.0327,367
+202407,Sleep Inn & Suites Buffalo Airport,Cheektowaga,14225,42.93692,-78.71752,2.5,150.0172,110.0028,368
+204944,Best Western The Inn At Buffalo Airport,Cheektowaga,14225,42.93494,-78.71461,2.5,110.0028,76.5057,369
+324274,Fairfield Inn & Suites by Marriott Buffalo Airport,Cheektowaga,14225,42.93223,-78.72767,2.5,134.35,129.35,370
+237455,Hilton Garden Inn Buffalo Airport,Cheektowaga,14225,42.93134,-78.7321,3,164.42,139.42,371
+431259,TownePlace Suites Buffalo Airport,Cheektowaga,14225,42.93039,-78.72905,2.5,134.1103,124.102,372
+116007,Hampton Inn Buffalo-Airport / Galleria Mall,Cheektowaga,14225,42.90857,-78.77271,2.5,139.3911,109.798,373
+216066,Holiday Inn Express Hotel & Suites Buffalo-Airport,Cheektowaga,14225,42.9284,-78.73919,2.5,149.0227,96.7669,374
+458452,Holiday Inn Express Cheektowaga North East,Cheektowaga,14206,42.9058,-78.77153,2.5,119.4231,99.4478,375
+133541,Homewood Suites by Hilton Buffalo Airport,Cheektowaga,14225,42.92438,-78.74188,3,140.45,139.45,376
+207479,Residence Inn by Marriott Buffalo Galleria Mall,Cheektowaga,14225,42.90768,-78.7715,3,179.1235,143.1189,377
+267201,Comfort Inn Cheektowaga,Cheektowaga,14206,42.87765,-78.79798,2.5,109.9955,99.995,378
+273683,Best Western Plus Galleria Inn & Suites,Cheektowaga,14206,42.8776,-78.79478,2.5,132.19,74.46,379
+112297,Days Hotel Buffalo Airport,Cheektowaga,14225,42.93264,-78.72571,3,169.41,135.45,380
+379349,Courtyard Buffalo Airport,Cheektowaga,14225,42.93194,-78.72963,3,149.35,139.35,381
+128366,Quality Inn Buffalo Airport,Cheektowaga,14225,42.93172,-78.73027,2.5,85.31,75.31,382
+107927,Holiday Inn Buffalo - International Airport,Cheektowaga,14225,42.93463,-78.71586,3,125.09,76.06,383
+225186,Millennium Buffalo,Cheektowaga,14225,42.90852,-78.76042,3.5,203.14,74.35,384
+218062,Oak Tree Inn Buffalo Airport,Cheektowaga,14225,42.90874,-78.75413,2,120.1235,119.1235,385
+515447,Home2 Suites by Hilton Buffalo Airport / Galleria Mall,Cheektowaga,14225,42.90614,-78.76543,2.5,194.0792,135.6328,386
+484533,Aloft Buffalo Airport,Cheektowaga,14225,42.92984,-78.73087,3,149.31,124.31,387
+590418,The Delavan Hotel & Spa,Cheektowaga,14043,42.93611,-78.69682,4,249,131.41,388
+263248,Holiday Inn Express Hotel & Suites Chester,Chester,10918,41.35597,-74.28421,2.5,149.0227,110.0134,389
+245496,The Fern Lodge,Chestertown,12817,43.62546,-73.84953,3.5,525.0762,395.0557,390
+334930,Holiday Inn Express Hotel & Suites Syracuse North - Cicero,Cicero,13039,43.18126,-76.11636,2.5,144.1185,104.0856,391
+313494,Comfort Suites Cicero - Syracuse North,Cicero,13039,43.1814,-76.11482,2.5,116.37,99.37,392
+222595,Budget Inn - Syracuse Airport,Cicero,13039,43.1438,-76.11565,1.5,61,60,393
+257355,Asa Ransom House,Clarence,14031,42.98039,-78.59531,3,195.39,147.39,394
+454459,Clarence Inn,Clarence,14031,42.96864,-78.65275,2,89.04,69.12,395
+257072,Americas Best Value Inn & Suites - Clarence/Buffalo East,Clarence,14031,42.97112,-78.641,2,89.39,49.39,396
+338438,Blue Horizon Bed and Breakfast,Claryville,12725,41.92017,-74.50429,2.5,151.38,150.38,397
+205008,Hampton Inn Clifton Park,Clifton Park,12065,42.86566,-73.77762,2.5,139.42,101.42,398
+243860,"Park Manor Hotel, an Ascend Hotel Collection Member",Clifton Park,12065,42.86415,-73.77139,3.5,149.35,129.35,399
+210266,Best Western Clifton Park,Clifton Park,12065,42.86392,-73.7782,2.5,120.99,89.99,400
+397197,Hilton Garden Inn Clifton Park,Clifton Park,12065,42.85839,-73.78054,3,199.0249,160.5763,401
+131471,Red Roof Inn Clifton Park,Clifton Park,12065,42.86572,-73.7733,2,85.31,70.31,402
+264424,Holiday Inn Express Suites Clifton Park,Clifton Park,12065,42.86777,-73.77311,2.5,145.47,113.47,403
+462877,Residence Inn Albany Clifton Park,Clifton Park,12065,42.8695,-73.77361,3,179.32,143.32,404
+546889,Homewood Suites by Hilton Clifton Park,Clifton Park,12065,42.85777,-73.78102,3.5,159.6538,139.5718,405
+606297,Courtyard by Marriott Clifton Park,Clifton Park,12065,42.8649,-73.77789,3,259.12,199.1,406
+645442,La Quinta Inn & Suites Clifton Park,Clifton Park,12065,42.87137,-73.77386,2.5,109.46,99.46,407
+400295,Fairway Suites at Peek'n Peak,Clymer,14724,42.06232,-79.72562,2.5,999.0516,139.0073,408
+413898,Peek'N Peak Inn,Clymer,14724,42.06238,-79.73487,3.5,159.48,120.48,409
+208656,Rodeway Inn and Suites,Cobleskill,12043,42.68236,-74.47311,3,104.44,75.44,410
+234691,"Super 8 Cobleskill, NY",Cobleskill,12043,42.68007,-74.46662,2,79.949,67.9567,411
+421552,The Harbor Rose,Cold Spring Harbor,11724,40.86025,-73.46236,3,249.0954,239.1109,412
+117726,Hampton Inn Long Island / Commack,Commack,11725,40.80658,-73.29452,2.5,209.49,149.49,413
+221609,Holiday Express Hotel & Suites Cooperstown,Cooperstown,13326,42.65385,-74.96434,2.5,219.35,179.35,414
+495475,Best Western Cooperstown Inn & Suites,Cooperstown,13326,42.64994,-74.96437,2.5,185.18,136.43,415
+427675,The Willow Tree Inn,Cooperstown,13326,42.76616,-74.83709,2.5,161.4,160.4,416
+431010,Landmark Inn,Cooperstown,13326,42.69847,-74.92975,3.5,219.0114,109.0058,417
+539464,Red Carpet Inn & Suites Cooperstown,Cooperstown,13326,42.66118,-74.95806,2.5,94.99,89.46,418
+269811,Days Inn Long Island / Copiague,Copiague,11726,40.69151,-73.39649,2,157.5186,108.0137,419
+127535,Econo Lodge Darien Lakes,Corfu,14036,43.00066,-78.40583,2,81.48,80.48,420
+200422,Staybridge Suites Corning,Corning,14830,42.15431,-77.05465,3,154.3,118.3,421
+112958,Radisson Hotel Corning,Corning,14830,42.1418,-77.04934,3.5,164.47,122.47,422
+121388,Comfort Inn Corning,Corning,14830,42.15126,-77.06335,2.5,131.3,130.3,423
+129026,Fairfield Inn Marriott Corning,Corning,14830,42.1532,-77.07886,2.5,140.45,139.45,424
+194789,Budget Inn Corning,Corning,14830,42.11965,-77.00878,2,71.29,64.61,425
+655329,Nel's Place,Corning,14830,42.09664,-77.08881,3.5,119.24,69,426
+406229,Cadet Motel,Cornwall,12518,41.44376,-74.03944,2,100,99,427
+383182,Gavin's Irish Country Inn,Cornwallville,12418,42.3731,-74.10595,2.5,208.152,207.152,428
+421762,SpringHill Suites by Marriott New York LaGuardia Airport,Corona,11368,40.75815,-73.85739,2.5,190.01,189.01,429
+196366,Holiday Inn LaGuardia Airport,Corona,11368,40.75455,-73.85364,3,399.49,179.49,114
+542081,Best Western Plus LaGuardia Airport Hotel Queens,Corona,11368-2624,40.75223,-73.85364,3,180.1381,117.0863,430
+646278,Corona Hotel,Corona,11368,40.75244,-73.85379,2.5,145.2195,129.3064,431
+108351,Ramada Cortland Hotel and Conference Center,Cortland,13045,42.60687,-76.167,2.5,135.23,101.23,432
+348223,Hope Lake Lodge & Indoor Waterpark,Cortland,13045,42.51581,-76.14382,3.5,470.0696,290.0468,433
+142545,Quality Inn Cortland,Cortland,13045,42.6113,-76.16515,2.5,86.34,85.34,434
+375192,Holiday Inn Express Cortland,Cortland,13045,42.6107,-76.16617,2.5,150.36,122.36,435
+218627,"Country Inn & Suites By Carlson, Cortland",Cortland,13045,42.5863,-76.21124,3,189.0266,127.2168,436
+216453,Hampton Inn Cortland,Cortland,13045,42.60673,-76.16479,2.5,139.47,118.47,437
+119284,Comfort Inn Cortland,Cortland,13045,42.61051,-76.16583,2.5,96.4,95.4,438
+207575,Econo Lodge Cortland,Cortland,13045,42.6012,-76.17803,2,115.95,109.95,439
+499146,Best Western Plus Finger Lakes Inn & Suites,Cortland,13045,42.56142,-76.2268,2.5,194.35,134.35,440
+560085,Imperial Motel,Cortland,13045,42.59777,-76.17873,2,60.006,59.006,441
+657822,Red Roof Inn Cortland,Cortland,13045,42.60703,-76.16563,2,60.1523,59.1523,442
+210604,Best Western New Baltimore Inn,Coxsackie,12192,42.38837,-73.83188,2.5,120.36,109.91,443
+312062,Holiday Inn Express Hotel & Suites West Coxsackie,Coxsackie,12192,42.39475,-73.82717,2.5,159.36,139.36,444
+185382,Econo Lodge Cuba,Cuba,14727,42.22619,-78.27164,2,91.47,90.47,445
+252431,Econo Lodge DeWitt,DeWitt,13214,43.0479,-76.07061,2,71.39,70.39,446
+679656,Olympian Resort Motel,Diamond Point,12824,43.48092,-73.68541,2.5,160.6538,159.6538,447
+506156,Best Western Dunkirk & Fredonia Inn,Dunkirk,14048,42.45986,-79.31554,2.5,90.9945,89.9945,448
+138892,Clarion Hotel & Conference Center,Dunkirk,14048,42.48755,-79.3339,2.5,110.4,100.4,449
+465474,Comfort Inn,Dunkirk,14048,42.45878,-79.31579,2.5,110.3,100.3,450
+658054,Adirondack Lodge Old Forge,Eagle Bay,13420,43.70179,-74.99261,2.5,89.2288,79.2038,451
+215168,Hampton Inn East Aurora,East Aurora,14052,42.76656,-78.60798,2.5,154.47,114.47,452
+310636,Hampton Inn New York - LaGuardia Airport,East Elmhurst,11369,40.7683,-73.86758,2.5,189.22,161.23,453
+148864,LaGuardia Plaza Hotel,East Elmhurst,11369,40.76774,-73.86656,3.5,289.23,237.23,454
+106443,New York LaGuardia Airport Marriott,East Elmhurst,11369,40.76842,-73.8676,3.5,209.43,189.43,59
+107364,Airway Inn at LaGuardia,East Elmhurst,11370,40.7644,-73.88697,1.5,145.42,125.42,455
+325471,Comfort Inn LaGuardia Airport - 83rd St,East Elmhurst,11370,40.76585,-73.88627,2.5,181.4,180.4,456
+126855,Courtyard New York LaGuardia Airport,East Elmhurst,11369,40.76931,-73.88026,3,249.16,169.16,457
+152230,The Landing at LaGuardia,East Elmhurst,11369,40.76912,-73.87631,2.5,175,155,458
+534327,NYC Summer Dorms Queens,East Elmhurst,11369,40.76743,-73.88227,2,100,99,459
+231410,Residence Inn by Marriott Albany East Greenbush/Tech Valley,East Greenbush,12061,42.63003,-73.69869,3,149.0333,134.0199,460
+219299,Comfort Inn & Suites East Greenbush - Albany,East Greenbush,12033,42.5793,-73.68184,2.5,139.4,119,461
+124299,Fairfield Inn by Marriott Albany East Greenbush,East Greenbush,12061,42.62569,-73.70015,2.5,140.01,139.01,462
+219204,Americas Best Value Inn-Albany / East Greenbush,East Greenbush,12061,42.60108,-73.7124,2,80.18,70.18,463
+616404,Hampton Inn & Suites Albany-East Greenbush,East Greenbush,12061,42.62423,-73.70092,2.5,139.05,119.05,464
+530991,"East Norwich Inn-Oyster Bay, Long Island, NY",East Norwich,11732,40.84238,-73.534,2.5,93.614,80.1982,465
+350797,The Shearwater Inn,East Quogue,11942,40.84769,-72.5684,3,324.6728,299.7008,466
+194176,Cresthill Suites Syracuse,East Syracuse,13057,43.08976,-76.07658,3,159.04,99.04,467
+313533,Holiday Inn Express & Suites Dewitt (Syracuse),East Syracuse,13057,43.05321,-76.06531,2.5,139.48,111.48,468
+106396,DoubleTree by Hilton Syracuse,East Syracuse,13057,43.08661,-76.08265,3.5,149.46,139.46,469
+273356,Ramada East Syracuse Carrier Circle,East Syracuse,13057,43.08963,-76.08703,3,120.88,106.95,470
+117873,Courtyard Syracuse Carrier Circle,East Syracuse,13057,43.09129,-76.08724,3,199.18,143.16,471
+342671,Springhill Suites by Marriott Syracuse Carrier Circle,East Syracuse,13057,43.08944,-76.08021,3,149.22,129.01,472
+185206,Americas Best Value Inn East Syracuse,East Syracuse,13057,43.09103,-76.08546,2,46.06,45.88,473
+200234,Hilton Garden Inn Syracuse,East Syracuse,13057,43.09179,-76.07301,3,189.36,149.36,474
+124041,Quality Inn East Syracuse,East Syracuse,13057,43.09149,-76.08557,2.5,96,95,475
+124505,Embassy Suites Syracuse,East Syracuse,13057,43.09247,-76.08468,3.5,159.24,118.24,476
+117777,East Syracuse Inn,East Syracuse,13057,43.0906,-76.08621,2.5,90.24,89.24,477
+147610,Candlewood Suites East Syracuse - Carrier Circle,East Syracuse,13057,43.0892,-76.08877,2.5,180.32,99.32,478
+130522,Extended Stay America - Syracuse - Dewitt,East Syracuse,13057,43.09178,-76.08506,2.5,74.99,71.24,479
+125427,Residence Inn Syracuse Carrier Circle,East Syracuse,13057,43.09103,-76.08764,3,155.35,154.35,480
+458740,Motel 6 Syracuse,East Syracuse,13057,43.08934,-76.08825,2,47.34,46.34,481
+546865,Hampton Inn & Suites Syracuse/Carrier Circle,East Syracuse,13057,43.09046,-76.07924,2.5,139,98.1,482
+552184,Homewood Suites by Hilton Syracuse - Carrier Circle,East Syracuse,13057,43.09234,-76.07108,3,144,119,483
+594894,Sleep Inn & Suites Airport,East Syracuse,13057,43.09999,-76.08214,2.5,164.38,159.38,484
+201579,Super 8 Syracuse East,East Syracuse,13057,43.09141,-76.08521,2,46.2606,45.2606,485
+626520,Fairfield Inn and Suites by Marriott Syracuse Carrier Circle,East Syracuse,13057,43.08945,-76.08023,2.5,114.38,104.38,486
+237167,Wingate by Wyndham Ellicottville,Ellicottville,14731,42.27617,-78.66898,2.5,249.42,129.42,487
+362107,The Tamarack,Ellicottville,14731,42.26294,-78.66662,3,314,140,488
+509401,Hotel Q New York,Elmhurst,11373,40.73928,-73.88947,2.5,130,113.994,489
+428411,Fairfield Inn & Suites Elmira Corning,Elmira,14845,42.15934,-76.86122,2.5,124.49,93.49,490
+127533,Econo Lodge Elmira,Elmira,14903,42.15454,-76.87944,2,78.32,75.32,491
+107893,Holiday Inn Elmira - Riverview,Elmira,14901,42.08926,-76.79326,3,119.4,80.4,492
+576225,Enchanted Cottage on Glen,Elmira,14905,42.0826,-76.85083,3,235.09,234.09,493
+576222,Castle on Glen,Elmira,14905,42.08229,-76.85086,3.5,280.551,279.551,494
+238405,Days Inn Elmsford,Elmsford,10523,41.05494,-73.82187,2,125.43,115.43,495
+193174,Extended Stay America - White Plains - Elmsford,Elmsford,10523,41.05215,-73.81391,2,100.0722,95.0682,496
+129251,Hampton Inn White Plains,Elmsford,10523,41.05827,-73.82684,2.5,169.24,169,497
+106926,La Quinta Inn & Suites White Plains - Elmsford,Elmsford,10523,41.07068,-73.81631,2.5,114.41,109.41,498
+533836,Red Carpet Inn Endicott Binghamton,Endicott,13760,42.09224,-76.08308,2,120.4,41.4,499
+116102,Knights Inn Endwell Binghamton,Endwell,13760,42.10472,-76.03283,2,55.869,54.869,500
+408003,Days Inn Evans Mills/Fort Drum,Evans Mills,13637,44.04289,-75.83851,2,125.19,75.19,501
+313138,Candlewood Suites Watertown Fort Drum,Evans Mills,13637,44.04233,-75.84399,2.5,100.36,91.36,502
+117021,Woodcliff Hotel and Spa,Fairport,14450,43.04518,-77.45575,4,214.19,159.19,503
+171398,Red Roof Inn Jamestown - Falconer,Falconer,14733,42.12597,-79.19039,2,89.9945,79.994,504
+543633,AnYi Guesthouse JFK,Far Rockaway,11692,40.59083,-73.79125,2.5,121,120,505
+556678,La Quinta Inn & Suites Far Rockaway - JFK Airport,Far Rockaway,11691,40.59369,-73.77518,2.5,135.0164,125.0158,506
+252508,Courtyard by Marriott Republic Aprt Long Island/Farmingdale,Farmingdale,11735,40.72829,-73.42244,3,210.41,209.41,507
+366167,Americana Inn Farmingdale,Farmingdale,11735,40.72528,-73.4239,2,100.33,75.33,508
+262187,TownePlace Suites by Marriott Republic Airport Long Island,Farmingdale,11735,40.72832,-73.42195,2.5,160.45,159.45,509
+267337,Comfort Inn & Suites Farmington - Victor,Farmington,14425,42.97502,-77.35579,2,150.16,149.99,510
+188068,Finger Lakes Hotel,Farmington,14425,42.99231,-77.35539,2,116.33,104.33,511
+206206,Americas Best Value Inn,Farmington,14425,42.9744,-77.35385,2,109,59,512
+178162,Hampton Inn Long Island-Brookhaven,Farmingville,11738,40.8258,-73.02057,2.5,189.14,149.11,513
+122211,Craftsman Inn and Conference Center,Fayetteville,13066,43.02918,-76.01802,2.5,165.66,126.66,514
+196902,Holiday Inn Express Hotel & Suites Findley Lake -I-86 Exit 4,Findley Lake,14736,42.13276,-79.74201,2.5,104.45,81.45,515
+141354,Extended Stay America - Fishkill - Route 9,Fishkill,12524,41.53035,-73.89201,2.5,100.39,90.39,516
+259272,Quality Inn & Suites,Fishkill,12524,41.52663,-73.91857,2.5,130.3,110.3,517
+108066,Ramada Fishkill,Fishkill,12524,41.52559,-73.89098,3,135.3,93.3,518
+139472,Hampton Inn Fishkill,Fishkill,12524,41.52605,-73.89114,2.5,125.24,116.23,519
+112829,Hawthorn Suites by Wyndham Fishkill/Poughkeepsie Area,Fishkill,12524,41.52752,-73.89166,3,159.36,77.36,520
+261404,Extended Stay America Fishkill - Westage Center,Fishkill,12524,41.52906,-73.89672,2.5,91.39,90.39,521
+126837,Courtyard Fishkill by Marriott,Fishkill,12524,41.52717,-73.89275,3,143.33,134.33,522
+212088,Hilton Garden Inn Fishkill,Fishkill,12524,41.52715,-73.89279,3,180.43,179.43,523
+239215,HYATT house Fishkill/Poughkeepsie,Fishkill,12524,41.52834,-73.8955,3,170.3,169.3,524
+131411,Magnuson Hotel Fishkill,Fishkill,12524,41.52756,-73.89155,2.5,90,80,525
+264587,Holiday Inn Express Fishkill-Mid Hudson Valley,Fishkill,12524,41.52755,-73.89153,2.5,190.37,171.37,526
+629201,Residence Inn by Marriott Fishkill,Fishkill,12524,41.52488,-73.89516,3,299.23,219.23,527
+629208,SpringHill Suites by Marriott Fishkill,Fishkill,12524,41.52488,-73.89516,3,139.9827,138.9827,527
+277638,Quality Inn Floral Park,Floral Park,11001,40.72779,-73.70828,2.5,149.0227,109.0188,528
+489196,The Floral Park Motor Lodge,Floral Park,11001,40.72698,-73.71176,2,150.2,105,529
+345975,Red Roof Inn Flushing New York - LaGuardia Airport,Flushing,11354,40.76142,-73.83289,2,131.44,130.44,530
+237872,Flushing Central Hotel,Flushing,11354,40.76064,-73.83121,2,119.32,100.32,531
+212041,Best Western Queens Court Hotel,Flushing,11354,40.76086,-73.82807,2.5,179.99,153.09,532
+420542,Asiatic Hotel by LaGuardia Airport,Flushing,11354,40.76113,-73.83228,2,129.36,109.36,533
+205267,Holiday Inn Express Laguardia Airport,Flushing,11368,40.73887,-73.84861,2.5,159.38,149.38,534
+206816,Prince Flushing Hotel,Flushing,11354,40.76065,-73.83364,2.5,140.34,139.34,535
+128591,Sheraton LaGuardia East Hotel,Flushing,11354,40.75983,-73.83184,3.5,823.1216,269.8385,536
+203455,Fairfield Inn by Marriott LaGuardia Airport/Flushing,Flushing,11354,40.77146,-73.84408,2.5,169.149,159.1408,537
+462419,Flushing Ymca,Flushing,11354,40.76419,-73.82648,2,107.1,97.1,538
+446007,The Parc Hotel,Flushing,11354,40.75842,-73.83437,2.5,249.0377,139.0244,539
+446644,Hyatt Place Flushing/LaGuardia Airport,Flushing,11354,40.75946,-73.83297,3,360.43,359.43,540
+452803,Ramada Flushing Queens,Flushing,11354,40.76154,-73.83292,2,291.05,156.54,541
+543637,AnYi Guesthouse Flushing,Flushing,11354,40.76032,-73.83269,2.5,101,100,542
+557122,AnYi Guesthouse LaGuardia,Flushing,11367,40.74064,-73.82811,2.5,95.0783,69.0569,543
+243251,Marco LaGuardia Hotel by Lexington,Flushing,11354,40.76335,-73.83092,3.5,199.0249,159.021,544
+199476,White Inn,Fredonia,14063,42.4411,-79.32953,3,169.0088,89.0047,545
+126517,Days Inn Fredonia,Fredonia,14063,42.45625,-79.31093,2,110.39,90.39,546
+273734,The Freeport Inn and Marina,Freeport,11520,40.64447,-73.5751,3,267.17,179.45,547
+666812,Wyndham Garden Fresh Meadows Flushing,Fresh Meadows,11365,40.73915,-73.78755,3.5,178.37,94.4,548
+669604,Courtyard New York Queens/fresh Meadows,Fresh Meadows,11365,40.74016,-73.7904,3,0,0,549
+676427,Fairfield Inn & Suites New York Queens/Fresh Meadows,Fresh Meadows,11365,40.73994,-73.79122,2.5,0,0,550
+350351,Red Roof Inn Fulton,Fulton,13069,43.30806,-76.39816,2.5,78.03,68.02,551
+160671,The Garden City Hotel,Garden City,11530,40.72414,-73.63951,4,269.36,242.36,552
+333588,Hyatt Place Garden City,Garden City,11530,40.74197,-73.60812,3,170,169,553
+246232,Hampton Inn Garden City,Garden City,11530,40.74161,-73.60966,2.5,229.49,179.49,554
+173161,La Quinta Inn & Suites Garden City,Garden City,11530,40.73338,-73.60424,2.5,165.01,155.01,555
+379707,Hampton Inn Geneseo,Geneseo,14454,42.79746,-77.78781,2.5,169.42,129.42,556
+231929,Quality Inn Geneseo,Geneseo,14454,42.79718,-77.78871,2.5,126.37,125.37,557
+591575,Temple Hill Bed & Breakfast,Geneseo,14454,42.79393,-77.80843,3,140.35,139.35,558
+132560,Ramada Geneva Lakefront,Geneva,14456,42.86366,-76.98185,3,144.49,110.49,559
+333256,Microtel Inn & Suites by Wyndham Geneva,Geneva,14456,42.8565,-77.00775,2,109.34,89.34,560
+378586,Days Inn Geneva,Geneva,14456,42.85693,-77.00408,2,64.35,60.35,561
+242232,Hampton Inn Geneva,Geneva,14456,42.87004,-76.97945,2.5,139.35,107.35,562
+223893,Americas Best Value Inn,Geneva,14456,42.85709,-77.00338,2,240.47,129.47,563
+475566,Holiday Inn Express & Suites Geneva Finger Lakes,Geneva,14456,42.85657,-77.00666,2.5,110.44,90.44,564
+612856,Fairfield Inn & Suites by Marriott Geneva Finger Lakes,Geneva,14456,42.85809,-76.99835,3,114.0053,85.0138,565
+204898,Glen Cove Mansion Hotel,Glen Cove,11542,40.88382,-73.63072,4,160.45,140.45,566
+122400,Comfort Inn Glenmont,Glenmont,12077,42.62296,-73.77729,2.5,101.0044,100.0044,567
+215201,Days Inn and Suites Glenmont/Albany,Glenmont,12077,42.61995,-73.78253,2,144.18,124.18,568
+203873,The Queensbury Hotel,Glens Falls,12801,43.31171,-73.64377,3,99,89,569
+401700,The Glens Falls Inn,Glens Falls,12801,43.31093,-73.65242,3,190.37,189.37,570
+231167,Comfort Inn & Suites Goshen - Middletown,Goshen,10924,41.3942,-74.33914,2.5,124,99,571
+107928,Radisson Hotel Niagara Falls-Grand Island,Grand Island,14072,43.02219,-78.89931,3,89.47,79.27,572
+460541,Budget Motel,Grand Island,14072,43.04652,-78.9864,2,65.46,56.46,573
+460515,Jade Inn Motel,Grand Island,14072,43.03069,-78.97127,2,186.46,185.46,574
+194559,The Andrew Hotel,Great Neck,11021,40.78799,-73.72528,3.5,209.03,179,575
+542150,"Inn at Great Neck, BW Premier Collection",Great Neck,11021,40.78659,-73.72925,4,319,168.21,576
+657566,Harbor Knoll Bed and Breakfast,Greenport,11944,41.09886,-72.36378,4,275.09,250.08,577
+366967,Antons on the Lake Country Inn and Marina,Greenwood Lake,10925,41.21971,-74.29018,3,165.16,125.16,578
+226912,Ruah Bed & Breakfast,Hague,12836,43.751,-73.48694,3.5,160.9214,159.9214,579
+409771,The Twilight Lodge,Haines Falls,12436,42.19521,-74.09532,2.5,121.31,83.31,580
+310517,Holiday Inn Express Hotel & Suites Hamburg,Hamburg,14075,42.74065,-78.85127,2.5,208.9146,138.5189,581
+169075,Comfort Inn And Suites Hamburg,Hamburg,14075,42.74071,-78.85123,2.5,75.36,70.36,582
+127174,Red Roof Inn Buffalo - Hamburg,Hamburg,14075,42.74101,-78.84892,2,80.35,74.99,583
+337647,Super 8 Hamburg,Hamburg,14075,42.73945,-78.8455,2,50.42,42.42,584
+462654,"Motel 6 Hamburg, NY",Hamburg,14075,42.74463,-78.84921,2,51.39,46.39,585
+107152,Quality Inn Hamburg,Hamburg,14075,42.73901,-78.84509,2.5,104.4,84.4,586
+457426,18 Vine Inn & Carriage House,Hammondsport,14840,42.40692,-77.2252,3,349.8639,178.936,587
+597268,Best Western Plus The Hammondsport Hotel,Hammondsport,14840,42.39912,-77.22748,2.5,149.47,108.47,588
+194743,Holiday Inn Express Hauppauge,Hauppauge,11788,40.80814,-73.22067,2.5,169,149,589
+105739,Radisson Hotel Hauppauge-Long Island,Hauppauge,11788,40.80602,-73.26543,3.5,170.0299,169.0299,590
+179765,Hyatt Regency Long Island at Wind Watch Golf Club,Hauppauge,11788,40.81319,-73.17256,3.5,349.31,149,591
+203116,Residence Inn By Marriott Long Island Hauppauge,Hauppauge,11788,40.82057,-73.20378,3,169.31,149.31,592
+244250,Bricktown Inn,Haverstraw,10927,41.19477,-73.9675,2.5,166.2,165.2,593
+608333,Single Island Shores,Hector,14841,42.51224,-76.88277,3,398.6862,268.7871,594
+490591,RIT Inn & Conference Center,Henrietta,14467,43.04926,-77.65818,3.5,127,126,595
+228038,Red Roof Inn Rochester - Henrietta,Henrietta,14467,43.05779,-77.65253,2,65.46,60.46,596
+218223,Days Inn Henrietta/Rochester Area,Henrietta,14467,43.05745,-77.65272,2,70.12,29.74,597
+185171,Microtel Inn by Wyndham Henrietta/Rochester,Henrietta,14467,43.05871,-77.65171,2,50.41,38.41,598
+175406,"Country Inn & Suites by Carlson Rochester - Henrietta, NY",Henrietta,14467,43.06074,-77.65089,3,194.1981,109.3909,599
+217822,Super 8 Henrietta/Rochester Area,Henrietta,14467,43.05878,-77.64458,2,63.32,51.32,600
+117716,Fairfield Inn Rochester South,Henrietta,14467,43.05945,-77.65161,2.5,124.43,105.43,601
+248796,Bellinger Rose Bed & Breakfast,Herkimer,13350,43.02757,-74.99687,2.5,189.0099,149.0078,602
+477461,Red Roof Inn & Suites Herkimer,Herkimer,13350,43.01895,-74.99162,2,144.9981,76.9943,603
+127534,Econo Lodge Hicksville,Hicksville,11801,40.75738,-73.54963,2,100.38,99.38,604
+121613,Long Island - Days Inn Hicksville,Hicksville,11801,40.76184,-73.50024,2,109.21,84.21,605
+390189,Americas Best Value Inn,Highland,12528,41.72916,-73.96191,2,80.46,79.46,606
+397277,Atlas Motor Lodge,Highland,12528,41.71068,-73.96524,2,75.36,67.36,607
+215099,Super 8 Highland NY,Highland,12528,41.73971,-73.96314,2,60.42,59.42,608
+604820,Stonegate Bed and Breakfast,Highland,12528,41.72659,-73.96506,3.5,160.21,140.21,609
+251555,FairBridge Inn & Suites at West Point,Highland Falls,10928,41.35565,-73.9724,2,85.9834,84.9834,610
+192196,Holiday Inn Express West Point,Highland Falls,10922,41.33936,-73.97763,2.5,174.47,131.47,611
+340754,Overlook Lodge at Bear Mountain,Highland Falls,10911,41.31952,-73.99168,2.5,130,129,612
+484191,Akwesasne Mohawk Casino Resort,Hogansburg,13655,44.96785,-74.64659,3.5,290,289,613
+200726,Ramada Plaza Holtsville Long Island,Holtsville,11742,40.82096,-73.02007,3.5,269.48,101.48,614
+220289,Residence Inn by Marriott Long Island Holtsville,Holtsville,11742,40.81639,-73.05612,3,159.0185,149.018,615
+254147,Greenwoods Bed & Breakfast Inn,Honeoye,14471,42.80363,-77.48402,3,179.1,139.1,616
+262785,The Bykenhulle House,Hopewell Junction,12533,41.58261,-73.7704,3.5,218.6489,168.729,617
+142919,Days Inn,Hornell,14843,42.36594,-77.67342,2,79.8554,67.8756,618
+133324,Econo Lodge Hornell,Hornell,14843,42.36184,-77.66534,2,61.43,60.43,619
+111540,Best Western Maple City Inn,Hornell,14843,42.32312,-77.66186,2.5,141.32,111.35,620
+194129,Country Inn & Suites By Carlson Big Flats (Elmira),Horseheads,14845,42.16121,-76.86564,3,99.46,89.46,621
+107891,Holiday Inn Express Elmira - Horseheads,Horseheads,14845,42.16155,-76.83878,3,129.41,83.41,622
+173768,Hilton Garden Inn Elmira/Corning,Horseheads,14845,42.16188,-76.87498,3,149.44,93.44,623
+492730,Rodeway Inn Marshall Manor,Horseheads,14845,42.21712,-76.84882,2,98.99,97.99,624
+337743,Hampton Inn Elmira-Horseheads,Horseheads,14845,42.19733,-76.81042,2.5,107.33,89.33,625
+390688,Candlewood Suites Elmira Horseheads,Horseheads,14845,42.16115,-76.86553,2.5,93.48,79.48,626
+202829,Horseheads Knights Inn,Horseheads,14845,42.16533,-76.84007,1.5,61.44,60.44,627
+258095,Budget Inn Horseheads,Horseheads,14845,42.15573,-76.81638,2,69.34,55.34,628
+570518,Courtyard by Marriott Elmira Horseheads,Horseheads,14845,42.1614,-76.86635,3,110.41,109.41,629
+385631,Surfside Motel,Howard Beach,11414,40.64987,-73.83745,2,214.43,128.43,630
+648275,The Sedgwick House,Hunter,12242,42.20892,-74.21036,2.5,121.4934,120.4934,631
+243660,The Fairlawn Inn,Hunter,12442,42.21103,-74.21548,3,229,169,632
+218414,Oheka Castle Hotel & Estate,Huntington,11743,40.82649,-73.44929,3.5,325.0175,295.0159,633
+337597,Whitman Motor Lodge,Huntington Station,11746,40.82946,-73.39906,2,150.1192,109.0231,634
+170535,Rodeway Inn,Huntington Station,11746,40.82857,-73.41942,2,104.0856,89.0733,635
+239820,Quality Inn,Hyde Park,12538,41.77417,-73.93068,2.5,110.39,105.39,636
+683008,Journey Inn Bed & Breakfast,Hyde Park,12538,41.79496,-73.93771,4,161.21,160.21,637
+107179,Hampton Inn Long Island/Islandia,Islandia,11749,40.8077,-73.18383,2.5,154.1,139.09,638
+114272,The Statler Hotel at Cornell University,Ithaca,14853,42.44662,-76.48185,4,320.37,255.37,639
+107897,Ramada Ithaca Hotel and Conference Center,Ithaca,14850,42.4833,-76.48535,2.5,150.42,93.46,640
+434660,Fairfield Inn & Suites Ithaca,Ithaca,14850,42.4227,-76.51626,2.5,149.38,118.38,641
+133407,Quality Inn,Ithaca,14850,42.42308,-76.51589,2.5,114.35,109.35,642
+113411,La Tourelle,Ithaca,14850,42.40165,-76.50101,3.5,150.38,120.38,643
+209685,Best Western University Inn,Ithaca,14850,42.43571,-76.46178,2.5,170.41,119.41,644
+252501,Homewood Suites by Hilton Ithaca,Ithaca,14850,42.47935,-76.47834,3,454.45,152.45,645
+252457,Meadow Court Inn,Ithaca,14850,42.43474,-76.5081,2,84.37,69.37,646
+218321,Hampton Inn Ithaca,Ithaca,14850,42.42481,-76.51378,2.5,159.47,134.47,647
+142924,Super 8 Ithaca,Ithaca,14850,42.43639,-76.50814,2,105.45,77.45,648
+192373,Courtyard by Marriott Ithaca Airport/University,Ithaca,14850,42.48481,-76.46496,3,163.6183,138.6874,649
+118596,Econo Lodge,Ithaca,14850,42.48306,-76.48516,2,139.49,129.49,650
+214738,Rodeway Inn And Suites,Ithaca,14850,42.41071,-76.53842,2,164.99,95.09,651
+265245,Country Inn & Suites By Carlson of Ithaca,Ithaca,14850,42.40795,-76.50299,3,193.44,134.44,652
+137742,Trip Hotel Ithaca,Ithaca,14850,42.47826,-76.4805,2,140.3,129.95,653
+231434,Hilton Garden Inn Ithaca,Ithaca,14850,42.44044,-76.4975,3,253.9007,178.936,654
+606494,Firelight Camps,Ithaca,14850,42.40185,-76.50291,2.5,184.41,183.41,655
+608337,Bunny Trail Guest House,Ithaca,14850,42.40176,-76.46021,3.5,243,242,656
+592803,Ithaca Marriott Downtown on the Commons,Ithaca,14850,42.43908,-76.49538,3.5,234.6032,174.4487,657
+635200,Holiday Inn Express & Suites Ithaca,Ithaca,14850,42.42116,-76.51809,3,142.33,137.33,658
+223947,Hilton Garden Inn Queens/JFK Airport,Jamaica,11430,40.66577,-73.80585,3,179.0687,143.7608,659
+211069,Best Western JFK Airport Hotel,Jamaica,11434,40.6656,-73.78492,2.5,209.0109,170.0594,660
+197453,Hampton Inn JFK Airport,Jamaica,11436,40.66789,-73.79471,3,195.0094,194.0094,661
+256601,Lexington Inn JFK Airport,Jamaica,11435,40.7025,-73.81506,2.5,151.37,150.37,662
+271672,Ramada Jamaica/Queens,Jamaica,11432,40.7092,-73.79764,2.5,415.17,414.17,663
+440185,Howard Johnson Jamaica NY Near AirTrain JFK,Jamaica,11435,40.69947,-73.81103,2.5,169.99,109.99,664
+206848,Holiday Inn Express Kennedy Airport,Jamaica,11434,40.66639,-73.78475,2.5,214.44,157.44,665
+407437,Sleep Inn JFK Airport Rockaway Blvd,Jamaica,11434,40.6685,-73.78148,2,146.0082,145.0082,666
+275408,Sheraton JFK Airport Hotel,Jamaica,11430,40.66619,-73.80683,3.5,196.8031,173.4313,667
+163814,Radisson Hotel JFK Airport,Jamaica,11436,40.6679,-73.79845,3.5,240.0919,195.0571,668
+193716,Courtyard by Marriott New York JFK Airport,Jamaica,11436,40.66743,-73.79386,3,175.3,174.3,669
+202199,Fairfield Inn by Marriott JFK Airport,Jamaica,11434,40.66667,-73.77991,3,233.9109,148.9574,670
+107234,Hilton New York JFK Airport,Jamaica,11436,40.66833,-73.7963,3.5,419.0217,279.0145,671
+218221,Best Western Jamaica Inn,Jamaica,11435,40.70574,-73.81753,2.5,140.33,130.33,672
+436969,Holiday Inn New York JFK Airport Area,Jamaica,11422,40.63995,-73.74374,3,204.0099,169.0088,673
+379236,Sleep Inn JFK Airport,Jamaica,11433,40.70545,-73.78258,2,148.6222,117.0964,674
+231628,Days Inn JFK Airport,Jamaica,11434,40.66563,-73.78404,2,119.1554,118.1554,675
+226886,Knights Inn JFK,Jamaica,11435,40.70245,-73.81246,2,162.059,131.6716,676
+112993,Crowne Plaza JFK Airport New York City,Jamaica,11436,40.6678,-73.79943,3.5,219.0114,170.1086,677
+198226,Howard Johnson Inn Jamaica JFK Airport NYC,Jamaica,11434,40.66839,-73.78138,2,228.4597,96.673,678
+414787,Garden Inn & Suites,Jamaica,11434,40.66773,-73.78682,2,100,99,679
+200950,JFK Inn,Jamaica,11434,40.66659,-73.78221,2,159,139,680
+482099,Comfort Inn,Jamaica,11432,40.70573,-73.79857,2.5,169.39,149.39,681
+431319,Super 8 Jamaica North Conduit,Jamaica,11434,40.66737,-73.78337,2,129.34,109.34,682
+351674,Jets Motor Inn,Jamaica,11435,40.70631,-73.81685,2,222.3136,141.7133,683
+496002,Rodeway Inn Near JFK Airport,Jamaica,11434,40.66813,-73.78336,2,135.0063,134.0063,684
+437553,Par Central Motor Inn,Jamaica,11432,40.71611,-73.80788,1.5,355.4,354.4,685
+577480,Days Inn & Suites Jamaica JFK Airport,Jamaica,11433-1043,40.6987,-73.80108,2.5,149.9032,101.7584,686
+579396,JFK Bed & Breakfast Guesthouse,Jamaica,11436,40.67222,-73.79577,2.5,99.18,69.13,687
+606285,Sleep Inn near JFK AirTrain,Jamaica,11435,40.70365,-73.81504,2,149.2564,139.2392,688
+598464,Clarion Inn JFK Airport,Jamaica,11434,40.66002,-73.76792,2.5,149.9053,129.7835,689
+114812,Comfort Inn Jamestown - Falconer,Jamestown,14701,42.11958,-79.24087,2.5,104.9859,94.9955,690
+240762,Hampton Inn and Suites Jamestown,Jamestown,14701,42.11678,-79.24091,2.5,129.41,98.41,691
+476468,Best Western Plus Downtown Jamestown,Jamestown,14701,42.09584,-79.24434,2.5,124.997,89.9945,692
+248005,Americas Best Value Inn- Jamestown/ West Ellicot,Jamestown,14701,42.0972,-79.27478,2,66.0041,65.0041,693
+498674,Holiday Inn Express & Suites Jamestown,Jamestown,14701,42.11954,-79.24092,2.5,129.0068,99.0052,694
+436973,The Biggest Loser Resort Niagara,Java Center,14082,42.65853,-78.40074,3.5,724.84,703.13,695
+204042,Hampton Inn Jericho - Westbury,Jericho,11753,40.78148,-73.55762,2,150,149,696
+223054,Meadowbrook Motor Lodge,Jericho,11753,40.79539,-73.53487,2,93.43,91.43,697
+238352,Inn at Jericho,Jericho,11753,40.77966,-73.56054,2,110,85,698
+127176,Red Roof Inn Binghamton - Johnson City,Johnson City,13790,42.128,-75.97048,2,73.0883,48.722,699
+227167,Traditions at the Glen Resort and Hotel - Binghamton,Johnson City,13790,42.12382,-75.99631,3.5,149.0078,109.0058,700
+139433,Hampton Inn Johnson City,Johnson City,13790,42.12096,-75.9754,2.5,119.45,109.45,701
+495570,Best Western Plus Of Johnson City,Johnson City,13790,42.12537,-75.97178,2.5,99.38,76.38,702
+233865,La Quinta Inn Binghamton - Johnson City,Johnson City,13790,42.12452,-75.97031,2.5,95.33,85.33,703
+262715,Microtel Inn & Suites by Wyndham Johnstown,Johnstown,12095,43.01037,-74.36023,2,108.0137,76.0085,704
+142918,Super 8 Johnstown Gloversville Area,Johnstown,12095,43.02171,-74.3617,2,106.99,63.74,705
+107938,Holiday Inn Johnstown-Gloversville,Johnstown,12095,43.02333,-74.36085,3,139.966,104.9666,706
+201785,Super 8 Kenmore/Buffalo/Niagara Falls,Kenmore,14217,42.98088,-78.88682,2,116.93,44.99,707
+451873,Pinegrove Family Dude Ranch,Kerhonkson,12466,41.79336,-74.31022,3,398.0208,338.0177,708
+538653,Hudson Valley Resort And Spa,Kerhonkson,12446,41.76659,-74.26109,3,226.24,107.67,709
+237432,Courtyard by Marriott Kingston,Kingston,12401,41.95997,-73.98306,3,164.46,124.46,710
+107939,Best Western Plus Kingston Hotel And Conference Center,Kingston,12401,41.93818,-74.0266,3,249.43,129.43,711
+275788,Rodeway Inn Skytop,Kingston,12401,41.95199,-74.04192,2,75.4,65.4,712
+254183,Hampton Inn Kingston,Kingston,12401,41.96678,-73.98917,2.5,149.38,116.38,713
+204980,Super 8 Kingston,Kingston,12401,41.93804,-74.02665,2,162.38,78.38,714
+231519,Quality Inn & Suites,Kingston,12401,41.94694,-74.03157,2.5,99.09,99,715
+612849,Residence Inn by Marriott Kingston,Kingston,12401,41.96989,-73.98339,3,159.08,129.01,716
+261592,Best Western Plus the Inn of Lackawanna,Lackawanna,14218,42.81768,-78.84687,2.5,140.45,99.45,717
+107164,Holiday Inn Lake George Turf,Lake George,12845,43.41503,-73.71253,3.5,179,102,718
+228613,The Georgian Lakeside Resort,Lake George,12845,43.42927,-73.71183,2.5,290.15,212.55,719
+253309,Wingate by Wyndham Lake George,Lake George,12845,43.41047,-73.70869,2.5,179.36,85.36,720
+412848,Villager Motor Inn,Lake George,12845,43.42175,-73.71424,2,70.33,60.33,721
+252502,Comfort Suites Lake George,Lake George,12845,43.3715,-73.69799,2.5,160.3,150.3,722
+204933,Super 8 Lake George/Downtown,Lake George,12845,43.41099,-73.71123,2,82.49,64.49,723
+119135,Clarion Inn & Suites at the Outlets of Lake George,Lake George,12845,43.36631,-73.69951,2.5,133.32,83.32,724
+242688,Hampton Inn & Suites Lake George,Lake George,12845,43.40881,-73.71082,2.5,144.48,124,725
+142003,Econo Lodge,Lake George,12845,43.36598,-73.69972,2,74.42,69.42,726
+176692,Best Western of Lake George,Lake George,12845,43.40429,-73.71053,2.5,237.95,101.49,727
+213949,Fort William Henry Hotel and Conference Center,Lake George,12845,43.41998,-73.71401,3,157.35,91.35,728
+126407,Travelodge Lake George,Lake George,12845,43.40431,-73.70828,2,159,149,729
+162529,Tahoe Resort on Lake George,Lake George,12845,43.43707,-73.70616,2,260.24,149.1,730
+213482,Roaring Brook Ranch Resort & Conference Center,Lake George,12845,43.39467,-73.72757,2.5,124,120.47,731
+111306,Rodeway Inn Springhills Lake George,Lake George,12845,43.40435,-73.71061,2,99.4291,55.679,732
+385578,Lake View Inn,Lake George,12845,43.41708,-73.71312,2,299,109,733
+377952,The Motel Montreal,Lake George,12845,43.43102,-73.71174,2,298.9203,85.0285,734
+351733,Lake George Diamond Cove,Lake George,12845,43.47739,-73.68768,3,355.05,354.05,735
+124324,Tiki Resort,Lake George,12845,43.41534,-73.71252,2.5,342.39,184.54,736
+242778,Econo Lodge Downtown Lake George,Lake George,12845,43.43151,-73.71262,2,710.45,89.45,737
+152233,Quality Inn Lake George,Lake George,12845,43.42011,-73.71412,2.5,100.19,99.95,738
+204848,Super 8 Lake George/Warrensburg Area,Lake George,12845,43.48718,-73.75893,2,85.3492,77.317,739
+259511,Americas Best Value Inn & Suites,Lake George,12845,43.43099,-73.71252,2.5,189,79,740
+461405,Golden Sands Resort On Lake George,Lake George,12845,43.47729,-73.68766,2,220.0373,180.0228,741
+617870,Courtyard by Marriott Lake George,Lake George,12845,43.42742,-73.71284,3,289.0251,116.0066,742
+637045,Sundowner on Lake George,Lake George,12845,43.43036,-73.71079,2.5,116.45,115.45,743
+271165,High Peaks Resort,Lake Placid,12946,44.29174,-73.98595,4,255.38,237.38,744
+435217,Hampton Inn & Suites Lake Placid,Lake Placid,12946,44.28339,-73.98125,2.5,329.34,179.34,745
+225646,Spruce Lodge Bed & Breakfast & Guest Cottage,Lake Placid,12946,44.27466,-73.98084,2,85.41,65.41,746
+127539,Econo Lodge Lake Placid,Lake Placid,12946,44.2694,-73.97557,2,80.37,70.37,747
+112979,Lake House,Lake Placid,12946,44.29172,-73.98549,3.5,127.51,113.35,748
+222176,Crowne Plaza Lake Placid,Lake Placid,12946,44.28605,-73.98698,3.5,259.32,108.32,749
+109246,Quality Inn on Lake Placid,Lake Placid,12946,44.29497,-73.99695,2.5,80.41,79.41,750
+252535,Courtyard by Marriott Lake Placid,Lake Placid,12946,44.27103,-73.97861,3,268.9055,248.9301,751
+228794,Lake Placid Summit Hotel / Resort and Suites,Lake Placid,12946,44.29178,-73.98605,2,195.49,144.49,752
+203832,"Hotel North Woods, an Ascend Hotel Collection Member",Lake Placid,12946,44.28739,-73.98526,3,104.45,84.45,753
+307620,The Pines Inn Lake Placid,Lake Placid,12946,44.29271,-73.9892,3,241.38,240.38,754
+235192,The Whiteface Lodge,Lake Placid,12946,44.29686,-74.00878,4.5,474.29,398.84,755
+487843,Mirror Lake Inn Resort & Spa,Lake Placid,12946,44.29391,-73.98219,4,775.22,299.22,756
+258078,Best Western Adirondack Inn,Lake Placid,12946,44.28412,-73.98434,2.5,265.11,123.4,757
+309396,Rodeway Inn Lakeville,Lakeville,14480,42.83101,-77.69273,2,75.33,74.33,758
+271124,Rogues' Harbor Inn,Lansing,14882,42.53679,-76.50602,3,153.44,120.36,759
+139236,Hilton Garden Inn Albany Airport,Latham,12211,42.74722,-73.81872,3,160.46,159.46,760
+125795,Comfort Inn Latham - Albany North,Latham,12047,42.76911,-73.7538,2.5,119.39,109,761
+241786,La Quinta Inn & Suites Latham Albany Airport,Latham,12110,42.75108,-73.7599,2.5,149.33,144.33,762
+211326,"The Century House, an Ascend Hotel Collection Member",Latham,12110,42.7707,-73.75353,3,130.43,129.43,763
+112503,Days Inn Albany Airport,Latham,12110,42.75393,-73.81501,2,110.39,68.39,764
+201370,Super 8 Latham / Albany Troy Area,Latham,12110,42.75563,-73.77467,2,99.99,59.49,765
+185039,Microtel Inn by Wyndham Albany Airport,Latham,12110,42.7534,-73.77196,2,100.47,72.47,766
+145281,Hotel Indigo Albany Latham,Latham,12110,42.72931,-73.79557,3.5,209.47,150.47,767
+228495,Hampton Inn & Suites Albany Airport,Latham,12110,42.76887,-73.82033,2.5,119.0277,109.0294,768
+252463,Golden Circle Inn,Latham,12110,42.73938,-73.76204,2,112.17,59.18,769
+252472,Travelodge Inn and Suites Latham,Latham,12110,42.75057,-73.76006,2,149.42,89.42,770
+120737,Residence Inn by Marriott Albany Airport,Latham,12110,42.76499,-73.81068,3,169.09,119.07,771
+442935,Albany Airport Hotel,Latham,12110,42.76579,-73.75481,2.5,61.44,60.44,772
+271158,Holiday Inn Express Hotel and Suites Latham,Latham,12110,42.76166,-73.7539,3,169.17,130.17,773
+108831,Quality Inn & Suites Albany Airport,Latham,12110-2505,42.75447,-73.77033,2.5,145.46,95.46,774
+600474,TownePlace Suites Latham Albany Airport,Latham,12110,42.75578,-73.77364,3,179.06,101.0658,775
+423158,Brookside Inn At Laurens,Laurens,13796,42.53246,-75.08626,3,289.04,209.04,776
+412669,Five Towns Inn - JFK Airport,Lawrence,11559,40.63287,-73.73909,2,170.48,169.48,777
+533847,Niagara Crossing Hotel & Spa,Lewiston,14092,43.1734,-79.04782,3.5,219.15,179.15,778
+594600,AARTPARK HOTEL INN at LEWISTON,Lewiston,14092,43.17002,-79.03235,2,89.001,69.0043,779
+680157,Unique 1950's Retro-style House,Lewiston,14092,43.17529,-79.0483,3,221,220,780
+207268,Knights Inn Liberty,Liberty,12754,41.78764,-74.72906,1.5,71.46,70.46,781
+108045,Days Inn Liberty,Liberty,12754,41.78281,-74.72879,2,111.38,110.38,782
+327727,North Fork Bed and Breakfast/Gifts,Lisbon,13658,44.71108,-75.27292,3,114.8077,94.9484,783
+437455,Canal Side Inn,Little Falls,13365,43.04063,-74.85883,2.5,135.37,125.37,784
+209164,Travelodge Little Falls,Little Falls,13365,43.0424,-74.85929,2,164.47,79.47,785
+427636,Overlook Mansion,Little Falls,13365,43.0487,-74.8594,3,120.0063,119.0063,786
+351697,Staybridge Suites Liverpool Syra,Liverpool,13088,43.10242,-76.18709,3,166.17,121,787
+127532,Quality Inn near Destiny USA,Liverpool,13088,43.09085,-76.16933,2.5,91.4,90.4,788
+260290,Hampton Inn Syracuse Clay,Liverpool,13090,43.18411,-76.23852,2.5,179.1474,151.1743,789
+169253,Maplewood Suites Extended Stay,Liverpool,13088,43.09117,-76.16954,3.5,298.35,278.35,790
+128177,Homewood Syracuse/Liverpool,Liverpool,13088,43.09829,-76.17773,3,309.43,139.43,791
+216556,Best Western Plus Liverpool - Syracuse Inn & Suites,Liverpool,13088,43.10558,-76.18796,2.5,130.33,102.33,792
+110131,Hampton Inn Syracuse - North (Airport Area),Liverpool,13088,43.09175,-76.17072,2.5,140.42,139.42,793
+200365,Super 8 Liverpool/Clay/Syracuse Area,Liverpool,13090,43.12704,-76.21819,2,108.7493,47.4424,794
+203865,Super 8 Liverpool/Syracuse Area,Liverpool,13088,43.09201,-76.17109,2,56.2,47.7,795
+202740,Knights Inn Syracuse/Liverpool,Liverpool,13088,43.10042,-76.18876,2,65.44,42.44,796
+149427,Holiday Inn Syracuse-Liverpool-Exit 37,Liverpool,13088,43.10151,-76.18763,3,144.31,124.31,797
+138830,Fairfield Inn by Marriott Syracuse Clay,Liverpool,13090,43.18703,-76.23519,2.5,154.42,118.42,798
+121724,Quality Inn,Lockport,14094,43.15261,-78.69687,2.5,80.39,70.39,799
+208675,Best Western Plus Lockport Hotel,Lockport,14094,43.15318,-78.6969,2.5,85.08,84.99,800
+612730,Hampton Inn Lockport - Buffalo,Lockport,14094,43.12964,-78.69689,2.5,220.19,210.19,801
+369925,The Fox and the Grapes Bed & Breakfast,Lodi,14860,42.56433,-76.86162,3.5,206.31,205.31,802
+311070,Allegria Hotel,Long Beach,11561,40.5846,-73.66675,4,289.3,139.3,803
+467414,Long Beach Hotel,Long Beach,11561,40.58489,-73.65214,2,360.08,129.99,804
+323646,Ramada Long Island City,Long Island City,11101,40.75511,-73.93647,2,114.1134,113.1134,805
+367796,Hotel Vetiver,Long Island City,11101,40.75329,-73.93401,3.5,120.25,80.25,806
+326948,Best Western Plaza Hotel,Long Island City,11101,40.75572,-73.94079,2.5,240.0234,165.02,807
+323087,"Country Inn & Suites By Carlson, New York City in Queens, NY",Long Island City,11101,40.75264,-73.93873,3,132.18,110.68,808
+400299,Wyndham Garden Long Island City Manhattan View,Long Island City,11101,40.74982,-73.95201,3.5,195,139.51,809
+408393,Fairfield Inn & Suites New York Queens/Queensboro Bridge,Long Island City,11101,40.75136,-73.9352,3,209.33,179.33,810
+422980,Nesva Hotel,Long Island City,11101,40.7532,-73.93476,2.5,217,158.1062,811
+358935,Four Points by Sheraton Long Island City Queensboro Bridge,Long Island City,11101,40.75436,-73.93601,3,362.0559,177.3249,812
+384957,Z NYC Hotel,Long Island City,11101,40.75183,-73.94808,4,325,265,813
+231115,La Quinta Inn Queens (New York City),Long Island City,11101,40.74402,-73.92722,2.5,151.32,150.32,814
+202360,City View Inn,Long Island City,11101,40.73588,-73.93392,2,149.38,99.38,815
+258330,Quality Inn,Long Island City,11101,40.75188,-73.93448,2.5,126.49,125.49,816
+241871,Comfort Inn Long Island City,Long Island City,11101,40.74994,-73.9412,2.5,101.39,100.39,817
+265276,Fairfield Inn New York Long Island City/Manhattan View,Long Island City,11101,40.73627,-73.93626,2.5,189.2,159.01,818
+256047,Days Inn Long Island City,Long Island City,11101,40.74519,-73.93364,2,189.31,149.31,819
+274232,Holiday Inn - Long Island City - Manhattan View,Long Island City,11101,40.75336,-73.93461,3,224.19,109.13,820
+195158,Red Roof Inn Queens,Long Island City,11101,40.73687,-73.92845,2.5,89.47,69.47,821
+324875,Sleep Inn,Long Island City,11101,40.75613,-73.94164,2,98.296,97.296,822
+265134,Ravel Hotel,Long Island City,11101,40.75409,-73.94906,4,340.2697,290.2286,823
+449009,Home2 Suites by Hilton NY Long Island City/Manhattan View,Long Island City,11101,40.75312,-73.9337,2.5,279.0433,199.0249,824
+446403,The Paper Factory Hotel,Long Island City,11101,40.75272,-73.92742,4,379.0583,319.0472,825
+476997,Howard Johnson Long Island City,Long Island City,11101,40.75667,-73.94224,2,208.1,159.89,826
+480987,Hilton Garden Inn New York Long Island City,Long Island City,11101,40.75022,-73.93669,3,199.36,179.36,827
+482976,The Local,Long Island City,11101,40.74969,-73.94762,2,140.45,139.45,828
+486516,The Boro Hotel,Long Island City,11101,40.75455,-73.93583,4.5,209.41,149.41,829
+582226,LIC Hotel,Long Island City,11101,40.74938,-73.94678,3.5,129.2,129.1,830
+605317,"The Vue Hotel, an Ascend Hotel Collection Member",Long Island City,11101,40.75364,-73.94123,2.5,299.04,249.0377,831
+571571,Courtyard Long Island City/New York Manhattan View,Long Island City,11101,40.74985,-73.93768,3,344,224,832
+645462,Aloft Long Island City - Manhattan View,Long Island City,11101,40.74844,-73.93984,3,401.21,179.21,833
+644932,Motel 6 Long Island City NY,Long Island City,11101,40.74402,-73.9411,2,138.46,108.46,834
+264890,Holiday Inn Express Lynbrook,Lynbrook,11563,40.65677,-73.6574,2.5,310.0328,176.7218,835
+493301,Capri Lynbrook Motor Inn,Lynbrook,11563,40.6562,-73.68357,2,150.0278,102.0147,836
+207035,Red Roof Inn PLUS+ & Suites Malone,Malone,12953-1708,44.8474,-74.30076,2.5,139.32,90.32,837
+138627,Econo Lodge Malone,Malone,12953,44.84828,-74.3073,2,85.99,84.99,838
+348074,Holiday Inn Express Hotel & Suites Malone,Malone,12953,44.84775,-74.31616,3,139.31,107.31,839
+216943,Fairfield Inn & Suites by Marriott Saratoga Malta,Malta,12020,42.96743,-73.80004,2.5,129.49,98.49,840
+269324,Hyatt Place Saratoga Malta,Malta,12020,42.9689,-73.80484,3,189.36,171.36,841
+616072,Home2 Suites by Hilton Saratoga/Malta,Malta,12020,42.96734,-73.79978,2.5,188.9248,118.9545,842
+469398,Manchester Inn,Manchester,14504,42.97481,-77.22686,2,58.2437,53.391,843
+532950,Travelodge Manhasset,Manhasset,11030,40.79097,-73.70235,2,95.2,79.2,844
+434924,Mountain Treasure Bed and Breakfast,Maplecrest,12454,42.27513,-74.19433,3,169.42,139.42,845
+228579,Margaretville Mtn Inn B&B and Village Suites,Margaretville,12455,42.16727,-74.66846,3,150.49,105.49,846
+556992,Saint Huberts Lodge,Marlboro,12542,41.63596,-73.99374,3.5,850.24,250.21,847
+231257,Comfort Inn & Suites LaGuardia Airport,Maspeth,11378,40.7291,-73.90505,2.5,175,174,848
+264712,Holiday Inn Express Maspeth,Maspeth,11378,40.72667,-73.90725,2.5,224.99,179.99,849
+238930,Best Western Bar Harbour Inn,Massapequa Park,11762,40.67792,-73.4461,2.5,179.49,134.49,850
+142921,Super 8 Massena NY,Massena,13662,44.92355,-74.88586,2,76.41,75.41,851
+211893,Quality Inn Massena,Massena,13662,44.9304,-74.89308,2.5,112.46,111.46,852
+127631,Econo Lodge Massena,Massena,13662,44.92372,-74.94572,2,100.43,80.43,853
+127540,Days Inn Cortland / McGraw,McGraw,13101,42.58961,-76.13295,2,109.2,64.2,854
+265738,Fairfield Inn by Marriott Medford Long Island,Medford,11763,40.82122,-72.99801,2.5,124.0058,112.0055,855
+111701,Comfort Inn Medford,Medford,11763,40.82223,-72.99745,2.5,143.65,135.15,855
+492615,112 Motel,Medford,11763,40.80717,-73.00297,2,250,140,856
+123102,Melville Marriott Long Island,Melville,11747,40.78403,-73.42245,3.5,230.95,229.95,857
+188819,Extended Stay America - Long Island - Melville,Melville,11747,40.76246,-73.42744,2.5,110.0805,100.0722,858
+124342,Hilton Long Island Huntington,Melville,11747,40.76366,-73.4235,3.5,245.2017,125.1029,859
+214969,Courtyard by Marriott Middletown,Middletown,10941,41.4465,-74.36478,3,170.01,169.01,860
+256762,Microtel Inn & Suites by Wyndham Middletown,Middletown,10941,41.44582,-74.36514,2,113.31,79.31,861
+152235,Hampton Inn by Hilton Middletown,Middletown,10941,41.4465,-74.36478,2.5,148.6492,133.6907,862
+142562,Super 8 Middletown,Middletown,10941,41.46312,-74.37362,2,90.19,66,863
+107900,Holiday Inn Middletown - Goshen,Middletown,10941,41.44724,-74.36112,3,156,155,864
+622322,Home2 Suites by Hilton Middletown,Middletown,10941,41.46308,-74.3689,3,149.17,107.17,865
+229247,Cooperstown Inn and Suites at the Ballpark,Milford,13807,42.6335,-74.96437,2.5,102.39,89.39,866
+614595,Apple Inn and Suites,Milford,13807,42.58004,-74.94804,2.5,139.42,129.92,867
+228622,Buttermilk Falls Inn,Milton,12547,41.66691,-73.95606,4,400.18,350.18,868
+540898,James Motel,Monroe,10950,41.31548,-74.16783,2.5,85,79.99,869
+198416,Montauk Yacht Club Resort And Marina,Montauk,11954,41.06883,-71.93334,3,533.2495,339.1041,870
+462612,Montauk Blue Hotel,Montauk,11954,41.03265,-71.94413,2,130.42,129.42,871
+443687,Gurney's Montauk Resort & Seawater Spa,Montauk,11954,41.01644,-71.99154,4,441.07,352.06,872
+505950,Haven Montauk,Montauk,11954,41.07458,-71.94217,2.5,361,360,873
+201372,Super 8 - Montgomery/Maybrook Area,Montgomery,12549,41.50755,-74.21417,2,101,75.65,874
+457750,Holiday Inn Express & Suites Montgomery,Montgomery,12549,41.51593,-74.20949,2.5,154.1267,109.0898,875
+537839,Borland House Inn,Montgomery,12549,41.52649,-74.23652,3,249.47,125.47,876
+495590,Best Western Monticello,Monticello,12701,41.66354,-74.70328,2.5,125.41,104.41,877
+235513,Super 8 Monticello NY,Monticello,12701,41.65164,-74.67395,2,82.45,68.45,878
+127541,Inn at Monticello,Monticello,12701,41.65443,-74.68306,3.5,64.9586,58.9624,879
+107944,Holiday Inn Mt. Kisco,Mount Kisco,10549,41.21876,-73.72583,3,159.32,139.32,880
+258185,Allegiance Bed and Breakfast,Mount Morris,14510,42.72149,-77.87158,2.5,170.44,140.44,881
+565845,Country Inn and Suites By Carlson Mount Morris NY,Mount Morris,14510,42.73671,-77.88063,3,133.23,89.83,882
+193748,Hampton Inn Nanuet,Nanuet,10954,41.10028,-74.02239,2.5,139.43,119.43,883
+217660,Hilton Garden Inn Nanuet,Nanuet,10954,41.10046,-74.02271,3,219.35,135.35,884
+133193,DoubleTree by Hilton Hotel Nanuet,Nanuet,10954,41.09131,-73.99593,3,284.43,134.43,885
+161297,Days Inn Nanuet Spring Valley,Nanuet,10954,41.10248,-74.02796,2,160.44,68.44,886
+195210,Candlewood Suites Nanuet - Rockland County,Nanuet,10954,41.10811,-74.02592,2.5,101.49,100.49,887
+266876,Bristol Views Bed and Breakfast,Naples,14512,42.68428,-77.37563,3,200.032,145.0444,888
+621898,Monier Manor,Naples,14512,42.62027,-77.39967,3,161.38,160.38,889
+125836,Days Inn Middletown,New Hampton,10958,41.40839,-74.41171,2,104.9231,76.4412,890
+406653,Hampton Inn and Suites New Hartford/Utica,New Hartford,13323,43.08723,-75.32857,2.5,160.021,159.021,891
+134660,Ramada New Hartford,New Hartford,13413,43.08547,-75.29682,2.5,94.37,72.37,892
+107832,Holiday Inn Utica,New Hartford,13413,43.09483,-75.28512,3,154.0272,119.0171,893
+664982,Homewood Suites by Hilton New Hartford Utica,New Hartford,13323,43.09124,-75.33294,3,0,0,894
+675256,TownePlace Suites by Marriott New Hartford,New Hartford,13492,43.09562,-75.31683,3,184.12,144.12,895
+238663,Americas Best Value Inn-New Paltz,New Paltz,12561-1619,41.74148,-74.06729,2,76.37,75.37,896
+125983,Rodeway Inn & Suites,New Paltz,12561,41.73957,-74.05008,1.5,90.49,80.49,897
+138573,Econo Lodge New Paltz,New Paltz,12561,41.74017,-74.05381,1.5,79.99,69.99,898
+566360,New Paltz Hostel,New Paltz,12561,41.74745,-74.08204,2,81,80,899
+621725,Hampton Inn by Hilton New Paltz,New Paltz,12561,41.74082,-74.06783,2.5,139.12,107.12,900
+121959,Radisson Hotel New Rochelle,New Rochelle,10801,40.91442,-73.77819,3,189.33,161.33,901
+171386,Residence Inn By Marriott New Rochelle,New Rochelle,10801,40.91126,-73.78066,3,179.45,169.45,902
+120182,Days Inn Newburgh Stewart International,New Windsor,12553,41.49432,-74.07449,2,134.34,119.34,903
+259047,Homewood Suites Stewart Airport,New Windsor,12553,41.48618,-74.09702,3,289,194.65,904
+127542,Econo Lodge Near Stewart Inter,New Windsor,12553,41.46513,-74.05051,2,96.45,95.45,905
+219370,Dumont NYC-an Affinia hotel,New York,10016,40.74624,-73.97929,4,349.74,299.24,906
+109277,Park Central New York,New York,10019,40.76452,-73.98078,4,191,190,907
+116103,Blakely New York,New York,10019,40.76366,-73.97965,4.5,206.46,205.46,908
+415836,Pod 39,New York,10016,40.74929,-73.9767,3,220.0373,130.0206,909
+351449,Sheraton Tribeca New York Hotel,New York,10013,40.72102,-74.00418,4,350.18,219.18,910
+343224,Chelsea Savoy Hotel,New York,10011,40.74422,-73.99596,2,176.41,175.41,911
+326046,"Distrikt Hotel New York City, an Ascend Collection Hotel",New York,10018,40.75679,-73.99273,3.5,219.34,129.34,912
+358061,Element New York Times Square West,New York,10018,40.75565,-73.99193,3.5,474.21,299.16,913
+421592,Hyatt Union Square New York,New York,10003,40.73347,-73.98989,4,589.0867,543.1791,914
+438922,Hyatt Centric Times Square New York,New York,10036,40.75739,-73.98417,4,683.7359,412.9442,915
+172653,"Hudson New York, Central Park",New York,10019,40.76836,-73.98476,4,469.08,131.05,916
+125617,Excelsior Hotel,New York,10024,40.78295,-73.97385,3.5,448.8286,328.8777,917
+438630,WestHouse New York,New York,10019,40.76442,-73.98144,5,510.49,370.23,918
+124573,DoubleTree Suites by Hilton New York City - Times Square,New York,10036,40.75904,-73.98475,4,439.19,259.11,919
+226121,The Westin New York at Times Square,New York,10036,40.75779,-73.98902,4.5,309.45,304.45,920
+145146,Paramount Times Square,New York,10036,40.75946,-73.98712,4,419.17,182.96,921
+112922,New York Hilton Midtown,New York,10019,40.76225,-73.97874,4,899.04,203.16,922
+360465,DoubleTree by Hilton New York City - Financial District,New York,10004,40.70402,-74.01242,4,449.0811,329.1227,923
+133146,The Franklin Hotel,New York,10128,40.77989,-73.9544,3.5,319.35,224.76,924
+424023,Refinery Hotel,New York,10018,40.75211,-73.98546,5,439.37,279.37,925
+273736,DoubleTree by Hilton Hotel New York - Times Square South,New York,10018,40.75422,-73.9943,4,409.43,332.43,926
+279075,DoubleTree by Hilton New York City - Chelsea,New York,10001,40.74716,-73.99128,4,249.33,212.33,927
+199889,W New York - Times Square,New York,10036,40.75936,-73.98512,4.5,616.6,381.61,928
+163823,The Redbury New York,New York,10016,40.74501,-73.98426,4,479.34,229.34,929
+416820,The Westin New York Grand Central,New York,10017,40.75041,-73.97378,4.5,679.1567,499.1459,930
+131795,"The Roosevelt Hotel, New York City",New York,10017,40.75458,-73.97749,4,359.22,229.06,931
+217460,Hotel St. James,New York,10036,40.75704,-73.98331,2.5,310.23,309.23,932
+332678,Flatiron Hotel,New York,10010,40.74393,-73.98938,4,299.46,199.46,933
+163194,The Gallivant Times Square,New York,10036,40.76068,-73.98617,3.5,349.13,199.13,934
+278067,Ace Hotel New York,New York,10001,40.74587,-73.98823,4,1048.983,177.6384,935
+361504,The Pearl New York,New York,10019,40.76127,-73.98565,4,612.9219,264.3803,936
+377242,YOTEL New York at Times Square,New York,10036,40.75918,-73.9958,4,429,259,937
+324037,Four Points by Sheraton Midtown-Times Square,New York,10018,40.75659,-73.99224,3.5,460.77,286.48,938
+219447,Shelburne NYC-an Affinia hotel,New York,10016,40.74848,-73.9782,4,369.08,149.04,939
+439332,Viceroy Central Park New York,New York,10019,40.76479,-73.97831,5,779.08,209.27,940
+321582,Staybridge Suites Times Square,New York,10018,40.75673,-73.99261,3.5,359.2,252.16,941
+125729,Empire Hotel,New York,10023,40.77158,-73.9826,4,230.64,229.64,942
+163794,The Iroquois New York,New York,10036,40.7557,-73.98211,4,649.0596,399.0207,943
+124901,The Lucerne Hotel,New York,10024,40.7833,-73.97866,4,349.36,249.16,944
+414769,Hyatt Place New York Midtown South,New York,10018,40.75058,-73.98567,3.5,320.16,319.16,945
+117801,The Mansfield Hotel,New York,10036,40.75518,-73.981,4,325,324,946
+115902,New York Marriott Marquis,New York,10036,40.75823,-73.98546,4.5,640.41,310.41,947
+150310,NYLO New York City,New York,10024,40.78225,-73.98025,4,158.934,108.9535,948
+438712,Residence Inn New York Manhattan/Central Park,New York,10019,40.76427,-73.98245,3.5,444.01,339.01,949
+262491,Hampton Inn Manhattan Soho,New York,10013,40.72366,-74.00533,3,419.05,134.13,950
+339013,Kimpton Hotel Eventi,New York,10001,40.74719,-73.9897,5,699.17,499.17,951
+121657,Travel Inn Hotel,New York,10036,40.75993,-73.99612,2.5,161.4,160.4,952
+324226,Andaz Wall Street - a concept by Hyatt,New York,10005,40.70503,-74.00762,4.5,292.1304,242.1499,953
+203969,The Premier New York Times Square,New York,10036,40.75671,-73.98448,4.5,329.24,215.19,954
+344720,The Nolitan,New York,10012,40.72072,-73.99526,3.5,215.49,200.49,955
+198937,The Kimberly Hotel & Suites,New York,10022,40.75614,-73.97151,4,1650.2533,188.286,956
+114218,Park Lane Hotel,New York,10019,40.76522,-73.97516,4,324.11,159.06,957
+348293,NoMo SoHo,New York,10013,40.71992,-74.0003,4.5,945.19,375.18,958
+340156,InterContinental - New York Times Square,New York,10036,40.75874,-73.98932,4.5,789.17,369.15,959
+202307,"The Renwick Hotel New York City, Curio Collection by Hilton",New York,10016,40.75036,-73.97747,4,409.47,199.47,960
+163790,Hampton Inn Times Square North,New York,10019,40.76323,-73.98545,3,439.04,158.86,961
+275398,Four Points by Sheraton Manhattan SoHo Village,New York,10013,40.72718,-74.00601,3.5,460.74,310.71,962
+432739,Courtyard New York Manhattan/Times Square West,New York,10018,40.75435,-73.99268,3.5,399.06,259.04,963
+126896,The Tuscany - A St Giles Signature Hotel,New York,10016,40.74981,-73.97808,4,374.14,274,964
+332763,World Center Hotel,New York,10006,40.70947,-74.01394,4,409.23,219.19,965
+126913,Wyndham New Yorker,New York,10001,40.75253,-73.99322,4,319.07,139.03,966
+126106,The Kitano New York,New York,10016,40.74962,-73.97962,4.5,539.0279,269.014,967
+109362,Omni Berkshire Place,New York,10022,40.75927,-73.97502,4.5,1000.21,1000,968
+134388,Row NYC,New York,10036,40.75905,-73.98844,4,299.04,159.021,969
+6295,The Manhattan at Times Square Hotel,New York,10019,40.76205,-73.98259,4,260.15,180.13,970
+234777,Residence Inn by Marriott New York Manhattan/Times Square,New York,10018,40.75273,-73.98566,3.5,649.27,273.14,971
+112522,Wellington Hotel,New York,10019,40.76446,-73.98082,3,411.021,179.0094,972
+163820,Hotel Sofitel New York,New York,10036,40.75561,-73.9819,4.5,1036.1801,223.2,973
+249659,Hilton Garden Inn Tribeca,New York,10013,40.72108,-74.00534,3.5,369.02,211.66,974
+336187,Hilton New York Fashion District,New York,10001,40.74572,-73.99364,4,189.79,129.79,975
+237052,The Marmara Manhattan,New York,10128,40.78285,-73.94776,3.5,403.9642,285.1102,976
+163728,Ameritania at Times Square,New York,10019,40.76415,-73.9828,3.5,419.0622,289.0416,977
+219433,Stewart Hotel,New York,10001,40.74892,-73.99218,4,334,249,978
+148866,Crowne Plaza Times Square Manhattan,New York,10019,40.76025,-73.98478,4,459.16,243.12,979
+367406,The Gotham Hotel,New York,10017,40.75566,-73.97814,4.5,679,221,980
+390179,TRYP By Wyndham Times Square South,New York,10001,40.75359,-73.99473,4.5,399.21,269,981
+114036,Novotel New York - Times Square,New York,10019,40.76288,-73.98363,4,218.9156,158.934,982
+163758,Amsterdam Court Hotel,New York,10019,40.76184,-73.98505,3,300,299,983
+153584,La Quinta Inn & Suites New York City Central Park,New York,10023,40.7761,-73.97777,2.5,199.24,169.2,984
+312110,"Marriott Vacation Club Pulse, New York City",New York,10018,40.75111,-73.985,4,454.05,175.03,12
+349751,Andaz 5th Avenue - a concept by Hyatt,New York,10017,40.75287,-73.98134,4.5,845.06,345,985
+292875,Night Hotel Times Square,New York,10036,40.75898,-73.98405,4,379,239,986
+253420,Hilton Garden Inn New York/Manhattan-Chelsea,New York,10001,40.74648,-73.99158,3.5,224.0587,143.7464,987
+430306,Best Western Premier Herald Square,New York,10018,40.75053,-73.98556,3,440.0534,225.2745,988
+263234,Holiday Inn Express - New York City Chelsea,New York,10001,40.74853,-73.9945,3,214.39,176.39,989
+163796,DoubleTree by Hilton Metropolitan - New York City,New York,10022,40.75695,-73.97208,4,199.32,159.32,990
+200316,Gardens NYC-an Affinia hotel,New York,10065,40.76424,-73.96326,3.5,369.44,232.44,991
+197539,The Wall Street Inn,New York,10004,40.70466,-74.01046,3,245.0515,164.9857,992
+128996,Millenium Hilton,New York,10007,40.71124,-74.01068,4,199.45,169.45,993
+200065,Le Parker Meridien New York,New York,10019,40.76409,-73.97873,4.5,479.42,239.42,994
+311346,Holiday Inn Express New York City- Wall Street,New York,10005,40.70544,-74.00712,3,140.0073,139.0073,995
+407095,Wyndham Garden Chinatown,New York,10002,40.71695,-73.99562,4,309.48,242.48,996
+142043,Hotel Pennsylvania,New York,10001,40.74996,-73.99137,2.5,469,169,997
+109227,The Evelyn Hotel,New York,10016,40.74381,-73.98713,3.5,329.0455,169.0299,998
+150387,Millennium Broadway New York Times Square,New York,10036,40.75689,-73.9849,4,339.0544,289.0416,999
+272526,Hampton Inn New York - 35th Street - Empire State Building,New York,10001,40.75013,-73.98651,3,339.33,299.33,1000
+353129,The James New York,New York,10013,40.72284,-74.00471,4.5,595,295,1001
+352529,Cassa Hotel 45th Street,New York,10036,40.75647,-73.98212,4,891.6393,609.0939,1002
+430580,"Club Quarters Hotel, Grand Central",New York,10017,40.75325,-73.97441,4,289.41,169.41,1003
+361485,The Jewel facing Rockefeller Center,New York,10017,40.75958,-73.9778,4,439,219,81
+117112,Hotel Edison,New York,10036,40.7598,-73.98603,3,909,379,1004
+122563,The Lombardy,New York,10022,40.76066,-73.97058,4,409.33,309.33,1005
+316461,Dream Midtown,New York,10019,40.76458,-73.98183,4,669.27,319,1006
+258349,Comfort Inn Times Square South Area,New York,10018,40.75555,-73.99174,3,269.44,249.44,1007
+355972,Courtyard by Marriott New York Manhattan/SoHo,New York,10014,40.72752,-74.0055,3.5,529.02,239.01,1008
+125509,Loews Regency New York Hotel,New York,10065,40.76446,-73.96885,5,999.4,479.4,1009
+266211,Holiday Inn Manhattan 6th Ave - Chelsea,New York,10001,40.74522,-73.99244,3.5,209.35,162.35,1010
+263989,Holiday Inn Express New York City Fifth Avenue,New York,10036,40.75577,-73.98031,3,419.04,189.02,1011
+422002,Holiday Inn Express Manhattan Times Square South,New York,10018,40.75108,-73.98685,3,369,135.16,1012
+106930,Hilton Garden Inn Times Square,New York,10019,40.76112,-73.98695,3.5,414.0578,293.5276,1013
+105816,Sheraton New York Times Square Hotel,New York,10019,40.76264,-73.98213,4,663.32,464.32,1014
+114221,Residence Inn by Marriott New York Manhattan/Midtown East,New York,10017,40.75512,-73.97292,3.5,484.09,195.06,1015
+109318,Lotte New York Palace,New York,10022,40.75823,-73.97453,4.5,1195.41,349.41,1016
+241086,"Club Quarters Hotel, opposite Rockefeller Center",New York,10019,40.75982,-73.97835,4,329.19,279,1017
+383834,Dream Downtown,New York,10011,40.74195,-74.00369,4.5,5000.3501,299.36,1018
+106069,Grand Hyatt New York,New York,10017,40.75167,-73.97659,4,1129,375.66,1019
+109730,"The Lexington New York City, Autograph Collection",New York,10017,40.75508,-73.97338,4,160.0316,159.0316,1020
+112923,Waldorf Astoria New York,New York,10022,40.75658,-73.97432,4.5,280.4,210.4,1021
+325735,Trump Soho New York,New York,10013,40.72563,-74.00558,5,1905.3199,345.32,4
+135149,The Roger,New York,10016,40.74584,-73.98435,4,580.28,199.16,1022
+428011,SpringHill Suites by Marriott New York Midtown Manhattan,New York,10018,40.75101,-73.98472,3.5,458.02,206.01,1023
+426344,Hampton Inn Manhattan/United Nations,New York,10017,40.75074,-73.97233,3,329.26,179.69,1024
+424524,Fairfield Inn & Suites New York Midtown Manhattan/Penn Station,New York,10001,40.75208,-73.99527,3,679.03,189.02,1025
+163777,Hilton Times Square,New York,10036,40.75679,-73.98874,4,409.06,289.83,1026
+309093,Fairfield Inn by Marriott New York Manhattan/Times Square,New York,10018,40.75665,-73.99238,3,459.03,197.02,1027
+427937,Courtyard by Marriott New York Manhattan/Herald Square,New York,10001,40.75037,-73.98708,3.5,339.04,309.04,1028
+143951,Bentley Hotel,New York,10065,40.76055,-73.95833,4,419.4,319.4,1029
+124700,Courtyard by Marriott New York City Manhattan Fifth Avenue,New York,10016,40.75199,-73.98132,3.5,304.02,269.02,1030
+124094,The Shoreham Hotel,New York,10019,40.76234,-73.97652,4,280.47,174.47,1031
+409752,Soho Garden Hotel,New York,10013,40.71918,-74.00165,2.5,300.4602,160.7015,1032
+207138,Hampton Inn New York Chelsea,New York,10011,40.74383,-73.99297,3,389.0567,339.0544,1033
+270634,Candlewood Suites New York City-Times Square,New York,10018,40.75615,-73.99311,3,319.15,237.15,1034
+244448,Wingate by Wyndham Manhattan Midtown,New York,10001,40.75217,-73.99139,3,329.39,237.39,1035
+441795,United Nations Apartment Hotel,New York,10017,40.75152,-73.97037,2.5,400,399,1036
+106038,ONE UN New York,New York,10017,40.75051,-73.96978,4,959.2,290.19,1037
+423782,Hampton Inn Manhattan/Downtown-Financial District,New York,10004,40.7032,-74.01247,3,439.24,208.17,1038
+272124,Holiday Inn New York City - Wall Street,New York,10038,40.70888,-74.00908,3.5,204.0099,169.0088,1039
+134540,Pod 51,New York,10022,40.75589,-73.96899,3,275.41,150.41,1040
+139959,Washington Jefferson Hotel,New York,10019,40.76345,-73.98687,3.5,279.46,259.46,1041
+143863,The Time New York,New York,10019,40.76112,-73.98529,4,299.45,159.45,1042
+163766,Belnord Hotel,New York,10024,40.78872,-73.97534,2.5,151.0278,150.0278,1043
+440402,Courtyard by Marriott New York Manhattan / Chelsea,New York,10001,40.74803,-73.9914,3.5,339.01,179.01,1044
+140878,The Moderne,New York,10019,40.76508,-73.98301,3.5,429.03,259.01,1045
+140893,The Belvedere Hotel,New York,10036,40.76153,-73.98816,3.5,513.8045,358.8563,1046
+469458,Gansevoort Park Avenue NYC,New York,10016,40.74386,-73.98377,4.5,710.23,275.17,1047
+270602,Holiday Inn Express New York City Times Square,New York,10018,40.75619,-73.99322,3,306.0163,248.0131,1048
+462387,West Side YMCA,New York,10023,40.77081,-73.98074,2,162.65,121.35,1049
+116175,The Gregory,New York,10001,40.74988,-73.98597,4,304.35,259.35,1050
+196593,Park South Hotel,New York,10016,40.74288,-73.98305,4,408.4091,308.9944,1051
+171177,The Kimpton Muse Hotel,New York,10036,40.75798,-73.98362,4.5,579.46,278.46,1052
+174153,Dylan Hotel NYC,New York,10017,40.75193,-73.97926,4,454,274.55,1053
+341910,W New York - Downtown,New York,10006,40.70946,-74.01394,4.5,389.19,179.45,1054
+374895,Hotel 48LEX New York,New York,10017,40.75525,-73.9732,4.5,1539.38,339.06,1055
+413222,Comfort Inn Midtown West,New York,10036,40.7643,-73.99477,2.5,249.24,229.24,1056
+266936,Hotel Henri by Wyndham,New York,10010,40.74309,-73.99118,4,341.1493,251.1326,1057
+139910,Hotel Elysee by Library Hotel Collection,New York,10022,40.76006,-73.97301,4,609.37,429.37,1058
+126897,W New York,New York,10022,40.75615,-73.97266,4,404.3,149.3,1059
+260426,Duane Street Hotel Tribeca,New York,10013,40.71604,-74.00731,4,649.22,259.08,1060
+139938,Casablanca Hotel by Library Hotel Collection,New York,10036,40.7563,-73.98553,4,360.6726,310.3097,1061
+140899,Americana Inn,New York,10018,40.75215,-73.98557,2,119.45,114.45,1062
+125511,Warwick New York,New York,10019,40.76226,-73.97826,4.5,339.05,269.04,1063
+274141,Kimpton Ink48 Hotel,New York,10036,40.76445,-73.99569,4.5,639.15,440.15,1064
+273466,Hampton Inn Manhattan/Times Square South,New York,10018,40.75611,-73.993,3,329.05,199.06,1065
+122074,"Carlton Hotel, Autograph Collection",New York,10016,40.74437,-73.98548,4,359.38,159.38,1066
+111484,Salisbury Hotel,New York,10019,40.76484,-73.9784,3,557,254,1067
+276597,"GEM Hotel - Chelsea, an Ascend Hotel Collection Member",New York,10011,40.74466,-73.99907,3,379,199,1068
+135539,The Marcel at Gramercy,New York,10010,40.73936,-73.98234,4,519.22,309.04,1069
+278721,Hilton Garden Inn New York/West 35th Street,New York,10001,40.75022,-73.98672,3,449.0678,263.2364,1070
+126898,Iberostar 70 Park Avenue,New York,10016,40.7498,-73.9795,4,838.672,314.1253,1071
+364443,Hyatt Herald Square New York,New York,10001,40.74716,-73.98749,4,429.39,319.39,1072
+192357,"Club Quarters Hotel, Wall Street",New York,10005,40.70686,-74.00907,4,399.1278,259.0887,1073
+122350,Washington Square Hotel,New York,10011,40.73226,-73.99867,3.5,320.4,282.8945,1074
+229528,Renaissance New York Hotel 57,New York,10022,40.76103,-73.96951,4,449.37,259.37,1075
+251284,36 Hudson Hotel,New York,10018,40.75564,-73.99765,3,179,109.6097,1076
+135096,"The Algonquin Hotel Times Square, Autograph Collection",New York,10036,40.75584,-73.98244,4,529.35,299.35,1077
+170510,The Library Hotel by Library Hotel Collection,New York,10017,40.75219,-73.97973,4,539.0872,399.0207,1078
+422103,Holiday Inn Express New York - Manhattan West Side,New York,10036,40.76417,-73.99447,3,349.21,212.17,1079
+197409,Hotel 31,New York,10016,40.74473,-73.98165,2,259.02,80.1,1080
+163765,Hotel Belleclaire,New York,10024,40.78264,-73.98122,3.5,479.05,242.4,1081
+198706,City Club Hotel,New York,10036,40.75577,-73.98229,4,289.44,189.44,1082
+462386,Vanderbilt YMCA,New York,10017,40.75344,-73.97097,2,195.1605,154.1267,1083
+144002,The Manhattan Club,New York,10019,40.76502,-73.98097,4,500.46,309,1084
+219391,The Benjamin,New York,10022,40.75638,-73.97209,4.5,449.49,353.12,1085
+332637,"Club Quarters Hotel, World Trade Center",New York,10006,40.70947,-74.01394,4,290.47,289.47,1086
+143688,Fitzpatrick Manhattan Hotel,New York,10022,40.76072,-73.9693,4,290.49,289.49,1087
+106394,JW Marriott Essex House New York,New York,10019,40.76652,-73.97825,4.5,1499.02,314.02,1088
+117363,The London NYC,New York,10019,40.76328,-73.98065,4.5,2579.1799,299.06,1089
+125636,NH New York Jolly Madison Towers,New York,10016,40.75014,-73.98082,3.5,400.0495,363.0399,1090
+217106,The Milburn Hotel,New York,10023,40.78204,-73.98173,3,259.33,159.33,1091
+231553,"The Pierre, A Taj Hotel, New York",New York,10065,40.76534,-73.97222,5,1075.46,489.46,1092
+144360,Fitzpatrick Grand Central,New York,10017,40.75248,-73.97446,4,229.43,228.43,1093
+297426,New York Inn,New York,10036,40.76024,-73.98761,2.5,118.5477,117.5477,1094
+192073,The Bryant Park Hotel,New York,10018,40.75296,-73.98368,4,775.1191,245.0384,1095
+169343,Conrad New York,New York,10282,40.71505,-74.01601,5,461.0829,269.0617,1096
+375716,The SunBright,New York,10013,40.7174,-73.99585,1,174,162,1097
+425346,Bowery Grand Hotel,New York,10002,40.71901,-73.99454,1,48.01,45.01,1098
+120829,Royalton Times Square,New York,10036,40.75571,-73.98216,4.5,349.0528,219.0322,1099
+172820,Broadway Plaza Hotel,New York,10001,40.74441,-73.98891,3.5,279.4,239.4,1100
+125910,Off Soho Suites Hotel,New York,10002,40.72133,-73.99266,2,359.17,159.15,1101
+189272,Hotel 17,New York,10003,40.73473,-73.98467,2,169.17,115.16,1102
+244926,Hotel Mela Times Square,New York,10036,40.75656,-73.98419,4,269.25,169.09,1103
+126895,The Court - A St Giles Hotel,New York,10016,40.74967,-73.97776,4,299.04,199.0249,1104
+308872,The Jane Hotel,New York,10014,40.73818,-74.00969,2,275,122.6779,1105
+179766,The Roger Smith Hotel,New York,10017,40.75477,-73.97364,3,339.11,189.61,1106
+223558,Hampton Inn Madison Square Garden Area Hotel,New York,10001,40.74826,-73.99003,3,349.18,233.16,1107
+140901,Hotel Newton,New York,10025,40.79369,-73.97239,3,209.09,159.08,1108
+197983,Hotel Chandler,New York,10016,40.74617,-73.98508,4.5,519.1,269.1,1109
+152238,Mayfair New York,New York,10019,40.76135,-73.98583,3,189.23,149.11,1110
+121375,Hotel Wales,New York,10128,40.78501,-73.9558,3.5,369.39,309.61,1111
+138167,Courtyard by Marriott New York City Manhattan Midtown East,New York,10022,40.75748,-73.96959,3.5,349.42,329.42,1112
+203420,The Sohotel,New York,10013,40.71956,-73.99449,3,419.4,257.4,1113
+128770,Hilton Manhattan East,New York,10017,40.74963,-73.97179,4,459.17,359,1114
+225633,Hotel On Rivington,New York,10002,40.71993,-73.98799,4,420.35,277.01,1115
+322838,Comfort Inn Times Square West,New York,10036,40.75938,-73.99083,2.5,309.2544,129.1062,1116
+150406,Days Hotel Broadway,New York,10025,40.79318,-73.97229,2.5,253.5589,160.2731,1117
+269032,The Hotel 91,New York,10002,40.71372,-73.99365,3,206.14,177.78,1118
+131561,Skyline Hotel,New York,10019,40.76425,-73.9921,3,438.8276,268.8961,1119
+267335,Best Western Bowery Hanbee Hotel,New York,10013,40.7186,-73.99526,3,309.1,203.32,1120
+339551,Courtyard by Marriott New York Manhattan/Times Square,New York,10018,40.75391,-73.98598,3.5,512.04,169.03,1121
+124520,New York Marriott Downtown,New York,10006,40.70977,-74.01474,4,569.03,244.01,1122
+200512,Gatsby Hotel � an Ascend Hotel Collection Member,New York,10002,40.72334,-73.99028,3,229.48,219.48,1123
+130744,The Michelangelo Hotel,New York,10019,40.76165,-73.98265,4.5,629.34,379.34,1124
+125480,Eurostars Wall Street,New York,10005,40.70523,-74.00638,4,260.19,230.17,1125
+219432,Fifty NYC-an Affinia hotel,New York,10022,40.75594,-73.97108,4,519.03,179.56,1126
+235899,Courtyard by Marriott New York Manhattan/Upper East Side,New York,10128,40.78039,-73.94588,3.5,309.0383,229.0411,1127
+129023,"The Carlyle, A Rosewood Hotel",New York,10021,40.77461,-73.96338,5,4100.04,730.03,1128
+203621,Magnuson Convention Center Hotel,New York,10018,40.75761,-73.99852,3,250.35,220.35,1129
+206674,Hotel Metro,New York,10001,40.74995,-73.98611,3,469.3,359.3,1130
+218485,Four Points by Sheraton Manhattan - Chelsea,New York,10001,40.7451,-73.99412,3,839.07,374.78,1131
+215798,Wyndham Midtown 45 at New York City,New York,10017,40.75252,-73.97258,3,259.21,233.21,1132
+144414,Avalon Hotel,New York,10016,40.74673,-73.98448,4,489.22,224.44,1133
+120257,Clarion Hotel Park Avenue,New York,10016,40.74417,-73.98338,2.5,229.0305,219,1134
+125871,San Carlos Hotel,New York,10022,40.75607,-73.97134,4.5,389.76,309.41,1135
+114697,Gramercy Park Hotel,New York,10010,40.73848,-73.9855,5,529,329,1136
+152696,"Gild Hall, A Thompson Hotel",New York,10038,40.70795,-74.00711,4.5,558.6078,408.561,1137
+174141,W New York - Union Square,New York,10003,40.73653,-73.98899,4.5,689.8068,433.8948,1138
+219368,The Surrey,New York,10021,40.77449,-73.96387,5,1945.49,595,1139
+256774,Hotel 309,New York,10014,40.73984,-74.00276,2,149.11,109.12,1140
+365654,Fairfield Inn & Suites by Marriott New York ManhattanChelsea,New York,10001,40.74638,-73.99134,3,248.9185,196.9329,1141
+358950,Aloft Harlem,New York,10027,40.80921,-73.95184,3.5,249.0983,234.0491,1142
+246640,Hotel 373 Fifth Avenue,New York,10016,40.74918,-73.98403,3,319.0166,179.0094,1143
+120922,Morgans,New York,10016,40.74992,-73.98139,4,459.08,228.06,1144
+170490,Hotel Giraffe by Library Hotel Collection,New York,10016,40.74214,-73.98489,4,514.4563,269.046,1145
+149429,Radisson Martinique on Broadway,New York,10001,40.7482,-73.98798,3.5,450.06,245.07,1146
+113922,Hotel Plaza Athenee,New York,10065,40.76642,-73.96844,5,1199.37,548.37,1147
+118630,The Lowell,New York,10065,40.76587,-73.9691,5,2085.46,795.46,1148
+240327,Econo Lodge Times Square,New York,10036,40.76058,-73.98789,2.5,279.04,169.02,1149
+183263,Seaport Inn,New York,10038,40.70793,-74.00154,3,320.42,319.42,1150
+213134,Hampton Inn Manhattan-Seaport-Financial District,New York,10038,40.70901,-74.00224,3,178.936,143.0394,1151
+140911,Manhattan Broadway Budget Hotel,New York,10018,40.75454,-73.99121,2,289.36,145.43,1152
+200004,the Quin,New York,10019,40.76426,-73.97707,5,860.1313,279.0433,1153
+410799,Holiday Inn NYC - Lower East Side,New York,10002,40.71805,-73.98643,4,249.33,178.33,1154
+265087,New World Hotel,New York,10002,40.71759,-73.99526,1.5,85.03,50.01,1155
+240713,Blue Moon Boutique Hotel,New York,10002,40.7186,-73.99001,3,194.9198,55.2394,1156
+266457,Windsor Hotel,New York,10002,40.71873,-73.99269,2,213.4636,194.4955,1157
+125206,New York Marriott East Side,New York,10017,40.75553,-73.97305,4,409.35,188.35,1158
+277344,"Smyth, A Thompson Hotel",New York,10007,40.71525,-74.00943,5,620.23,475.23,1159
+311820,Comfort Inn Manhattan Bridge,New York,10002,40.71657,-73.99466,2.5,209.0338,199,1160
+141417,The Peninsula New York,New York,10019,40.76165,-73.9749,5,3145.22,795.21,1161
+217136,Best Western Plus Hospitality House,New York,10017,40.75559,-73.97216,3,691.0963,690.0963,1162
+435095,Hotel Boutique at Grand Central,New York,10017,40.75313,-73.97481,4,478.8193,258.8951,1163
+120256,"Night Hotel Theater District, Times Square",New York,10036,40.75735,-73.98407,4,889.1,449.04,1164
+128083,Renaissance New York Times Square Hotel,New York,10036,40.75968,-73.9843,4,839.2,529.18,1165
+105314,The Plaza Hotel,New York,10019,40.76424,-73.97388,5,3225.1599,725.17,1166
+163809,"Club Quarters Hotel, Midtown",New York,10036,40.7561,-73.98119,4,349.23,279.23,1167
+122267,Cosmopolitan Hotel - Tribeca,New York,10007,40.71551,-74.00926,3,489.0717,389.0567,1168
+196447,"The Ritz-Carlton New York, Battery Park",New York,10004,40.7053,-74.01722,5,1695.3,365.3,1169
+432171,Fairfield Inn & Suites New York Manhattan/Downtown East,New York,10002,40.71313,-73.99286,2.5,329.19,197.16,1170
+189672,RIFF Chelsea,New York,10001,40.7498,-73.99566,2,294.61,167.83,1171
+310147,Carvi Hotel New York,New York,10022,40.75927,-73.96924,3,129.44,99.44,1172
+221403,Seton Hotel,New York,10016,40.74976,-73.97619,3,388.24,380.24,1173
+198683,The Sherry Netherland,New York,10022,40.76453,-73.97285,4.5,1169.3199,529.31,1174
+323397,The MAve nyc,New York,10016,40.74347,-73.98612,3,405.07,404.07,1175
+257190,Hilton Club New York,New York,10019,40.7621,-73.97883,4,379.03,360.05,922
+371468,Harlem Bed and Breakfast,New York,10027,40.80401,-73.9465,1.5,195,165,1176
+356439,"The Chatwal, a Luxury Collection Hotel, New York City",New York,10036,40.75668,-73.98445,5,3406.3999,695.39,1177
+225936,Room Mate Grace Boutique Hotel,New York,10036,40.75729,-73.98393,3.5,474.05,229.03,1178
+131734,Four Seasons Hotel New York,New York,10022,40.76197,-73.97158,5,4061.209,4060.209,1179
+417755,Carlton Arms Hotel,New York,10010,40.74027,-73.98262,2,121.49,120.49,1180
+222985,"The Solita Soho Hotel, an Ascend Hotel Collection Member",New York,10013,40.71988,-73.99888,3,379.03,149.01,1181
+211803,"Mandarin Oriental, New York",New York,10023,40.76919,-73.98283,5,3993.45,694.7334,1182
+326792,Upper West Side Brownstone,New York,10024,40.78354,-73.97515,3,291,290,1183
+323984,Allies' Inn Bed and Breakfast,New York,10030,40.81751,-73.94678,3,341,215,1184
+418634,Hotel Five44,New York,10036,40.76417,-73.99446,3,209,172.22,1185
+325235,Fairfield Inn by Marriott New York Manhattan/Fifth Avenue,New York,10018,40.75109,-73.98495,3,395.0662,188.0321,1186
+370651,The Towers at Lotte New York Palace,New York,10022,40.75814,-73.97536,5,1199.916,476.9539,1187
+310373,West 57th Street by Hilton Club,New York,10019,40.76453,-73.97778,4,1029.3101,360.31,1188
+183435,The Towers of the Waldorf Astoria New York,New York,10022,40.75691,-73.97335,5,10000,1099,1189
+123947,Trump International Hotel & Tower New York,New York,10023,40.76905,-73.98125,5,2155.302,476.1801,1190
+106256,"The Ritz-Carlton New York, Central Park",New York,10019,40.76552,-73.97589,5,3495.5322,695.0901,1191
+445815,Hilton Garden Inn New York/Central Park South-Midtown West,New York,10019,40.76432,-73.98316,3.5,400.02,279.01,1192
+452020,Hotel 32 32,New York,10016,40.74621,-73.98335,4,315.17,255.17,1193
+447051,The High Line Hotel,New York,10011,40.74612,-74.0053,4,679,229,1194
+457060,Hilton Garden Inn New York/Midtown Park Ave,New York,10016,40.74666,-73.98242,3.5,478.8466,438.8885,1195
+309378,The St. Regis New York,New York,10022,40.7615,-73.97451,5,1360.34,743.34,1196
+117020,The Mark,New York,10075,40.77515,-73.96343,5,3488.48,518.47,1197
+454244,Hilton Garden Inn New York-Times Square Central,New York,10036,40.75546,-73.98561,3.5,324.12,269.15,1198
+451622,Hilton Garden Inn New York/Manhattan-Midtown East,New York,10022,40.75684,-73.9693,3.5,389.0201,233.1678,1199
+451663,Park Hyatt New York,New York,10019,40.76515,-73.97912,5,2950.4485,725.1063,1200
+352611,"Langham Place, New York, Fifth Avenue",New York,10018,40.75009,-73.98337,5,2000.1801,695.18,1201
+463902,citizenM New York Times Square,New York,10019,40.76172,-73.98481,4,409.0639,201.5536,1202
+438668,Courtyard by Marriott New York Manhattan / Central Park,New York,10019,40.76421,-73.98246,3.5,599.02,180.01,949
+199830,Hotel Beacon,New York,10023,40.78075,-73.9813,4,548.7896,278.8971,1203
+445763,Archer Hotel New York,New York,10018,40.75186,-73.98488,4.5,369.47,319.47,1204
+446818,Homewood Suites New York/Midtown Manhattan Times Square,New York,10018,40.75445,-73.99301,3.5,669.06,251.1,1205
+448797,The Lex NYC,New York,10010,40.74017,-73.98426,3.5,289.0411,229.1306,1206
+117809,Life Hotel Nomad,New York,10001,40.74704,-73.98713,4,637.085,397.171,1207
+214272,Chelsea Inn,New York,10011,40.73884,-73.99444,3,235.06,154.88,1208
+448418,Hotel Hugo,New York,10013,40.72649,-74.00906,4.5,408.6471,318.7251,1209
+449349,East Village Hotel,New York,10003,40.72827,-73.98508,3,199.49,199.34,1210
+264181,Royal Park Hotel and Hostel,New York,10025,40.79571,-73.97217,2.5,109.76,109.41,1211
+531096,Hampton Inn Manhattan/Times Square Central,New York,10036,40.75582,-73.98858,3.5,239.34,199.34,1212
+528352,Holiday Inn New York City - Times Square,New York,10018,40.75502,-73.99138,3.5,389.05,143.68,1213
+536312,Hotel Shocard at Times Square,New York,10036,40.75553,-73.98795,3,189.16,169.14,1214
+538736,Cambria hotel & suites New York - Times Square,New York,10036,40.75668,-73.98049,3,329.45,229.45,1215
+484183,The Knickerbocker Hotel,New York,10036,40.75575,-73.98626,5,585.32,335.32,1216
+463569,Harlem YMCA,New York,10030,40.81496,-73.94284,2,119.17,118.17,1217
+513814,Executive Hotel Le Soleil New York,New York,10018,40.75043,-73.98538,4,279,249,1218
+525165,EVEN Hotel Times Square South,New York,10001,40.75329,-73.99404,4,375.43,279.43,1219
+549970,Renaissance New York Midtown Hotel,New York,10035,40.75197,-73.9909,4,264.31,189.31,1220
+536247,RIU Plaza New York Times Square,New York,10036,40.76006,-73.98854,4,558.96,491.27,1221
+106208,InterContinental New York Barclay,New York,10017,40.75543,-73.97373,4.5,589.0305,380.0196,1222
+557438,INNSIDE New York NoMad,New York,10001,40.74618,-73.99275,4.5,909.139,309.0489,1223
+487932,Baccarat Hotel and Residences New York,New York,10019,40.76095,-73.97718,5,2100.1899,800,1224
+453134,The Marmara Park Avenue,New York,10016,40.74526,-73.98163,5,505.71,405.71,1225
+479845,"The Paul, an Ascend Hotel Collection Member",New York,10001,40.74622,-73.98907,4,409.04,199.02,1226
+532245,Safehouse Suites Manhattan,New York,10019,40.76037,-73.98467,5,10888.5,5990.25,1227
+474782,Cambria hotel & suites New York - Chelsea,New York,10001,40.74654,-73.99171,3,448.8286,328.8777,1228
+508330,NYC Vacation Suites,New York,10019,40.79107,-73.95143,3.5,550,450,1229
+474689,Fairfield Inn New York Manhattan/Financial District,New York,10038,40.70602,-74.00518,3,399.03,158.02,1230
+482692,Vacayo Premium East Side Apartments,New York,10002,40.72393,-73.99006,4,347.6,346.6,1229
+467771,NobleDEN Hotel,New York,10013,40.71916,-73.99688,4,424.6318,283.8004,1231
+540690,Orchard Street Hotel,New York,10002,40.72108,-73.98871,3,400,399,1232
+452310,Upper East Side Apartments,New York,10028,40.77662,-73.9568,3,600,599,1233
+481441,1 Hotel Central Park,New York,10019,40.76483,-73.97685,5,880.44,613.04,1234
+524599,Arlo Hudson Square,New York,10013,40.72424,-74.00784,4,639.1,179,1235
+507704,The New York EDITION,New York,10010,40.74139,-73.98759,5,1150.02,697.03,1236
+546771,The Bowery Suites,New York,10013,40.72612,-74.00418,4,407,406,1237
+548029,Hotel Cliff,New York,10033,40.84841,-73.93139,2.5,197.9023,178.0074,1238
+446071,Comfort Inn Lower East Side,New York,10002,40.71238,-73.99274,3,209.0338,199,1239
+480680,Hotel Indigo Lower East Side New York,New York,10002,40.72174,-73.9875,4.5,469,324.7217,1240
+485393,Residence Inn Marriott New York Downtown Manhattan/WTC Area,New York,10007,40.70966,-74.01009,3.5,459.04,179.02,1241
+323725,Midtown West Vacation Rentals,New York,10018,40.78998,-73.94884,3,250.205,249.205,1229
+551201,Edge Hotel,New York,10032,40.84023,-73.93775,3.5,329.3,239.3,1242
+506937,Q&A Residential Hotel,New York,10005,40.70629,-74.00786,4,1259.1864,239.0394,1243
+477741,Holiday Inn Manhattan-Financial District,New York,10006,40.70833,-74.01436,4,168.9669,123.9754,1244
+480123,Aloft Manhattan Downtown - Financial District,New York,10038,40.71032,-74.00678,3,292.61,262.59,1245
+490800,RIFF Downtown,New York,10006,40.70834,-74.01343,3,219.26,149.12,1246
+460019,Jet Luxury at the Trump SoHo,New York,10013,40.72562,-74.00546,5,901.7,483.11,4
+468906,The Central Park North,New York,10026,40.79946,-73.9535,2.5,199.1739,144.6204,1246
+204099,Morningside Inn,New York,10025,40.80177,-73.96672,2,151.34,150.34,1248
+570379,Beautiful Studio Near Central Park,New York,10021,40.76824,-73.95922,3,181.44,180.44,1249
+600829,Fairfield Inn & Suites New York Manhattan / Central Park,New York,10019,40.77048,-73.98968,3,339.05,169.04,1250
+564246,Vacayo Affordable East Side Apartments,New York,10009,40.72672,-73.98313,3.5,270.92,269.92,1229
+563844,Vacayo Affordable West Side Apartments,New York,10011,40.71278,-74.00594,3.5,245.69,244.69,1229
+578930,3 West Club,New York,10019,40.75967,-73.97729,3.5,250.33,249.33,1251
+604895,The Melva Inn - Harlem,New York,10027,40.80416,-73.94685,2.5,149.1227,119.098,1252
+569477,Bryant Park Studio Apartment next to Times Square,New York,10018,40.75229,-73.98589,3,179.936,178.936,1253
+581345,Courtyard New York Downtown Manhattan/World Trade Center,New York,10006,40.70944,-74.01299,3,459.08,175.06,1254
+561017,Central Park West Hostel,New York,10024,40.7885,-73.97483,2,40,31,1255
+578732,EVEN Hotel New York- Midtown East,New York,10017,40.75166,-73.97252,4,249.44,189.44,1256
+580538,HGU New York,New York,10016,40.74619,-73.98319,4,429.45,279.45,1257
+589913,Heritage Hotel,New York,10010,40.74338,-73.98999,2.5,209.0338,129.0155,1258
+594561,Hyatt House New York/Chelsea,New York,10001,40.74619,-73.99041,3.5,424,394,1259
+581922,Green Holidays Apartments,New York,10001,40.7473,-73.98775,3.5,271.0395,270.0395,1260
+566907,Sago Hotel,New York,10002,40.71953,-73.99007,4,800.44,333.97,1261
+564451,Executive Class at MTS Hotel,New York,10019,40.76194,-73.98266,4,455,255,1262
+570372,Cozy Studio,New York,10022,40.755,-73.96885,3.5,183.1747,182.1747,1263
+570383,Beautiful 1 Bedroom Apartment,New York,10025,40.79974,-73.96243,3.5,151.31,150.31,1264
+569202,New York Guest Suites,New York,10029,40.74673,-73.99215,3,110,105,1265
+601517,Four Seasons New York Downtown,New York,10007,40.71254,-74.00931,5,1500.15,579.16,1266
+571290,Four Points By Sheraton New York Downtown,New York,10038,40.70748,-74.00625,3.5,305.48,214.46,1267
+571541,The Park Ave North,New York,10035,40.8078,-73.93765,3,239,205.7794,1268
+606085,Arlo NoMad,New York,10016,40.74619,-73.98512,4,569.05,179,1269
+580015,The Bernic Hotel,New York,10017,40.75424,-73.9728,4,379,299,1270
+562580,Raintree at The Manhattan Club,New York,10019,40.76501,-73.98093,3.5,0,0,1271
+563115,11 Howard,New York,10013,40.71925,-73.99999,5,519.0772,319.0472,1272
+601627,Green Acre,New York,10022,40.75584,-73.96886,3,201.47,200.47,1273
+569437,"The Beekman, A Thompson Hotel",New York,10038,40.71137,-74.00669,5,419.5237,418.5237,1274
+569487,Amazing Studio in the Heart of Manhattan,New York,10065,40.76878,-73.96818,3.5,154.5253,153.5253,1275
+606307,Renovated 2 BR Central Park,New York,10036,40.76472,-73.98806,3.5,230.41,229.41,1276
+206503,Beekman Tower by Bridgestreet,New York,10017,40.75329,-73.96608,3.5,254.16,206.14,1277
+616259,Hello Apartments NYC,New York,10001,40.74716,-73.9878,3.5,261.0412,260.0412,1260
+639317,DoubleTree by Hilton New York Times Square West,New York,10018,40.75682,-73.99298,4,269.47,199.47,1278
+622053,Hotel 50 Bowery NYC,New York,10013,40.71584,-73.99641,4,340.0544,339.0544,1279
+223460,AKA Central Park,New York,10019,40.76451,-73.97555,4,744.38,325.38,1280
+636273,Hotel Richland New York,New York,10002,40.71473,-73.9931,2.5,229,209,1281
+202295,Oakwood at The Nash,New York,10016,40.74837,-73.97466,4,452,388.739,1282
+598637,AKA Wall Street,New York,10038,40.70801,-74.00778,4,869.44,395.44,1283
+615827,Beautiful Studio near Central Park,New York,10025,40.79935,-73.96245,3.5,181.15,180.15,1284
+642699,Four Points By Sheraton Manhattan Midtown West,New York,10001,40.75506,-73.99868,3,220.0373,162.0258,1285
+647656,Gansevoort Meatpacking,New York,10018,40.73989,-74.00579,4.5,545.45,285.45,1286
+653548,Crowne Plaza Midtown Manhattan,New York,10018,40.75374,-73.99374,2.5,269.13,243.13,1287
+140910,Carnegie Hotel,New York,10019,40.76674,-73.98084,4,490,249,1288
+192381,Broadway Hotel and Hostel,New York,10025,40.79801,-73.96987,2,168.34,95.34,1289
+653543,The Watson Hotel,New York,10019-3013,40.76823,-73.98745,3.5,249.32,229.32,1290
+658840,Astor on the Park,New York,10025,40.79974,-73.95889,3,209.33,149.33,1291
+659207,Hotel Hayden,New York,10001,40.7466,-73.99179,4,250.48,249.48,1292
+663607,Embassy Suites by Hilton New York Midtown Manhattan,New York,10018,40.75142,-73.98575,3.5,649.42,521.42,1293
+675077,Saint Nicholas Inn,New York,10032,40.83071,-73.94302,2.5,150.7901,112.8715,1294
+679739,Hilton Garden Inn New York Times Square South,New York,10018,40.75447,-73.99357,3,0,0,1295
+542738,Newark Garden Hotel,Newark,14513,43.04812,-77.09533,2.5,145.23,102.08,1296
+107945,Hudson Valley Hotel and Conference Center by Fairbridge,Newburgh,12550,41.5056,-74.07376,2,75.47,74.47,1297
+229137,Ramada Newburgh/West Point,Newburgh,12550,41.50774,-74.06807,2,250.85,72.96,1298
+108961,Howard Johnson Inn - Newburgh,Newburgh,12550-5009,41.50539,-74.07329,2,80.47,55.47,1299
+125453,Courtyard by Marriott Newburgh Stewart Airport,Newburgh,12550,41.51849,-74.10773,3,174.0845,149.0904,1300
+124571,Four Points by Sheraton Newburgh Stewart Airport,Newburgh,12550,41.52198,-74.11133,3,149.49,76.49,1301
+205596,"Super 8 Newburgh - West Point, Stewart International Airport",Newburgh,12550,41.50753,-74.06815,2,139,62.9,1302
+183814,Best Western Summit Inn,Niagara Falls,14304,43.09536,-78.95375,2.5,270.2,120.16,1303
+462926,Hampton Inn Niagara Falls/Blvd,Niagara Falls,14304,43.08893,-78.98819,2.5,104.15,99.16,1304
+270649,Holiday Inn Express Hotel & Suites Niagara Falls,Niagara Falls,14304,43.09786,-78.94667,2.5,200.48,126.48,1305
+202045,Super 8 Niagara Falls/Buffalo Area,Niagara Falls,14304,43.08831,-78.9763,2,120.48,59.48,1306
+239655,Four Points by Sheraton Niagara Falls,Niagara Falls,14304,43.07432,-78.98372,3,209.42,149.42,1307
+204801,Econo Lodge At The Falls North,Niagara Falls,14304,43.0903,-78.99634,2,124.9738,67.9569,1308
+246795,Moonlite Motel Niagara Falls,Niagara Falls,14304,43.08864,-78.97489,2,100.37,60.37,1309
+152241,Hampton Inn Niagara Falls,Niagara Falls,14303,43.08348,-79.05587,2.5,169.33,125.33,1310
+108928,Howard Johnson Closest to the Falls and Casino,Niagara Falls,14301,43.08968,-79.06236,2,84.47,69.47,1311
+432521,The Red Coach Inn,Niagara Falls,14303,43.08417,-79.06336,3,289,149,1312
+326420,"The Giacomo, An Ascend Hotel Collection Member",Niagara Falls,14303,43.08526,-79.0617,3,226.99,225.99,1313
+245392,Days Inn Niagara Falls Buffalo,Niagara Falls,14304,43.08915,-78.89238,2,110.25,60.24,1314
+231394,Holiday Inn Niagara Falls Scenic Downtown,Niagara Falls,14303,43.0833,-79.06119,3,109.32,89.32,1315
+161746,"Sheraton at the Falls, Niagara Falls, NY",Niagara Falls,14303,43.08616,-79.05912,4,150.71,149.71,1316
+220491,Rodeway Inn & Suites Niagara Falls,Niagara Falls,14304,43.097,-78.94901,1.5,140.38,60.38,1317
+264191,Swiss Cottage Inn,Niagara Falls,14304,43.08854,-78.9846,1.5,89.0116,59.006,1318
+130229,Quality Inn Niagara Falls,Niagara Falls,14304,43.08837,-78.97604,2.5,56.17,55.99,1319
+118411,Comfort Inn The Pointe,Niagara Falls,14303,43.08706,-79.06313,2.5,115.33,95.33,1320
+276049,Seneca Niagara Resort & Casino,Niagara Falls,14303,43.08578,-79.05778,3.5,645.41,525.41,1321
+460200,Motel 6 Niagara Falls NY,Niagara Falls,14304,43.09391,-78.95721,2,72.42,56.42,1322
+203016,Budget Host Inn Niagara Falls,Niagara Falls,14304,43.08905,-78.9873,2,340.8991,339.8991,1323
+152240,Travelodge Niagara Falls,Niagara Falls,14304,43.09391,-78.95687,1,175.3,53.3,1324
+114073,Quality Hotel & Suites At The Falls,Niagara Falls,14303,43.08572,-79.06174,2.5,65.48,64.48,1325
+109089,Americas Best Value Inn,Niagara Falls,14304,43.0894,-78.98907,1.5,100.49,50.49,1326
+150311,Days Inn Niagara At The Falls,Niagara Falls,14301,43.08946,-79.06266,3,85.13,75.63,1327
+197736,Knights Inn Niagara Falls Near IAG Airport,Niagara Falls,14304,43.09326,-78.95906,2,251.36,250.36,1328
+468154,Pelican Motel,Niagara Falls,14304,43.08888,-78.98561,2,93.3389,69.9989,1329
+485853,AAshram Hotel by Niagara River,Niagara Falls,14304,43.07541,-78.98884,2.5,69.99,54.99,1330
+530463,AArya Hotel By Niagara Fashion Outlets,Niagara Falls,14304,43.08896,-78.98588,3,130.17,100.16,1331
+547759,Fairfield Inn & Suites by Marriott Niagara Falls,Niagara Falls,14303,43.08372,-79.05321,2.5,139.46,107.46,1332
+246465,Cascade Inn Niagara Falls,Niagara Falls,14304,43.08879,-78.97478,1,299.39,189.39,1333
+257671,Driftwood Motel,Niagara Falls,14304,43.09066,-78.89741,2,95,60,1334
+328329,Sands Motel Niagara Falls,Niagara Falls,14304,43.09452,-78.95548,1.5,50.35,40.35,1335
+548235,Red Maple Inn By The Falls,Niagara Falls,14303,43.08404,-79.05994,2,70,60,1336
+492766,Rodeway Inn Niagara Falls,Niagara Falls,14301,43.09087,-79.06081,2,80.45,79.45,1337
+529540,Wingate By Wyndham Niagara Falls,Niagara Falls,14303,43.08348,-79.05783,3,300.19,86.18,1338
+567607,La Quinta Inn & Suites Niagara Falls,Niagara Falls,14304,43.08981,-78.99293,2.5,89.99,88.99,1339
+217390,DoubleTree by Hilton Hotel Niagara Falls New York,Niagara Falls,14303,43.08233,-79.05653,3.5,129.1,71.1,1340
+685047,Microtel Inn & Suites by Wyndham Niagara Falls,Niagara Falls,14304,43.08913,-78.97518,2.5,0,0,1341
+411039,The Alpine Lodge,North Creek,12853,43.70001,-73.98658,3,395.36,159.36,1342
+264545,Holiday Inn Express Syracuse Airport,North Syracuse,13212,43.11671,-76.14327,2.5,150.35,113.35,1343
+210030,Best Western Syracuse Airport Inn,North Syracuse,13212,43.11365,-76.11767,2.5,140.31,104.49,1344
+153587,Comfort Inn & Suites Airport,North Syracuse,13212,43.0962,-76.16911,3,150.36,110.36,1345
+218068,Candlewood Suites - Syracuse Airport,North Syracuse,13212,43.11671,-76.14328,2.5,125.41,85.41,1346
+232432,Econo Lodge & Suites,North Syracuse,13212,43.11426,-76.14434,1.5,80.47,68.47,1347
+179065,Red Carpet Inn North Syracuse,North Syracuse,13212,43.10833,-76.14562,2,50.0128,42.7548,1348
+204850,Super 8 Norwich,Norwich,13815,42.54695,-75.52515,2,92.3126,42.1411,1349
+108801,Howard Johnson Hotel Norwich,Norwich,13815,42.53409,-75.52398,2,125.49,59.49,1350
+201376,Super 8 Nyack NY,Nyack,10960,41.09438,-73.93579,2,99.14,75.81,1351
+179885,West Gate Inn Nyack,Nyack,10960,41.09342,-73.9301,3,169.99,89.99,1352
+543603,Time Nyack,Nyack,10960,41.09459,-73.92995,4,249,129,1353
+109732,Quality Inn Gran-View,Ogdensburg,13669,44.66464,-75.5389,2.5,135.0077,115.0066,1354
+139544,Holiday Inn Express Olean,Olean,14760,42.08702,-78.42991,2.5,129.4,110.4,1355
+222131,Microtel Inn & Suites by Wyndham Olean/Allegany,Olean,14760,42.07972,-78.47757,2,100.41,68.41,1356
+223432,Best Western Plus University Inn,Olean,14760,42.07681,-78.46664,2.5,125.42,102.42,1357
+105737,Fairfield Inn & Suites by Marriott Olean,Olean,14760,42.08066,-78.47902,2.5,129.39,124.39,1358
+439971,The Alpine Homestead Bed & Breakfast,Olmstedville,12857,43.77172,-73.92332,3.5,125.17,100.17,1359
+201380,Super 8 Oneida Verona,Oneida,13421-2701,43.07879,-75.65346,2,122.35,76.49,1360
+427240,Courtyard Oneonta,Oneonta,13820,42.44635,-75.05011,3,149.44,101.44,1361
+212094,Clarion Hotel Oneonta,Oneonta,13820,42.45271,-75.06115,3,154.43,130.43,1362
+221575,Hampton Inn Oneonta,Oneonta,13820,42.4442,-75.08639,2.5,184.4,107.4,1363
+107964,Holiday Inn Oneonta-Cooperstown Area,Oneonta,13820,42.44774,-75.02711,3,109.15,84.15,1364
+204849,Super 8 Oneonta/Cooperstown,Oneonta,13820-9802,42.44812,-75.04848,2,86.17,65,1365
+354063,Budget Inn Ontario,Ontario City,14519,43.22541,-77.35749,2,73.15,70.49,1366
+443488,Residence Inn Orangeburg,Orangeburg,10962,41.04078,-73.94893,3,189.1655,139.1244,1367
+107959,Holiday Inn Orangeburg-Rockland/Bergen Co,Orangeburg,10962,41.04568,-73.94524,3,179.43,114.43,1368
+110738,"Motel 6 Oriskany, NY",Oriskany,13424,43.14862,-75.37858,2,52.9923,51.9923,1369
+495561,Best Western Plus Captain's Quarters,Oswego,13126,43.4588,-76.50872,2.5,211.47,154.47,1370
+121547,Knights Inn Oswego East,Oswego,13126,43.46057,-76.49085,2,70.2783,60.2373,1371
+256888,Knights Inn Oswego,Oswego,13126,43.45156,-76.53242,2,80.43,60.43,1372
+575913,Holiday Inn Express & Suites Oswego,Oswego,13126,43.46124,-76.49032,2.5,199.39,179.39,1373
+625741,Quality Inn & Suites Riverfront,Oswego,13126,43.45977,-76.50893,2.5,164,123.2,1374
+535075,K and G Lodge,Oswego,13126,43.48644,-76.4479,2.5,131.16,130.16,1375
+117049,Holiday Inn Express Owego,Owego,13827,42.09587,-76.23181,2.5,124.45,103.45,1376
+249498,Hampton Inn Owego,Owego,13827,42.09826,-76.23453,2.5,149.42,129.42,1377
+600057,Red Roof Inn & Suites Owego,Owego,13827,42.09586,-76.23251,2,105.42,65.42,1378
+322856,Comfort Inn & Suites JFK Airport,Ozone Park,11417,40.67182,-73.84401,2,139.43,129.43,1379
+433061,Days Inn & Suites Ozone Park/JFK Airport,Ozone Park,11417,40.67212,-73.84391,2,180.9324,179.9324,1380
+107930,Ramada Painted Post Corning,Painted Post,14870,42.14773,-77.10869,3,84.49,76.49,1381
+120103,Holiday Inn Express Painted Post-Corning Area,Painted Post,14870,42.17199,-77.10649,2.5,139.41,116.41,1382
+210498,Americas Best Value Inn,Painted Post,14870,42.15398,-77.10207,2,81.45,80.45,1383
+169335,Econo Lodge Painted Post - Corning,Painted Post,14870,42.15483,-77.10919,2,130.38,125.38,1384
+457367,Hampton Inn Corning/Painted Post,Painted Post,14870,42.14869,-77.10741,2.5,149.38,125.38,1385
+591588,Corning Inn,Painted Post,14870,42.15065,-77.10651,2.5,55.08,49.49,1386
+233586,Knights Inn Palatine Bridge,Palatine Bridge,13428,42.90978,-74.56135,1.5,89.2477,79.2192,1387
+197725,HNA Palisades Premiere Conference Center,Palisades,10964,41.01902,-73.92067,3.5,140.18,139.18,1388
+118417,Hilton Pearl River,Pearl River,10965,41.04783,-74.00395,3.5,130.31,129.31,1389
+440279,Holiday Inn Express Hotel & Suites Peekskill - Hudson Valley,Peekskill,10566,41.27783,-73.93914,2.5,234.44,162.44,1390
+219456,Inn on the Hudson,Peekskill,10566,41.29038,-73.9262,2,159,139,1391
+236682,Best Western Plus Vineyard Inn & Suites,Penn Yan,14527,42.65718,-77.05478,2.5,179.41,89.41,1392
+403753,Finger Lakes Bed and Breakfast,Penn Yan,14527,42.65525,-77.05082,3,140.36,139.36,1393
+543629,Microtel Inn & Suites Penn Yan Finger Lakes Region,Penn Yan,14527,42.66074,-77.05495,3,95.47,75.47,1394
+616082,Hampton Inn by Hilton Penn Yan,Penn Yan,14527,42.65166,-77.06232,2.5,210.0108,105.0061,1395
+257876,The Yorkshire Inn,Phelps,14532,42.95093,-77.03195,3,119.35,99.35,1396
+659694,Summer House Guest House,Pine Hill,12465,42.14219,-74.48773,3,165.23,125.24,1397
+420800,Cider Mill Inn Bed and Breakfast,Pine Island,10969,41.27091,-74.47657,3.5,220.4,140.4,1398
+139896,Hilton Garden Inn Rochester Pittsford,Pittsford,14534,43.05823,-77.47351,3,224.44,112.44,1399
+132442,The Del Monte Lodge Renaissance Rochester Hotel & Spa,Pittsford,14534,43.09365,-77.51426,4,269.49,203.49,1400
+273368,Hilton Garden Inn Melville,Plainview,11803,40.78246,-73.44521,3,139.23,125.24,1401
+224957,Homewood Suites Melville,Plainview,11803,40.78257,-73.4452,3,130,129,1402
+107965,Holiday Inn Plainview,Plainview,11803,40.79629,-73.46755,3,191.33,105.33,1403
+142016,Four Points by Sheraton Plainview Long Island,Plainview,11803,40.78503,-73.44557,3,229.35,99.35,1404
+120559,Residence Inn Plainview Long Island,Plainview,11803,40.77351,-73.47743,3,254.209,220.181,1405
+175627,Best Western Plus Plattsburgh,Plattsburgh,12901,44.69754,-73.49333,3,230.0017,98.9951,1406
+206779,La Quinta Inn & Suites Plattsburgh,Plattsburgh,12901,44.70244,-73.4965,2.5,120.39,95.39,1407
+116875,Days Inn & Suites Plattsburgh,Plattsburgh,12901,44.69591,-73.49929,2,134.8929,74.952,1408
+118567,Comfort Inn And Suites,Plattsburgh,12901,44.69685,-73.48801,2.5,159.0083,119.0063,1409
+118436,Econo Lodge Inn And Suites,Plattsburgh,12901,44.69616,-73.50021,2,125,90,1410
+149431,Holiday Inn Plattsburgh - Adirondack Area,Plattsburgh,12901,44.69686,-73.48759,3,150.45,108.45,1411
+224874,Microtel Inn & Suites by Wyndham Plattsburgh,Plattsburgh,12901,44.69604,-73.5022,2,94.1,64.09,1412
+333439,Hampton Inn & Suites Plattsburgh,Plattsburgh,12901,44.706,-73.54645,2.5,159.33,118.33,1413
+171282,Americas Best Value Inn,Plattsburgh,12901,44.69771,-73.49824,1.5,200.34,100.14,1414
+201374,Super 8 Plattsburgh,Plattsburgh,12901,44.72516,-73.43684,2,79.49,55.49,1415
+574086,Fairfield Inn & Suites Plattsburgh,Plattsburgh,12901,44.69587,-73.50438,2.5,129.43,119.43,1416
+198540,Danfords Hotel and Marina,Port Jefferson,11777,40.94775,-73.06842,3.5,160.0083,159.0083,1417
+235930,Americas Best Value Inn - Port Jefferson Station/Long Island,Port Jefferson Station,11776-3075,40.91659,-73.03542,2,110.47,100.47,1418
+120042,Days Inn Port Jervis,Port Jervis,12771,41.35609,-74.66101,2,76.3,75.3,1419
+653102,Knickerbocker Yacht Hotel,Port Washington,11050,40.82894,-73.70264,4,196.17,186.17,1420
+428107,The Clarkson Inn,Potsdam,13676,44.66864,-74.98634,3.5,165,155,1421
+479871,Hampton Inn Potsdam,Potsdam,13676,44.68268,-74.98697,2.5,169.37,134.37,1422
+126553,Days Inn Poughkeepsie,Poughkeepsie,12603,41.69494,-73.89733,2,129.17,87.2,1423
+119064,Courtyard by Marriott Poughkeepsie,Poughkeepsie,12601,41.66991,-73.9294,3,139.49,101.49,1424
+152242,Holiday Inn Express Poughkeepsie,Poughkeepsie,12601,41.67661,-73.92831,2.5,306,227,1425
+127531,Poughkeepsie Inn,Poughkeepsie,12601,41.6673,-73.92977,2,73.49,72.49,1426
+251498,Best Western Plus The Inn & Suites At The Falls,Poughkeepsie,12603,41.65462,-73.87083,2.5,219.99,170.99,1427
+313757,Mercury Grand Hotel,Poughkeepsie,12601,41.63856,-73.91917,3,179.5657,89.7828,1428
+267296,Hampton Inn & Suites Poughkeepsie,Poughkeepsie,12601,41.6493,-73.92682,2.5,139,119,1429
+222606,Residence Inn by Marriott Poughkeepsie,Poughkeepsie,12601,41.66246,-73.9302,3,230.37,229.37,1430
+261546,Red Roof Inn PLUS+ Poughkeepsie,Poughkeepsie,12601,41.64864,-73.92628,2.5,193.06,106.06,1431
+411200,Port Lodge Motel Pulaski,Pulaski,13142,43.56214,-76.18818,2,47.33,46.33,1432
+258252,Knights Inn Pulaski,Pulaski,13142,43.55406,-76.11128,2,90.22,59.99,1433
+201373,Super 8 Pulaski,Pulaski,13142,43.5572,-76.11703,2,105.42,64.42,1434
+229581,Bavarian Manor Country Inn,Purling,12470,42.2849,-74.02475,2.5,205.43,125.43,1435
+251934,Howard Johnson Inn Queens,Queens Village,11428,40.71913,-73.73391,2,179.1,118.21,1436
+244863,Country Inn & Suites By Carlson,Queensbury,12804,43.34828,-73.69019,3,259.18,199.18,1437
+193159,Sleep Inn & Suites,Queensbury,12804,43.33605,-73.67895,2.5,103.71,76.5,1438
+245729,Six Flags Great Escape Lodge & Indoor Waterpark,Queensbury,12804,43.35182,-73.69756,3.5,300.19,220.14,1439
+245512,Quality Inn Glens Falls,Queensbury,12804,43.32992,-73.67972,2.5,81.37,80.37,1440
+219490,"Super 8 Queensbury, Glens Falls",Queensbury,12804,43.29735,-73.68069,2,54.4,46.4,1441
+127538,Econo Lodge,Queensbury,12804,43.32994,-73.67979,2,84.4,64.4,1442
+251452,Red Roof Inn Glens Falls Lake George,Queensbury,12804,43.33809,-73.67998,2,84.995,74.9945,1443
+194911,Days Inn Queensbury / Lake George,Queensbury,12804-7859,43.29671,-73.67786,2,84.99,68.46,1444
+124592,Ramada Queensbury/Lake George,Queensbury,12804,43.32658,-73.68342,2,98.1,94.51,1445
+554037,Duck Lake Campground,Red Creek,13143,43.15113,-76.69378,2,61.11,60.11,1446
+264830,The Red Hook Country Inn,Red Hook,12571,41.99393,-73.87661,3.5,475.46,259.46,1447
+594587,Wyndham Garden LaGuardia South,Rego Park,11374,40.73206,-73.86668,3.5,247.07,237.07,1448
+135154,Capital Inn & Suites,Rensselaer,12144,42.62315,-73.73852,2,91.37,90.37,1449
+194126,Holiday Inn Express Hotel & Suites East Greenbush,Rensselaer,12144,42.63324,-73.70216,2.5,139.34,108.34,1450
+459177,The Lake House Townhouses,Richfield Springs,13439,42.85513,-74.98494,2.5,135.0077,85.0051,1451
+264338,Holiday Inn Express Hotel & Suites Long Island-East End,Riverhead,11901,40.92435,-72.70212,2.5,145.34,104.34,1452
+375494,Hyatt Place Long Island East End,Riverhead,11901,40.91883,-72.65624,3,139,113.05,1453
+347172,Hotel Indigo East End,Riverhead,11901,40.91859,-72.72112,3.5,190.41,170.41,1454
+267432,Hilton Garden Inn Riverhead,Riverhead,11901,40.92247,-72.71548,3,130.38,129.38,1455
+224244,Budget Host East End Hotel in Riverhead,Riverhead,11901,40.91342,-72.66314,2,99,89.1,1456
+671443,Greenview Inn Riverhead,Riverhead,11901,40.91649,-72.69952,2,91.3851,82.2441,1457
+128320,The East Avenue Inn & Suites,Rochester,14607,43.1549,-77.59383,2.5,169.32,129.32,1458
+216168,Country Inn & Suites Rochester-Pittsford-Brighton,Rochester,14618,43.11092,-77.54756,3,109.41,93.41,1459
+354134,"Homewood Suites by Hilton Rochester/Greece, NY",Rochester,14615,43.20838,-77.67168,3,129.45,110.45,1460
+429005,Hampton Inn & Suites Rochester/Henrietta,Rochester,14623,43.08597,-77.61787,2.5,139.32,101.32,1461
+387410,Microtel Inn & Suites by Wyndham Chili/Rochester Airport,Rochester,14624,43.10359,-77.75331,2,109.46,59.46,1462
+129284,Comfort Inn Rochester - Greece,Rochester,14615,43.20538,-77.66757,2.5,114.39,85.39,1463
+138895,Radisson Hotel Rochester Riverside,Rochester,14604,43.15657,-77.6093,3.5,159.33,109.33,1464
+312953,Hampton Inn Rochester Irondequoit,Rochester,14621,43.19804,-77.5821,2.5,189.37,107.37,1465
+107482,DoubleTree by Hilton Rochester,Rochester,14623,43.08714,-77.60648,3.5,169.42,160.42,1466
+153588,Comfort Suites,Rochester,14623,43.07218,-77.62552,2.5,129.38,119.38,1467
+115224,The Strathallan- a DoubleTree by Hilton,Rochester,14607,43.15391,-77.58969,3,215.14,214.14,1468
+129314,Hyatt Regency Rochester,Rochester,14604,43.15672,-77.60853,3.5,224.1843,149.1227,1469
+138572,Best Western Rochester Marketplace Inn,Rochester,14623,43.0873,-77.61196,2.5,80.46,68.46,1470
+272948,Comfort Inn Rochester Monroe Avenue,Rochester,14618,43.11155,-77.54844,2.5,110.49,109.49,1471
+117638,Hampton Inn Rochester - North,Rochester,14615,43.20952,-77.67143,2.5,139.46,113.46,1472
+130240,Extended Stay America - Rochester - Greece,Rochester,14615,43.21039,-77.6716,2.5,90.44,81.44,1473
+138192,Fairfield Inn & Suites by Marriott Rochester West/Greece,Rochester,14615,43.20428,-77.67308,3,130.41,129.41,1474
+130524,Extended Stay America - Rochester - Henrietta,Rochester,14623,43.08708,-77.60141,2.5,81.45,80.45,1475
+169910,Homewood Suites Rochester Henrietta,Rochester,14623,43.07195,-77.62563,3,179.4,118.4,1476
+106426,Rochester Airport Marriott,Rochester,14615,43.20801,-77.67819,3.5,204.32,161.32,1477
+131416,Holiday Inn Express Rochester - Greece,Rochester,14615,43.20591,-77.671,2.5,110.3,109.3,1478
+116619,Residence Inn by Marriott Rochester Henrietta,Rochester,14623,43.08713,-77.59555,3,219.45,135.45,1479
+226958,A B&B at the Edward Harris House Inn,Rochester,14607,43.14963,-77.57425,3,189.1556,179.1474,1480
+203309,Holiday Inn Express Rochester NE- Irondequoit,Rochester,14609,43.19673,-77.57684,2.5,128.9178,98.9369,1481
+203898,Inn on Broadway,Rochester,14607,43.15637,-77.60016,3.5,259.3,179.3,1482
+148867,Holiday Inn Rochester Downtown,Rochester,14614,43.15689,-77.61358,3.5,264.41,124.41,1483
+141982,Residence Inn by Marriott West Rochester,Rochester,14615,43.20505,-77.67328,3,290.46,289.46,1484
+108445,Courtyard by Marriott Rochester East/Penfield,Rochester,14625,43.12531,-77.49861,3,149.48,118.48,1485
+313750,Towpath Motel,Rochester,14618,43.12001,-77.55753,2,69.32,62.5,1486
+447686,"Home2 Suites by Hilton Rochester Henrietta, NY",Rochester,14623,43.0871,-77.61155,2.5,99.45,89.45,1487
+116885,Holiday Inn Express Rochester - University Area,Rochester,14623,43.10678,-77.61744,2.5,129.4,93.4,1488
+131410,"Country Inn & Suites, Rochester Airport-University Area",Rochester,14623,43.10499,-77.61576,3,159.45,95.45,1489
+140588,Holiday Inn Hotel & Suites Rochester - Marketplace,Rochester,14623,43.08711,-77.63184,3,160.33,159.33,1490
+120928,Courtyard by Marriott Rochester Brighton,Rochester,14623,43.10676,-77.61891,3,249.48,224.48,1491
+274680,Staybridge Suites Rochester University,Rochester,14611,43.13036,-77.63633,3,313.99,144.99,1492
+107970,Lexington Hotel Rochester Airport,Rochester,14624,43.13088,-77.65909,3,99.31,79.16,1493
+109893,Best Western The Inn At Rochester Airport,Rochester,14624,43.13098,-77.66585,2.5,110.37,76.49,1494
+161302,Quality Inn Rochester Airport,Rochester,14624,43.13926,-77.66873,2.5,60.3179,59.3179,1495
+121862,Fairfield Inn Marriott Rochester Airport,Rochester,14624,43.1308,-77.66885,2.5,110.31,109.31,1496
+121492,Radisson Hotel Rochester Airport,Rochester,14623,43.09262,-77.6646,3,129.45,103.45,1497
+486336,Hilton Garden Inn Rochester University,Rochester,14620,43.12321,-77.6197,3,219.46,144.46,1498
+458737,Motel 6 Rochester Airport,Rochester,14624,43.13644,-77.66595,2,54.32,53.99,1499
+471903,Econo Lodge,Rochester,14623,43.07268,-77.64454,2,60.35,50.35,1500
+467905,Hilton Garden Inn Rochester Downtown,Rochester,14604,43.1568,-77.60801,3,179.37,118.37,1501
+655236,Hampton Inn by Hilton Rochester Penfield,Rochester,14526,43.12417,-77.48757,2.5,0,0,1502
+201109,Ramada Rock Hill at Sullivan Center,Rock Hill,12775,41.62252,-74.59016,3,160.37,130.37,1503
+629007,Windsong Retreat Bed & Breakfast,Rock Hill,12775,41.62259,-74.60281,3,160.45,159.45,1504
+107947,Best Western Mill River Manor,Rockville Centre,11570,40.65752,-73.64894,2.5,209,156.76,1505
+238377,Ramada Rockville Centre,Rockville Centre,11570,40.65669,-73.62403,2.5,195,131.75,1506
+213132,Hampton Inn & Suites by Hilton Rockville Centre,Rockville Centre,11570,40.65771,-73.65263,2.5,209.37,179.37,1507
+234347,Rockville Centre Inn,Rockville Centre,11570,40.65615,-73.65754,2,140.38,139.38,1508
+478329,Hampton Inn Rome,Rome,13441,43.2226,-75.41947,2.5,169.0299,139.0244,1509
+268734,Wingate By Wyndham Rome,Rome,13441,43.20966,-75.41337,2.5,130.0068,129.0068,1510
+127999,Quality Inn Rome,Rome,13440,43.20877,-75.45959,2.5,99.995,89.9945,1511
+513308,Inn At The Beeches,Rome,13440,43.24422,-75.45662,3.5,135.0077,105.0061,1512
+683337,Red Carpet Inn Rome,Rome,13440,43.19613,-75.45448,2.5,0,0,1513
+215728,Hilton Garden Inn Islip,Ronkonkoma,11779,40.78711,-73.12312,3,120.21,115.21,1514
+199979,Courtyard by Marriott Long Island MacArthur Airport,Ronkonkoma,11779,40.81358,-73.1028,3,194.0094,169.019,1515
+130097,Rodeway Inn Macarthur Airport,Ronkonkoma,11779,40.78832,-73.1385,2,129.21,109.2,1516
+415534,The 1850 House Inn and Tavern,Rosendale,12472,41.84384,-74.08385,2.5,170.47,169.47,1517
+131922,The Roslyn Hotel,Roslyn,11576,40.80104,-73.65231,3.5,518.1,398,1518
+266831,Holiday Inn Express Roslyn - Manhasset Area,Roslyn,11576,40.7983,-73.66413,2.5,149,129,1519
+664075,Hilton Garden Inn Roslyn,Roslyn,11050,40.80783,-73.65685,3,230.35,229.35,1520
+138152,Courtyard by Marriott Rye,Rye,10580,40.98925,-73.67127,3,189.37,135.37,1521
+126894,Doral Arrowwood,Rye Brook,10573,41.04233,-73.68689,4,179.39,139.39,1522
+112928,Hilton Westchester,Rye Brook,10573,41.00834,-73.69043,3.5,184.1514,109.0898,1523
+643617,Goodfellos Suites,Sackets Harbor,13685,43.94741,-76.12043,2.5,280.7209,95.245,1524
+208515,Holiday Inn Express & Suites Salamanca,Salamanca,14779,42.15934,-78.74403,2.5,120.3,91.3,1525
+276048,Seneca Allegany Resort & Casino,Salamanca,14779,42.15301,-78.74631,3.5,325.4,175.4,1526
+408642,Caldwell House Bed & Breakfast,Salisbury Mills,12577,41.43147,-74.1227,3,365.31,215.31,1527
+245489,Kiwassa Lake Bed & Breakfast and Cabins,Saranac Lake,12983,44.28782,-74.15834,3,276.044,275.044,1528
+495558,Best Western Mountain Lake Inn,Saranac Lake,12983,44.31469,-74.11942,2.5,109.0188,99.0099,1529
+106579,The Saratoga Hilton,Saratoga Springs,12866,43.08583,-73.78365,3,330.22,329.22,1530
+369500,Saratoga Downtowner,Saratoga Springs,12866,43.08156,-73.78602,2,91,71,1531
+208256,The Inn at Saratoga,Saratoga Springs,12866,43.07581,-73.78693,3,117,116,1532
+202457,Comfort Inn & Suites,Saratoga Springs,12866,43.10362,-73.75098,2,181.43,180.43,1533
+235766,Best Western Plus Saratoga Springs,Saratoga Springs,12866-6203,43.04328,-73.79067,2.5,213.46,212.46,1534
+169917,Hilton Garden Inn Saratoga Springs,Saratoga Springs,12866,43.06934,-73.78882,3,449.19,329.15,1535
+254042,South Broadway Inn and Spa,Saratoga Springs,12866,43.06946,-73.78876,3,129.42,79.42,1536
+107973,Holiday Inn Saratoga Springs,Saratoga Springs,12866,43.07617,-73.78681,3,343.32,342.32,1537
+220696,Courtyard by Marriott Saratoga Springs,Saratoga Springs,12866,43.08841,-73.77885,3,214,199.01,1538
+239421,Residence Inn by Marriott Saratoga Springs,Saratoga Springs,12866,43.09466,-73.75485,3,168.9472,142.9543,1539
+226135,Union Gables Bed & Breakfast,Saratoga Springs,12866,43.0772,-73.77986,3,226.0123,225.0123,1540
+226529,Saratoga Farmstead B&B,Saratoga Springs,12866,43.09425,-73.82492,3,225.17,175.17,1541
+191897,Community Court at Congress Park,Saratoga Springs,12866,43.07677,-73.78663,2,266.33,265.33,1542
+222582,Gideon Putnam Resort And Spa,Saratoga Springs,12866,43.05784,-73.79818,4,199,119,1543
+484589,Embassy Suites Saratoga Springs,Saratoga Springs,12866,43.07926,-73.78991,3.5,169.39,149.39,1544
+576691,Saratoga Casino Hotel,Saratoga Springs,12866,43.06172,-73.77864,4,255.15,135.15,1545
+675707,The Inn At Five Points,Saratoga Springs,12866,43.07364,-73.78087,3.5,0,0,1546
+137901,Comfort Inn Saugerties,Saugerties,12477,42.08946,-73.97344,2.5,145.41,130.41,1547
+108793,Howard Johnson Inn - Saugerties,Saugerties,12477,42.08768,-73.97406,2,101.0378,100.0378,1548
+552351,Diamond Mills Hotel & Tavern,Saugerties,12477,42.07312,-73.95088,3.5,275.42,250.42,1549
+445579,The Inn at Tamayo,Saugerties,12477,42.07722,-73.95214,3,171.41,170.41,1550
+107974,DoubleTree by Hilton Hotel Schenectady,Schenectady,12308,42.81193,-73.93555,3.5,219.37,152.37,1551
+120801,Days Inn Schenectady,Schenectady,12308,42.81189,-73.93557,2,155.44,71.96,1552
+219452,Quality Inn,Schenectady,12303,42.77245,-73.93658,2.5,99.48,99,1553
+255299,Hampton Inn Schenectady,Schenectady,12305,42.81219,-73.94084,2.5,170.33,169.33,1554
+213801,Super 8 Schenect/Albany Area,Schenectady,12303-4550,42.76408,-73.93932,2,76.17,71.17,1555
+152821,Americas Best Value Inn-Schenectady/Albany West,Schenectady,12307,42.80891,-73.93635,2,90.34,79.99,1556
+629203,Courtyard by Marriott Schenectady at Mohawk Harbor,Schenectady,12305,42.82647,-73.93163,3,195.01,179.01,1557
+215256,The Parker Inn & Suites,Schenectady,12305,42.8125,-73.94141,2.5,155,145,1558
+450205,The Glen Sanders Mansion,Schenectady,12302,42.8232,-73.95959,3.5,179.34,164.09,1559
+153202,Quality Inn & Suites,Schoharie,12157,42.70326,-74.31438,2.5,95.11,85.11,1560
+246266,Tumble Inn,Schroon Lake,12870,43.82622,-73.77301,2.5,116.39,115.39,1561
+313412,Beautiful Valley Guesthouse,Scottsville,14546,43.01957,-77.75361,3,135.1017,115.0867,1562
+409576,Hampton Inn Seneca Falls,Seneca Falls,13148,42.90705,-76.83164,2.5,150.3,149.3,1563
+186583,Microtel Inn & Suites by Wyndham Seneca Falls,Seneca Falls,13148,42.90346,-76.83136,2,90.3,70.3,1564
+244764,John Morris Manor Bed & Breakfast,Seneca Falls,13148,42.92196,-76.75144,3,175.47,125.47,1565
+628892,The Gould Hotel,Seneca Falls,13148,42.91075,-76.79895,3.5,197.37,142.37,1566
+469310,Travelers Inn,Sharon Springs,13326,42.78988,-74.62528,2,139,75,1567
+543350,The Checkered Moose Inn,Sherburne,13460,42.67665,-75.49824,3,140.38,139.38,1568
+142928,Super 8 - Sidney,Sidney,13838,42.29977,-75.41002,2,80.41,52,1569
+130098,Americas Best Value Inn,Smithtown,11787,40.85096,-73.16245,1,101.0044,100.0044,1570
+321427,La Quinta Inn & Suites JFK Airport,South Ozone Park,11420,40.68383,-73.80671,2.5,180.25,179.25,1571
+207190,Econo Lodge South Ozone Park,South Ozone Park,11420,40.67705,-73.82513,2,171.3,170.3,1572
+108267,Holiday Inn Express Stony Brook,South Setauket,11720,40.8887,-73.09714,2.5,160.41,140.41,1573
+187354,The Atlantic,Southampton,11968,40.89541,-72.45411,2.5,119.36,97.36,1574
+653103,Hotel Ze,Southampton,11968,40.88804,-72.38987,3.5,500,499,1575
+189756,Capri,Southampton,11968,40.89922,-72.3893,3.5,800.39,250.12,1576
+437430,Humble Hill Farm and Lodge,Spencer,14883,42.24653,-76.42325,3,125.4,89.4,1577
+124296,Quality Inn,Spring Valley,10977,41.10456,-74.02559,2.5,130.06,100.05,1578
+307687,Microtel Inn & Suites by Wyndham Springville,Springville,14141,42.50103,-78.68973,2,109,67.15,1579
+432374,The Queen of the Catskills B&B,Stamford,12167,42.41357,-74.6253,3,190.4,165.4,1580
+430107,The Catskills B & B,Stamford,12167,42.41362,-74.62526,3,425.35,215.35,1581
+355451,Jennys Country Manor Lodge,Stanfordville,12581,41.9592,-73.74469,2,125.34,105.34,1582
+169764,Comfort Inn Staten Island,Staten Island,10314,40.58687,-74.19143,2.5,109.17,99,1583
+196388,Hilton Garden Inn New York / Staten Island,Staten Island,10314,40.61512,-74.17786,3,258.8951,125.0547,1584
+357240,Ramada Staten Island,Staten Island,10314,40.60841,-74.14661,2.5,350.42,150.42,1585
+275835,Holiday Inn Express Staten Island West,Staten Island,10314,40.58686,-74.19143,2.5,125.0072,91.0045,1586
+258374,Hampton Inn & Suites Staten Island,Staten Island,10314,40.61286,-74.17925,2.5,159.021,129.0155,1587
+251615,Fort Place Bed & Breakfast,Staten Island,10301,40.642,-74.07902,2,121.12,120.12,1588
+477199,The Harbor House Bed & Breakfast,Staten Island,10305,40.61548,-74.06338,2.5,130.19,129.19,1589
+347705,Victorian Bed & Breakfast,Staten Island,10310-1226,40.63676,-74.12343,2.5,145.0234,135.0251,1590
+446805,Holiday Inn Staten Island,Staten Island,10314,40.58683,-74.19143,3,188.9248,101.1155,1591
+617553,1712 House,Stone Ridge,12484,41.86152,-74.14784,3.5,325,275,1592
+624165,ElmRock Inn Bed and Breakfast,Stone Ridge,12484,41.82516,-74.18978,4,225.18,155.18,1593
+426127,Hilton Garden Inn Stony Brook,Stony Brook,11794,40.91355,-73.11899,3,259.3,134.3,1594
+224402,Three Village Inn,Stony Brook,11790,40.91874,-73.14841,3,219.0114,159.0083,1595
+108299,Crowne Plaza Suffern - Mahwah,Suffern,10901,41.11905,-74.11429,3.5,140.41,129.41,1596
+131441,Howard Johnson Inn Suffern,Suffern,10901,41.11533,-74.1137,2,123.3,82.8,1597
+114323,Comfort Inn Syosset,Syosset,11791,40.8087,-73.51577,2.5,119.49,109.49,1598
+178403,Crowne Plaza Syracuse,Syracuse,13210,43.0474,-76.14179,3.5,214.21,144.21,1599
+378394,Hotel Skyler,Syracuse,13210,43.04376,-76.13661,3,249.46,169.46,1600
+119285,Comfort Inn Fairgrounds,Syracuse,13209,43.109,-76.28592,2.5,110.2,99.95,1601
+429774,Courtyard Syracuse Downtown At Armory Square,Syracuse,13202,43.04875,-76.156,3,179.35,125.35,1602
+333091,Hampton Inn and Suites Syracuse Erie Boulevard / I - 690,Syracuse,13224,43.05558,-76.08623,2.5,159.24,125.25,1603
+109589,Comfort Inn Carrier Circle,Syracuse,13206,43.08544,-76.08999,2.5,85.45,79.45,1604
+228391,Parkview Hotel,Syracuse,13210,43.04738,-76.14099,3,160.18,159.18,1605
+127171,Red Roof Inn Syracuse,Syracuse,13206,43.09106,-76.09296,2,67.39,56.99,1606
+139117,Genesee Grande Hotel and Suites,Syracuse,13210,43.04686,-76.13539,3.5,229.25,149,1607
+429536,Residence Inn Syracuse Downtown At Armory Square,Syracuse,13202,43.04904,-76.15554,3,219.35,159.35,1602
+117657,Days Inn Syracuse University,Syracuse,13206,43.09047,-76.09306,2,77.42,53.42,1608
+105928,Sheraton Syracuse University Hotel & Conference Center,Syracuse,13210,43.04115,-76.13446,3.5,164.42,163.42,1609
+194039,Jefferson Clinton Hotel,Syracuse,13202,43.04708,-76.15381,3,208.5359,158.647,1610
+141777,Knights Inn East Syracuse,Syracuse,13206,43.09002,-76.0923,1.5,196.49,187.49,1611
+107979,Clarion Inn & Suites Fairgrounds,Syracuse,13209,43.11594,-76.2714,3,135.42,85.42,1612
+195595,Best Western The Inn At The Fairgrounds,Syracuse,13209,43.08137,-76.22784,2.5,125.42,106.42,1613
+349037,Rodeway Inn,Syracuse,13206,43.08916,-76.09182,1.5,58.43,50.43,1614
+138622,Quality Inn & Suites Downtown,Syracuse,13203,43.05313,-76.14689,2.5,115.39,95.39,1615
+464893,Marriott Syracuse Downtown,Syracuse,13202,43.04566,-76.15088,4,219.01,179.01,1616
+594619,Aloft Syracuse Inner Harbor,Syracuse,13204,43.06016,-76.16262,3,129.33,119.33,1617
+601273,SunView Motel,Tannersville,12485,42.19567,-74.12554,2.5,189.4,99.4,1618
+250447,Sheraton Tarrytown Hotel,Tarrytown,10591,41.0617,-73.83546,3.5,209.19,169.18,1619
+112937,DoubleTree by Hilton Tarrytown,Tarrytown,10591,41.06095,-73.86208,3.5,179.43,174.43,1620
+229454,Tarrytown House Estate on the Hudson,Tarrytown,10591,41.04807,-73.85744,3.5,379.22,159.23,1621
+213065,SpringHill Suites by Marriott Tarrytown/Greenburgh,Tarrytown,10591,41.06335,-73.84404,3,139.1244,119.1079,1622
+106124,Westchester Marriott,Tarrytown,10591,41.06065,-73.83251,3.5,149.3,129.3,1623
+138150,Courtyard by Marriott Tarrytown Greenburgh,Tarrytown,10591,41.06497,-73.84449,3,209.21,147.2,1624
+493919,Castle Hotel & Spa,Tarrytown,10591,41.06767,-73.84709,4.5,709.5836,599.493,1625
+110545,Super 8 Ticonderoga,Ticonderoga,12883,43.85778,-73.43801,2,75.44,67.44,1626
+499109,Best Western Plus Ticonderoga Inn & Suites,Ticonderoga,12883,43.85762,-73.42771,2.5,132.0097,112.0024,1627
+180859,Center Way Hotel Tonawanda,Tonawanda,14150,42.99741,-78.86564,2,67.95,61.16,1628
+218692,Days Inn,Tonawanda,14150,42.98487,-78.82291,2,81.46,80.46,1629
+221319,Econo Lodge Tonawanda,Tonawanda,14150,43.00884,-78.82234,2,100.41,54.41,1630
+248462,Knights Inn Tonawanda/Buffalo Area,Tonawanda,14150,43.00803,-78.82234,1.5,55.36,50.36,1631
+590829,Walk Away Stays Vacation Rentals Buffalo,Tonawanda,14150,42.99703,-78.82628,3.5,110,109,1632
+464101,Royal Inn,Tonawanda,14150,42.99195,-78.82267,2,65.55,50,1633
+476466,Budget Inn,Tonawanda,14150,42.98076,-78.89405,2,60.3,45,1634
+325910,Hilton Garden Inn Troy,Troy,12180,42.73856,-73.672,3,209.4,159.4,1635
+142923,Best Western Plus Franklin Square Inn Troy/Albany,Troy,12180,42.73376,-73.68854,2.5,269.99,152.99,1636
+247756,Olde Judge Mansion,Troy,12180,42.75204,-73.68125,2,105.37,85.37,1637
+209540,Best Western Tully Inn,Tully,13159,42.79843,-76.11919,2.5,145.37,79.37,1638
+106149,Long Island Marriott,Uniondale,11553,40.72305,-73.58653,3.5,249.46,195.46,1639
+422115,Holiday Inn Express & Suites Utica,Utica,13502,43.10979,-75.22082,2.5,164.38,134.38,1640
+201790,Knights Inn Utica,Utica,13502,43.11364,-75.21391,1.5,64.99,54.99,1641
+266256,Days Inn Utica,Utica,13502,43.109,-75.21945,2,107.0086,64.804,1642
+261895,Hampton Inn Utica,Utica,13502,43.11,-75.21844,2.5,136.17,135.17,1643
+209365,Best Western Gateway Adirondack Inn,Utica,13502,43.10968,-75.21886,2.5,122.31,83.31,1644
+126950,Radisson Hotel Utica Centre,Utica,13501,43.1011,-75.23185,3.5,159.36,129.36,1645
+555423,Fairfield Inn & Suites Utica,Utica,13502,43.10717,-75.2218,2.5,184.38,164.38,1646
+307961,Hotel Utica,Utica,13502,43.10235,-75.23091,3,90.39,89.39,1647
+127366,Red Roof Inn Utica,Utica,13502,43.11344,-75.21625,2,69.9935,59.993,1648
+226443,Rosemont Inn Bed & Breakfast,Utica,13501,43.09421,-75.24619,3,135.5,125.02,1649
+116969,Vernon Downs Casino and Hotel,Vernon,13476,43.06847,-75.52552,2.5,116.5855,115.5855,1650
+406054,La Quinta Inn & Suites Verona,Verona,13478,43.12291,-75.59415,2.5,104.0048,98.9951,1651
+259323,Turning Stone Resort And Casino,Verona,13478,43.11308,-75.59473,4,249.013,133.0064,1652
+265277,Microtel Inn & Suites by Wyndham Verona,Verona,13478,43.10784,-75.60269,2.5,109.0058,89.0047,1653
+309919,Fairfield Inn & Suites by Marriott Verona,Verona,13478,43.11601,-75.59723,2.5,144.0068,139.0174,1654
+278591,Comfort Suites,Vestal,13850,42.09685,-75.99195,2.5,129.0068,99.0052,1655
+169113,Courtyard Marriott Binghamton,Vestal,13850,42.09612,-75.97971,3,169.14,78.99,1656
+265995,Holiday Inn Express Hotel & Suites Vestal,Vestal,13850,42.09674,-75.98645,2.5,139.44,99.44,1657
+398674,"Homewood Suites by Hilton Binghamton/Vestal, NY",Vestal,13850,42.09674,-75.98645,3,119.39,109.39,1658
+115195,Residence Inn By Marriott Binghamton University,Vestal,13850,42.09369,-75.95631,3,120.0164,119.0164,1659
+152874,Hampton Inn & Suites Binghamton / Vestal,Vestal,13850,42.09502,-75.98253,2.5,129.37,119.37,1660
+203906,Parkway Inn,Vestal,13850,42.08939,-76.03851,2,56.68,55.68,1661
+129900,Quality Inn & Suites Vestal Binghamton,Vestal,13850,42.0961,-75.97548,3,85.9545,84.9545,1662
+564055,Candlewood Suites Vestal - Binghamton,Vestal,13850,42.0967,-75.98591,2.5,114.9965,96.9953,1663
+139577,Hampton Inn & Suites Rochester/Victor,Victor,14564,43.02184,-77.43977,2.5,169.16,129,1664
+264461,Holiday Inn Express Hotel & Suites Rochester - Victor,Victor,14564,43.00958,-77.44736,2.5,139.46,108.46,1665
+185172,Microtel Inn by Wyndham Victor/Rochester,Victor,14564,43.01025,-77.44636,2,70.45,69.45,1666
+273795,Best Western Plus Victor Inn & Suites,Victor,14564,43.00407,-77.4411,2.5,110.39,76.49,1667
+311972,Homewood Suites by Hilton Rochester Victor,Victor,14564,43.01097,-77.45048,3,139.1145,129.1062,1668
+207269,The Inn And Spa At East Wind,Wading River,11792,40.94403,-72.81838,3.5,109.0058,98.1052,1669
+620954,Tin Brook Bed and Breakfast,Walden,12586,41.55842,-74.15907,3.5,179.1474,115.0947,1670
+430552,Jones Beach Hotel,Wantagh,11793,40.66017,-73.50864,3,135.33,100.33,1671
+247231,Holiday Inn Express Syracuse Fairgrounds,Warners,13164,43.10759,-76.27278,2.5,129.22,119,1672
+254038,Inn at Stony Creek,Warwick,10990,41.30693,-74.39023,3,180.0093,140.0072,1673
+262929,Peach Grove Inn,Warwick,10990,41.25209,-74.32551,4,269.36,239.36,1674
+471701,Oakcliff Bed and Breakfast,Waterford,12188,42.82507,-73.72946,3.5,129.1062,109.0898,1675
+107982,Holiday Inn Waterloo - Seneca Falls,Waterloo,13165,42.90493,-76.83644,3,219.2,99.19,1676
+106537,Ramada Watertown,Watertown,13601,43.97501,-75.95273,2.5,117.37,76.37,1677
+407552,Fairfield Inn & Suites Watertown Thousand Islands,Watertown,13601,43.98171,-75.94122,2.5,140.47,120.47,1678
+259280,Hampton Inn Watertown,Watertown,13601,43.97798,-75.9405,2.5,129.41,93.41,1679
+208714,Best Western Watertown Fort Drum,Watertown,13601,43.97175,-75.91141,2.5,125.3,72.3,1680
+389214,Hilton Garden Inn Watertown/Thousand Islands,Watertown,13601,43.97609,-75.94707,3,178.861,128.9003,1681
+118975,Econo Lodge Watertown,Watertown,13601,43.97684,-75.93581,2,70.41,60.41,1682
+112234,Comfort Inn & Suites Watertown - 1000 Islands,Watertown,13601,43.97794,-75.94043,2,149.2,99,1683
+352813,Rainbow Motel,Watertown,13601,44.02105,-75.93035,2,80.49,50.49,1684
+264382,Holiday Inn Express Hotel & Suites Watertown-Thousand Island,Watertown,13601,43.97837,-75.94658,2.5,159.46,98.46,1685
+264686,Holiday Inn Express & Suites Rochester Webster,Webster,14580,43.21741,-77.44662,2.5,144.0182,105.4109,1686
+232083,Super 8 Webster/Rochester,Webster,14580,43.20366,-77.49341,2,108,72.25,1687
+307592,Hampton Inn Rochester Webster,Webster,14580,43.2161,-77.46129,2.5,134.36,103.36,1688
+123457,Fairfield Inn by Marriott Rochester East,Webster,14580,43.21286,-77.46119,2.5,114.44,97.44,1689
+499039,Rodeway Inn,Weedsport,13166,43.05219,-76.5614,2.5,60.46,55.46,1690
+105444,Days Inn Weedsport,Weedsport,13166,43.05612,-76.55875,2,109,74,1691
+134289,Microtel Inn & Suites by Wyndham Wellsville,Wellsville,14895,42.11694,-77.94087,2,124.34,76.34,1692
+114645,Renaissance Westchester Hotel,West Harrison,10604,41.01556,-73.71787,3.5,174.49,139.49,1693
+213436,HYATT house White Plains,West Harrison,10604,41.01939,-73.72368,3,249.71,129.71,1694
+470593,Thayer Hotel,West Point,10996,41.37748,-73.96168,3.5,254.4,214.4,1695
+415895,Country Inn and Suites Buffalo South,West Seneca,14224,42.83318,-78.78919,2.5,151.2,127.2,1696
+194451,Hampton Inn Buffalo South I90,West Seneca,14224,42.83025,-78.78858,2.5,249.2,149,1697
+310520,Staybridge Suites West Seneca,West Seneca,14224,42.83307,-78.78919,3,251.46,116.46,1698
+333528,"Viana Hotel & Spa, BW Premier Collection",Westbury,11590,40.77629,-73.55967,4,509.99,133.95,1699
+204733,Red Roof PLUS+ Long Island - Garden City,Westbury,11590,40.73797,-73.60283,2.5,158.99,148.99,1700
+217419,Hilton Garden Inn Westbury,Westbury,11590,40.74551,-73.58972,3,209,169,1701
+571546,Courtyard Westbury Long Island,Westbury,11590,40.74554,-73.58937,3.5,269.07,146.05,1702
+273047,The Grassmere Inn,Westhampton Beach,11978-2733,40.80973,-72.63988,2.5,129.0068,89.0047,1703
+432668,Cambria hotel & suites White Plains - Downtown,White Plains,10601,41.03339,-73.76447,3,189.45,149.45,1704
+107901,Crowne Plaza White Plains - Downtown,White Plains,10601,41.03006,-73.76091,3.5,265.4,194.4,1705
+105402,Residence Inn by Marriott White Plains Westchester County,White Plains,10601,41.03464,-73.77011,3,249.08,229.08,1706
+324657,"The Ritz-Carlton New York, Westchester",White Plains,10601,41.03257,-73.76664,5,479.4042,349.2972,1707
+514006,Furnished Quarters Bank Street Commons,White Plains,10606,41.0305,-73.77419,4,180,179,1708
+566642,Global Luxury Apartments in White Plains,White Plains,10606,41.0315,-73.77401,4,175.22,125.15,1709
+629966,Global Luxury Suites at White Plains,White Plains,10601,41.03565,-73.76925,4,190.03,189.03,1710
+196289,Extended Stay America New York City - LaGuardia Airport,Whitestone,11357,40.78267,-73.82539,2.5,116.36,115.36,1711
+207961,Hampton Inn Buffalo-Williamsville,Williamsville,14221,42.96138,-78.74943,2.5,149.46,129.46,1712
+439356,Wyndham Garden Buffalo Williamsville,Williamsville,14221,42.96048,-78.75885,3.5,125.29,120.75,1713
+275844,Staybridge Suites Buffalo-Airport,Williamsville,14221,42.97822,-78.6953,3,124.38,114.38,1714
+116242,La Quinta Inn Buffalo Airport,Williamsville,14221,42.94822,-78.69694,2.5,120.28,119.28,1715
+109108,Clarion Hotel Buffalo Airport,Williamsville,14221,42.95084,-78.69703,2.5,105.1016,90.0524,1716
+224496,"Salvatore's Garden Place Hotel, an Ascend Hotel Collection",Williamsville,14221,42.94702,-78.69688,3,209.38,169.38,1717
+180747,Knights Inn Williamsville Buffalo Airport,Williamsville,14221,42.94996,-78.6932,2,70.49,50.49,1718
+126209,Motel 6 Buffalo Airport,Williamsville,14221,42.94989,-78.69285,2,49.1126,46.0739,1719
+132218,Super 8 Williamsville/Buffalo Airport,Williamsville,14221,42.96355,-78.69687,2,100.43,80.43,1720
+450256,Budget Inn Buffalo Airport,Williamsville,14221,42.96495,-78.68693,2,75,45,1721
+543872,Springhill Suites Buffalo Airport,Williamsville,14221,42.95205,-78.69685,2.5,139.1244,119.1079,1722
+482915,Hospitality Inn - Buffalo Airport,Williamsville,14221,42.94823,-78.69694,2,50,45,1723
+538615,Hotel Vienna,Windham,12496,42.30017,-74.22647,2.5,146.2944,136.2098,1724
+176932,Best Western Woodbury Inn,Woodbury,11797,40.81426,-73.47761,2.5,145.31,103.49,1725
+174107,Days Inn Woodbury,Woodbury,11797,40.8148,-73.47479,2.5,216.1072,119.0106,1726
+202510,The Inn At Fox Hollow Hotel,Woodbury,11797,40.81308,-73.48496,3.5,410.3,310.3,1727
+350370,Quality Inn Woodside,Woodside,11377,40.74253,-73.91164,2.5,160.99,159.99,1728
+548226,Morning Glory B&B Woodstock NY,Woodstock,12498,42.0404,-74.1274,3,250.2057,139.1145,1729
+120952,Days Inn Wurtsboro,Wurtsboro,12790,41.56853,-74.4973,2,184,105.4,1730
+313741,Hampton Inn & Suites Yonkers,Yonkers,10701,40.97056,-73.87737,2.5,169.0299,149.0227,1731
+123055,Royal Regency Hotel,Yonkers,10710,40.95464,-73.864,3.5,160,159,1732
+324259,Residence Inn Yonkers Westchester County,Yonkers,10701,40.97275,-73.88075,3,269.36,169.36,1733
+107949,Ramada Inn Yonkers,Yonkers,10710,40.95466,-73.86483,2.5,129,119,1734
+509723,Hyatt Place New York/Yonkers,Yonkers,10704,40.92625,-73.85438,3,249.31,199.31,1735
+621870,Hampton Inn & Suites Yonkers - Westchester,Yonkers,10710,40.95375,-73.84935,2.5,189.19,134.18,1736
+683329,Courtyard by Marriott Yonkers Westchester County,Yonkers,10701,40.97308,-73.87955,3,0,0,1737
