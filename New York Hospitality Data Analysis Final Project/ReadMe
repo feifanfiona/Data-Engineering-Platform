@@ -1,0 +1,54 @@
+Part A: Data
+
+1.1 Data Preparation: where did we get the data?
+
+Raw Data:
+
+●	Hotel: https://www.programmableweb.com/news/10-top-apis-hotels/brief/2019/09/08
+●	Airbnb: http://insideairbnb.com/get-the-data.html
+●	Hotel properties:https://data.cityofnewyork.us/City-Government/Hotels-Properties-Citywide/tjus-cn27
+●	Restaurant: https://data.cityofnewyork.us/Health/restaurant-data-set-2/f6tk-2b7a
+
+Cleaned Data:
+All cleaned data is in the Project Data Clean folder. (10 csv datasets in total)
+
+1.2 Data Cleaning and transformation: 
+
+1.	All data are in csv format
+2.	Cleaning process:
+a.	Use OpenRefine and Excel to cluster and clean excessive and repetitive rows. 
+b.	Use Python to drop unnecessary columns and conduct a normalization process. See python files
+i.	‘NY Airbnb & NY hotel Clean Steps.html’  for normalization process (in Script Folder) 
+ii.	‘Hotel_properties_clean.html’ (in Script Folder).
+
+1.3 Data Storing
+
+1.	Export from OpenRefine in csv file. 
+2.	Load data into SQL using import wizard.
+3.	Load data into GCP for data storage and future collaboration use. 
+4.	Load data into MongoDB using terminal common lines. 
+5.	Load data into Neo4j using ‘Neo4j.docx’ (In Script Folder). 
+
+In SQL:
+●	Created schema called ‘hotel’
+●	Create database using the SQL file ‘SQL Data Import.sql’ (In Script Folder)
+●	Used SQL queries to generate insights (in BI Folder)	
+In MongoDB
+●	Created schema called ‘NYDB’ using file ‘Mongo DB Data import.txt’ (in Script Folder).
+●	Used MongoDB queries to generate insights (in BI Folder).
+	
+	
+1.4 Visualization & Models
+
+Tableau: Connect SQL server to Tableau 
+●	Workbook ‘Data Visualization.twbx’ (in BI Folder)
+SQL:
+●	Used SQL queries to generate insights (in BI Folder)	
+MongoDB
+●	Used MongoDB queries to generate insights (in BI Folder).
+R
+●	Used R to generate text cloud, r file ‘text-analysis.html’ (in BI Folder). 
+●	Used R to generate linear regression, logistic regression, random forest model ‘R-Analysis.html’ (in BI Folder). 
+
+
+
