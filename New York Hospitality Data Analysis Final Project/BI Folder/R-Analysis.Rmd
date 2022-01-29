@@ -1,0 +1,159 @@
+---
+title: "R Analysis for Airbnb & Hotel"
+author: "Naibo(Ray) Hu"
+date: "12/8/2021"
+output: html_document
+---
+# NY Hotel Analysis
+## Logistic Regression
+```{r}
+hotel_ny <- read.csv("hotel_ny.csv")
+hotel_ny=hotel_ny[-112,]
+hotel_ny$hotel_level=ifelse(hotel_ny$star_rating>=4,1,0)
+
+```
+
+
+```{r}
+set.seed(3112)
+dt1=sort(sample(nrow(hotel_ny),nrow(hotel_ny)*0.8))
+train_hotel=hotel_ny[dt1,]
+test_hotel=hotel_ny[-dt1,]
+```
+
+```{r}
+hotel_ny$hotel_level=as.factor(hotel_ny$hotel_level)
+```
+
+
+```{r}
+lg <-glm(hotel_level~high_rate+low_rate+I(high_rate*low_rate),family = binomial,data=train_hotel)
+
+```
+
+```{r}
+library(caret)
+```
+
+```{r}
+probs2 <- predict(lg,test_hotel,type="response")
+predicted<- ifelse(probs2>0.5,1,0)
+confusionMatrix(as.factor(predicted),as.factor(test_hotel$hotel_level))
+```
+
+```{r}
+summary(lg)
+```
+# NY Airbnb Analysis
+```{r}
+airbnb_ny_all_cleaned <- read.csv("airbnb_ny_all_cleaned.csv", row.names=NULL)
+
+airbnb_ny_analyze=subset(airbnb_ny_all_cleaned,select=-c(2,4,5,10,11,12))
+```
+
+
+```{r}
+#split test and training data 
+set.seed(3112)
+dt1=sort(sample(nrow(airbnb_ny_analyze),nrow(airbnb_ny_analyze)*0.8))
+train_airbnb=airbnb_ny_analyze[dt1,]
+test_airbnb=airbnb_ny_analyze[-dt1,]
+```
+
+## linear regression
+```{r}
+lm1=lm(price~.-Airbnb_id,train_airbnb)
+summary(lm1)
+```
+
+
+## lasso regression
+```{r}
+library(ISLR)
+library(glmnet)
+library(leaps)
+```
+
+```{r}
+train.mat <-  model.matrix(price ~ .- Airbnb_id , data = train_airbnb)
+test.mat <-  model.matrix(price~ .- Airbnb_id , data =test_airbnb)
+grid <-  10 ^ seq(4, -2, length = 100)
+```
+
+```{r}
+mod.lasso <-  cv.glmnet(train.mat, train_airbnb[, "price"], alpha = 1, 
+                        lambda = grid, thresh = 1e-12)
+
+lambda.best <-  mod.lasso$lambda.min
+lambda.best
+```
+
+```{r}
+lasso <- glmnet(train.mat, train_airbnb[,  "price"], alpha = 1, lambda = grid)
+
+lasso.coef <-  predict(lasso, type= "coefficients", s = lambda.best)
+lasso.coef
+```
+
+## R^2 of lasso regression for training data
+
+```{r}
+train_predict=predict(lasso,s=lambda.best,train.mat)
+
+sst=sum((train_airbnb$price-mean(train_airbnb$price))^2)
+
+sse=(sum(train_predict-train_airbnb$price)^2)
+
+rsq=1-(sse/sst)
+rsq
+```
+
+## R^2 of lasso regression for test data
+```{r}
+lasso_predict=predict(lasso,s=lambda.best,test.mat)
+
+sst=sum((test_airbnb$price-mean(test_airbnb$price))^2)
+
+sse=(sum(lasso_predict-test_airbnb$price)^2)
+
+rsq=1-(sse/sst)
+rsq
+```
+
+## Random Forests
+```{r}
+library(randomForest)
+train_airbnb$Borough.Code=factor(train_airbnb$Borough.Code)
+rf <-  randomForest(price ~., 
+                           data=train_airbnb, mtry=2)
+print(rf)
+```
+
+## Stepwise
+```{r}
+library(MASS)
+```
+
+```{r}
+train.control <- trainControl(method = "cv", number = 10)
+step.model <- train(price~.-Airbnb_id, data = train_airbnb,
+                    method = "lmStepAIC", 
+                    trControl = train.control,
+                    trace = FALSE
+                    )
+```
+
+```{r}
+# Model accuracy
+step.model$results
+```
+
+```{r}
+# Final model coefficients
+step.model$finalModel
+```
+
+```{r}
+# Summary of the model
+summary(step.model$finalModel)
+```

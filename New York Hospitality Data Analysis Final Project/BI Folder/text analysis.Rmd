@@ -1,0 +1,99 @@
+---
+title: "text analysis"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(quanteda)
+library(quanteda.textplots)
+library(quanteda.textstats)
+library(readtext)
+```
+
+```{r}
+
+RestaurantData<- read.csv("restaurant_ny.csv", comment.char="#")
+```
+
+```{r}
+RestaurantData$VIOLATION.DESCRIPTION <- as.character(RestaurantData$VIOLATION.DESCRIPTION)
+corp1 <- corpus(RestaurantData, text_field = "VIOLATION.DESCRIPTION")
+print(corp1)
+```
+```{r}
+summary(corp1)
+```
+
+```{r}
+
+corp1_token=tokens(corp1,remove_punct = TRUE)
+
+```
+
+```{r}
+mydfm <- dfm(corp1_token)
+mydfm
+```
+```{r}
+topfeatures(mydfm,20)
+```
+
+```{r}
+mydfm_nostops <- dfm_remove(mydfm, pattern = stopwords("en"))
+mydfm_nostops
+```
+
+
+
+```{r}
+topfeatures(mydfm_nostops,50
+            )
+```
+
+```{r}
+textplot_wordcloud(mydfm_nostops)
+```
+
+```{r}
+kwic(corp1_token, "vermin", 3)
+```
+
+
+```{r}
+kwic(corp1_token, "flies", 3)
+```
+
+
+```{r}
+docvars(corp1)
+```
+
+```{r}
+bad_dict <- dictionary(list(bad = c("vermin", "flies")))
+pos_dfm <- dfm_lookup(mydfm, dictionary = bad_dict)
+dfm_sort(pos_dfm)
+```
+
+
+```{r}
+#Group by restaurant
+dfmat_pres <- corp1 %>% tokens(remove_punct = TRUE,remove_numbers = TRUE) %>% 
+    tokens_remove(stopwords("en")) %>% dfm() %>% dfm_group(groups = DBA)
+```
+
+
+```{r}
+
+pos_dfm <- dfm_lookup(dfmat_pres, dictionary = bad_dict)
+pos_dfm[1:10,]
+```
+
+```{r}
+dfm_sort(pos_dfm,decreasing = TRUE, margin = "features"
+)
+```
+

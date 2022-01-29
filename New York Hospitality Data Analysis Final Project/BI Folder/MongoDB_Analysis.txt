@@ -1,0 +1,21 @@
+use NYDB
+
+/* 1. count number of distinct airbnb_id */
+db.airbnbName.distinct('_id').length
+
+/* 2. count number of distinct hotel names */
+db.hotel.distinct('name').length
+
+/* 3. List total number of hotels that in the city 'New York" ?*/
+db.hotel.find({city : "New York"}).count()
+
+/* 4. Count the number of hotel owner */
+db.hotelPropertyOwner.distinct('OWNER_NAME').length
+
+/* 5. Count the number of Airbnb Host */
+db.airbnbHost.distinct('host_id').length
+
+
+
+
+
